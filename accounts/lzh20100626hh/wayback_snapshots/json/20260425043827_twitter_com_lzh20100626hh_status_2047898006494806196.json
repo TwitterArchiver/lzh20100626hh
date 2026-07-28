@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047489611358728192"
+      ],
+      "media_source_tweet_id": [
+        "2047489613934031033"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2047898006494806196",
+    "created_at": "2026-04-25T04:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047898006494806196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1782932905419046912",
+          "start": 3,
+          "username": "ratshelprats"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lglP6MgXkv",
+          "end": 48,
+          "expanded_url": "https://x.com/ratshelprats/status/2047489613934031033/photo/1",
+          "media_key": "3_2047489611358728192",
+          "start": 25,
+          "url": "https://t.co/lglP6MgXkv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047898006494806196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047489613934031033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ratshelprats: 谢谢你们！🫰 https://t.co/lglP6MgXkv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 188,
+        "media_key": "3_2047489611358728192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGok9BZW8AARZUK.jpg",
+        "width": 268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047489611358728192"
+          ],
+          "media_source_tweet_id": [
+            "2047489613934031033"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2047898006494806196",
+        "created_at": "2026-04-25T04:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047898006494806196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1782932905419046912",
+              "start": 3,
+              "username": "ratshelprats"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lglP6MgXkv",
+              "end": 48,
+              "expanded_url": "https://x.com/ratshelprats/status/2047489613934031033/photo/1",
+              "media_key": "3_2047489611358728192",
+              "start": 25,
+              "url": "https://t.co/lglP6MgXkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047898006494806196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047489613934031033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ratshelprats: 谢谢你们！🫰 https://t.co/lglP6MgXkv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047489611358728192"
+          ]
+        },
+        "author_id": "1782932905419046912",
+        "conversation_id": "2047489613934031033",
+        "created_at": "2026-04-24T01:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T02:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047489613934031033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lglP6MgXkv",
+              "end": 30,
+              "expanded_url": "https://x.com/ratshelprats/status/2047489613934031033/photo/1",
+              "media_key": "3_2047489611358728192",
+              "start": 7,
+              "url": "https://t.co/lglP6MgXkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047489613934031033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 18429,
+          "like_count": 1108,
+          "quote_count": 7,
+          "reply_count": 65,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你们！🫰 https://t.co/lglP6MgXkv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2047867229585523028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 163,
+          "like_count": 1184,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 894
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "2039406392768131266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102949,
+          "following_count": 506,
+          "like_count": 87141,
+          "listed_count": 153,
+          "media_count": 634,
+          "tweet_count": 1482
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

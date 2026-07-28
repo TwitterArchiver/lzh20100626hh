@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2047897594123440149",
+    "created_at": "2026-04-25T04:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047897594123440149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1751595389562822657",
+          "start": 3,
+          "username": "ijia522218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047897594123440149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047412261778505960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ijia522218: 关于普瑞戒断知识\n1.戒断会持续15-20天不等，前三天（一个星期）最难受看个人体质。7~12天有些人可能感觉好了，但是请注意⚠️大概12-15甚至18天戒断会猛猛反过来又戒断一次！请做好准备（经验来自自己和当初戒药吧其他人的集体经验）\n2.普瑞…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2047897594123440149",
+        "created_at": "2026-04-25T04:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047897594123440149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1751595389562822657",
+              "start": 3,
+              "username": "ijia522218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047897594123440149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047412261778505960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ijia522218: 关于普瑞戒断知识\n1.戒断会持续15-20天不等，前三天（一个星期）最难受看个人体质。7~12天有些人可能感觉好了，但是请注意⚠️大概12-15甚至18天戒断会猛猛反过来又戒断一次！请做好准备（经验来自自己和当初戒药吧其他人的集体经验）\n2.普瑞…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751595389562822657",
+        "conversation_id": "2047412261778505960",
+        "created_at": "2026-04-23T20:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047412261778505960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047412261778505960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于普瑞戒断知识\n1.戒断会持续15-20天不等，前三天（一个星期）最难受看个人体质。7~12天有些人可能感觉好了，但是请注意⚠️大概12-15甚至18天戒断会猛猛反过来又戒断一次！请做好准备（经验来自自己和当初戒药吧其他人的集体经验）\n2.普瑞你就算每天吃的少但是只要每天在吃时间越长戒断越猛\n3."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2047867229585523028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 163,
+          "like_count": 1183,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 893
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T13:17:46.000Z",
+        "description": "于世赠大家一场雨🌸\n我是里奈/小女孩 跨性别 可爱的小男孩请与我互fo吧🥺（h男跟我说话暴毙）/点赞就是想和你互动/非常好脾气~/药物安全非专业人士全是亲身体验，想戒断我会给你建议",
+        "id": "1751595389562822657",
+        "name": "里奈🌸",
+        "pinned_tweet_id": "2047155718768537953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047297389053059072/aUi-4z3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 136,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 122
+        },
+        "username": "ijia522218",
+        "verified": false
+      }
+    ]
+  }
+}

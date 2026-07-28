@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2070852490510365041",
+    "created_at": "2026-06-27T12:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070852490510365041"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070852490510365041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊哈哈哈哈好爽好爽好爽好爽。。。哦对的对的这才是我的推特。一红发女子发疯了。什么东西啊突然变成了躁期？我开心的要死。我好想去那个健身房。然后我在推上吃樱花妹做我产品饭然后我现在好爽啊。到家了我要去补番。。但是我还想去健身房怎么办？其实我月卡都到期了只去了一天终于躁期了我真的好开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2070852490510365041",
+        "created_at": "2026-06-27T12:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070852490510365041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070852490510365041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊哈哈哈哈好爽好爽好爽好爽。。。哦对的对的这才是我的推特。一红发女子发疯了。什么东西啊突然变成了躁期？我开心的要死。我好想去那个健身房。然后我在推上吃樱花妹做我产品饭然后我现在好爽啊。到家了我要去补番。。但是我还想去健身房怎么办？其实我月卡都到期了只去了一天终于躁期了我真的好开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 387,
+          "like_count": 1755,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1346
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

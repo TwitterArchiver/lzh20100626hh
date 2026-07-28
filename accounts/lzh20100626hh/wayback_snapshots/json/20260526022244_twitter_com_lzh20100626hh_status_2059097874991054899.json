@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2059010087705022856",
+    "created_at": "2026-05-26T02:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T03:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059097874991054899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046967144798121984",
+          "start": 0,
+          "username": "Cristinai1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059097874991054899",
+    "in_reply_to_user_id": "2046967144798121984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059010087705022856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cristinai1b 我之前缝的是300一个 长春会更贵一点 500上下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2059010087705022856",
+        "created_at": "2026-05-26T02:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059097874991054899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046967144798121984",
+              "start": 0,
+              "username": "Cristinai1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059097874991054899",
+        "in_reply_to_user_id": "2046967144798121984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059010087705022856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cristinai1b 我之前缝的是300一个 长春会更贵一点 500上下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046967144798121984",
+        "conversation_id": "2059010087705022856",
+        "created_at": "2026-05-25T20:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T21:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059010087705022856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059010087705022856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1612,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好崩溃啊痛醒了。我昨天割了几个脂肪层，我要去医院缝合吗……费用大概多少啊。。我好怕花钱。如果不去的话能行吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦 第二人格叫西西 第三人格是♂叫茧 ✨激推@Lxmzs233_明鏡✨@Cristinai1b小綺✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Lxmzs233_"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 343,
+          "like_count": 1479,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1144
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T15:01:30.000Z",
+        "description": "oded餐券嗯嗯好的🚪88/152/188",
+        "id": "2046967144798121984",
+        "name": "Relythat517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046968486316978177/sxvY-Ud2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 244,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 70
+        },
+        "username": "Cristinai1b",
+        "verified": false
+      }
+    ]
+  }
+}

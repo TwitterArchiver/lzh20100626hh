@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001026199360036864",
+        "3_2001026198495965185",
+        "3_2001026199188070403",
+        "3_2001026198315655173"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2001026203067801888",
+    "created_at": "2025-12-16T20:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T21:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001026203067801888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AdrZWlo4kk",
+          "end": 30,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2001026203067801888/photo/1",
+          "media_key": "3_2001026199360036864",
+          "start": 7,
+          "url": "https://t.co/AdrZWlo4kk"
+        },
+        {
+          "display_url": "pic.x.com/AdrZWlo4kk",
+          "end": 30,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2001026203067801888/photo/1",
+          "media_key": "3_2001026198495965185",
+          "start": 7,
+          "url": "https://t.co/AdrZWlo4kk"
+        },
+        {
+          "display_url": "pic.x.com/AdrZWlo4kk",
+          "end": 30,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2001026203067801888/photo/1",
+          "media_key": "3_2001026199188070403",
+          "start": 7,
+          "url": "https://t.co/AdrZWlo4kk"
+        },
+        {
+          "display_url": "pic.x.com/AdrZWlo4kk",
+          "end": 30,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2001026203067801888/photo/1",
+          "media_key": "3_2001026198315655173",
+          "start": 7,
+          "url": "https://t.co/AdrZWlo4kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001026203067801888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱我就给我钱 https://t.co/AdrZWlo4kk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001026199360036864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8USufca4AAmIYM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2001026198495965185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8USucOaMAEdtc-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2001026199188070403",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8USueza4AMlppF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2001026198315655173",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8USubja4AU7R8B.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001026199360036864",
+            "3_2001026198495965185",
+            "3_2001026199188070403",
+            "3_2001026198315655173"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001026203067801888",
+        "created_at": "2025-12-16T20:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T21:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001026203067801888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AdrZWlo4kk",
+              "end": 30,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2001026203067801888/photo/1",
+              "media_key": "3_2001026199360036864",
+              "start": 7,
+              "url": "https://t.co/AdrZWlo4kk"
+            },
+            {
+              "display_url": "pic.x.com/AdrZWlo4kk",
+              "end": 30,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2001026203067801888/photo/1",
+              "media_key": "3_2001026198495965185",
+              "start": 7,
+              "url": "https://t.co/AdrZWlo4kk"
+            },
+            {
+              "display_url": "pic.x.com/AdrZWlo4kk",
+              "end": 30,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2001026203067801888/photo/1",
+              "media_key": "3_2001026199188070403",
+              "start": 7,
+              "url": "https://t.co/AdrZWlo4kk"
+            },
+            {
+              "display_url": "pic.x.com/AdrZWlo4kk",
+              "end": 30,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2001026203067801888/photo/1",
+              "media_key": "3_2001026198315655173",
+              "start": 7,
+              "url": "https://t.co/AdrZWlo4kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001026203067801888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱我就给我钱 https://t.co/AdrZWlo4kk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦  废话/负能",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2000678245419647153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 25,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 44
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

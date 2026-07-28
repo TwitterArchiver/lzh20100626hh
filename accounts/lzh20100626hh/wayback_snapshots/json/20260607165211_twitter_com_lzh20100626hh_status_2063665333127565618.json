@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2063665333127565618",
+    "created_at": "2026-06-07T16:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063665333127565618"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063665333127565618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在想什么？总是会想起旧人啊。明明已经过去了多久 五年？六年？四年？三年？两年？一年？我都想不起来你们的名字了。好多人都在陆陆续续的出现在我的梦里。像走马灯一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2063665333127565618",
+        "created_at": "2026-06-07T16:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063665333127565618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063665333127565618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在想什么？总是会想起旧人啊。明明已经过去了多久 五年？六年？四年？三年？两年？一年？我都想不起来你们的名字了。好多人都在陆陆续续的出现在我的梦里。像走马灯一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 我们一跃而下  \n✨@Cristinai1b小綺✨\n唯一雷点是评价我的眉毛 请不要问我眉毛怎么没了这种话",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 369,
+          "like_count": 1607,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1272
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

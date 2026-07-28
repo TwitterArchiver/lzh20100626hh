@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2043298620225810433",
+    "created_at": "2026-04-12T12:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043298620225810433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3LifeStrongWin…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/3LifeStrongWine/status/2043027844469752265",
+          "start": 34,
+          "url": "https://t.co/iVn5OF4aEE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043298620225810433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043027844469752265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没有再乱谈恋爱了！我已经可以分的清楚爱与爱的区别了！那你回来叭！ https://t.co/iVn5OF4aEE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2043298620225810433",
+        "created_at": "2026-04-12T12:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043298620225810433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3LifeStrongWin…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/3LifeStrongWine/status/2043027844469752265",
+              "start": 34,
+              "url": "https://t.co/iVn5OF4aEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043298620225810433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043027844469752265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没有再乱谈恋爱了！我已经可以分的清楚爱与爱的区别了！那你回来叭！ https://t.co/iVn5OF4aEE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2043027844469752265",
+        "created_at": "2026-04-11T18:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043027844469752265"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043027844469752265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4555,
+          "like_count": 145,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "你真低俗，一旦缺爱了就乱谈恋爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 129,
+          "like_count": 980,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 757
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "如果能有转机我许愿是能够一直看着你的眼睛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2042,
+          "following_count": 120,
+          "like_count": 6924,
+          "listed_count": 12,
+          "media_count": 3536,
+          "tweet_count": 13916
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

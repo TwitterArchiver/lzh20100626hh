@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2050896655919231061",
+    "created_at": "2026-05-03T11:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T12:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050896655919231061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "Kyanu_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050896655919231061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050651176128106632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyanu_tut: 你是一名网蛆，天天在推特朋友圈刷屏狗叫，朋友父母都远离了你，你却以为自己很小众孤立了所有人，以为自己是恶魔。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2050896655919231061",
+        "created_at": "2026-05-03T11:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050896655919231061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "Kyanu_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050896655919231061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050651176128106632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyanu_tut: 你是一名网蛆，天天在推特朋友圈刷屏狗叫，朋友父母都远离了你，你却以为自己很小众孤立了所有人，以为自己是恶魔。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2050651176128106632",
+        "created_at": "2026-05-02T18:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050651176128106632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050651176128106632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1052,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你是一名网蛆，天天在推特朋友圈刷屏狗叫，朋友父母都远离了你，你却以为自己很小众孤立了所有人，以为自己是恶魔。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以梦想是所有人可以一直陪着鸦od｜双相｜解离型身份障碍ADHD｜双性恋｜鸦鸦是主人格第二人格叫西西第三人格是♂叫茧 ✨激推のLxmzs233明鏡✨小繁繁@Cristinai1b✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2047897363289903320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 291,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 949
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 399,
+          "like_count": 700,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 1862
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

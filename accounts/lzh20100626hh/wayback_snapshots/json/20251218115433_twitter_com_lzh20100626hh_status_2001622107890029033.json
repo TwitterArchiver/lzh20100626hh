@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2001622107890029033",
+    "created_at": "2025-12-18T11:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T12:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001622107890029033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1770600121778233344",
+          "start": 3,
+          "username": "hasbeentaken99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001622107890029033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001425434114953321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hasbeentaken99: 喝完酒做爱好爽\n精神和肉体都飘飘然\n而且喝完酒会更耐痛！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2001622107890029033",
+        "created_at": "2025-12-18T11:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T12:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001622107890029033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1770600121778233344",
+              "start": 3,
+              "username": "hasbeentaken99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001622107890029033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001425434114953321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hasbeentaken99: 喝完酒做爱好爽\n精神和肉体都飘飘然\n而且喝完酒会更耐痛！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770600121778233344",
+        "conversation_id": "2001425434114953321",
+        "created_at": "2025-12-17T22:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T23:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001425434114953321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001425434114953321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 22195,
+          "like_count": 149,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "喝完酒做爱好爽\n精神和肉体都飘飘然\n而且喝完酒会更耐痛！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜\n🚪具体请私信！\n喜欢什么风格我都可以尝试！",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001214410438983819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 88
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T23:55:51.000Z",
+        "description": "来这发点墙内不能发的｜认出勿扰｜没门槛因为没门",
+        "id": "1770600121778233344",
+        "name": "幻想试验箱",
+        "pinned_tweet_id": "1778699600121221334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000984715847983104/R6P7h7-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33071,
+          "following_count": 98,
+          "like_count": 6236,
+          "listed_count": 45,
+          "media_count": 82,
+          "tweet_count": 6546
+        },
+        "username": "hasbeentaken99",
+        "verified": false
+      }
+    ]
+  }
+}

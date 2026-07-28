@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2013813081252471203",
+    "created_at": "2026-01-21T03:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T04:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013813081252471203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962893857731084289",
+          "start": 3,
+          "username": "lgnwsmbaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013813081252471203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013684909207101782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lgnwsmbaw: 说异性之间没有纯友谊的人都很恶心，可能一辈子都无法在“友情”这一课题毕业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2013813081252471203",
+        "created_at": "2026-01-21T03:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T04:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013813081252471203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962893857731084289",
+              "start": 3,
+              "username": "lgnwsmbaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013813081252471203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013684909207101782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lgnwsmbaw: 说异性之间没有纯友谊的人都很恶心，可能一辈子都无法在“友情”这一课题毕业"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962893857731084289",
+        "conversation_id": "2013684909207101782",
+        "created_at": "2026-01-20T18:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T19:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013684909207101782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013684909207101782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 336,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "说异性之间没有纯友谊的人都很恶心，可能一辈子都无法在“友情”这一课题毕业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜sh｜双相｜ ADHD   \n同类来互fo 我想和你们交朋友好不好呀 我很温良",
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 47,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 241
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T15:02:38.000Z",
+        "description": "排泄ing……",
+        "id": "1962893857731084289",
+        "location": "水泥平地",
+        "name": "降降火气吧",
+        "pinned_tweet_id": "1980326921239175347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012792043274174465/qRZj-OKp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9304,
+          "following_count": 74,
+          "like_count": 3960,
+          "listed_count": 22,
+          "media_count": 274,
+          "tweet_count": 3344
+        },
+        "username": "lgnwsmbaw",
+        "verified": false
+      }
+    ]
+  }
+}

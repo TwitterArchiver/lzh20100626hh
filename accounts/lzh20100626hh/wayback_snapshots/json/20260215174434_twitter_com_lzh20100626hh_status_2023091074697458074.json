@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2023091074697458074",
+    "created_at": "2026-02-15T17:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T18:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023091074697458074"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023091074697458074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不够成熟？成熟的人是什么样子 成熟的人不可以穿孔染发？我的三观勉强正常？正常的标准是什么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2023091074697458074",
+        "created_at": "2026-02-15T17:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T18:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023091074697458074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023091074697458074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不够成熟？成熟的人是什么样子 成熟的人不可以穿孔染发？我的三观勉强正常？正常的标准是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 鸦会一直陪着所有人｜od｜sh ｜双向｜ADHD｜双性恋｜を激推します✨@Lxmzs233_✨明鏡！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2021707692977660357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 108,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 564
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

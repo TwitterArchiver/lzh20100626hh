@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072271148491165696"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2072271151343288347",
+    "created_at": "2026-07-01T10:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T11:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072271151343288347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VAyVhtBpMt",
+          "end": 55,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2072271151343288347/photo/1",
+          "media_key": "3_2072271148491165696",
+          "start": 32,
+          "url": "https://t.co/VAyVhtBpMt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072271151343288347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我把我的唇钉戴回来了因为透明杆子太痛了。但是它歪了是怎么回事？ https://t.co/VAyVhtBpMt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2215,
+        "media_key": "3_2072271148491165696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIvoVQbUAAYOi4.jpg",
+        "width": 1660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072271148491165696"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2072271151343288347",
+        "created_at": "2026-07-01T10:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072271151343288347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VAyVhtBpMt",
+              "end": 55,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2072271151343288347/photo/1",
+              "media_key": "3_2072271148491165696",
+              "start": 32,
+              "url": "https://t.co/VAyVhtBpMt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072271151343288347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把我的唇钉戴回来了因为透明杆子太痛了。但是它歪了是怎么回事？ https://t.co/VAyVhtBpMt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 388,
+          "like_count": 1772,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1374
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

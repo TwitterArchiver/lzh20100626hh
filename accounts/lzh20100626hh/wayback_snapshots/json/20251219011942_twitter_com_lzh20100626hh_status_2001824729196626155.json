@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001824727019753472"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2001824713321132216",
+    "created_at": "2025-12-19T01:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T02:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001824729196626155"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BcnKaOXP6r",
+          "end": 35,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2001824729196626155/photo/1",
+          "media_key": "3_2001824727019753472",
+          "start": 12,
+          "url": "https://t.co/BcnKaOXP6r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001824729196626155",
+    "in_reply_to_user_id": "2000658943144812548",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001824721332244784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鸦の食用指南！求过🚪呀 https://t.co/BcnKaOXP6r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2001824727019753472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8fo-6ybEAAAfeH.jpg",
+        "width": 712
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2001824718878642176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8fo-cdbkAAR0Ee.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001824727019753472"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2001824713321132216",
+        "created_at": "2025-12-19T01:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T02:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001824729196626155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BcnKaOXP6r",
+              "end": 35,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2001824729196626155/photo/1",
+              "media_key": "3_2001824727019753472",
+              "start": 12,
+              "url": "https://t.co/BcnKaOXP6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001824729196626155",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001824721332244784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鸦の食用指南！求过🚪呀 https://t.co/BcnKaOXP6r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001824718878642176"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2001824713321132216",
+        "created_at": "2025-12-19T01:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T02:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001824721332244784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pMpGDwdjv7",
+              "end": 38,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2001824721332244784/photo/1",
+              "media_key": "3_2001824718878642176",
+              "start": 15,
+              "url": "https://t.co/pMpGDwdjv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001824721332244784",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001824713321132216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🚪 33｜52｜88｜128 https://t.co/pMpGDwdjv7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜\n🚪具体请私信！\n喜欢什么风格我都可以尝试！",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001711040627904694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 100
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

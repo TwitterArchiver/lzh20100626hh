@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2059852956137308186",
+    "created_at": "2026-05-28T04:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059852956137308186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847558125609766914",
+          "start": 3,
+          "username": "HeM3576795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059852956137308186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874665073005990124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HeM3576795: 陪我我想要有人安静的。靠在一起。聊天说话。有人陪我一起。发疯。凌晨三点坐在公园的秋千上聊天。说走就走的瞒着所有人跑到海上看日出。被我叫起来一边骂我一边陪我一起疯。拥抱。早上醒来可以在身边看到对方的脸。拥抱。激烈的。跑着。追着打闹在没人认识的城市。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2059852956137308186",
+        "created_at": "2026-05-28T04:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059852956137308186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847558125609766914",
+              "start": 3,
+              "username": "HeM3576795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059852956137308186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874665073005990124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HeM3576795: 陪我我想要有人安静的。靠在一起。聊天说话。有人陪我一起。发疯。凌晨三点坐在公园的秋千上聊天。说走就走的瞒着所有人跑到海上看日出。被我叫起来一边骂我一边陪我一起疯。拥抱。早上醒来可以在身边看到对方的脸。拥抱。激烈的。跑着。追着打闹在没人认识的城市。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847558125609766914",
+        "conversation_id": "1874665073005990124",
+        "created_at": "2025-01-02T03:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T04:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874665073005990124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874665073005990124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "陪我我想要有人安静的。靠在一起。聊天说话。有人陪我一起。发疯。凌晨三点坐在公园的秋千上聊天。说走就走的瞒着所有人跑到海上看日出。被我叫起来一边骂我一边陪我一起疯。拥抱。早上醒来可以在身边看到对方的脸。拥抱。激烈的。跑着。追着打闹在没人认识的城市。拥抱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦 第二人格叫西西 第三人格是♂叫茧 ✨激推@Lxmzs233_明鏡✨@Cristinai1b小綺✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Lxmzs233_"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 356,
+          "like_count": 1528,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1197
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T08:39:44.000Z",
+        "description": "我叫鱼尾",
+        "id": "1847558125609766914",
+        "name": "魚の尾。",
+        "pinned_tweet_id": "1875843888897990881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859893489074393088/gLrS-9Zk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 23,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 523
+        },
+        "username": "HeM3576795",
+        "verified": false
+      }
+    ]
+  }
+}

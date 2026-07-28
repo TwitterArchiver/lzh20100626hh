@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2016116792339599432",
+    "created_at": "2026-01-27T15:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T16:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016165518693302458"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "美神降",
+          "probability": 0.4797,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954403111008894976",
+          "start": 0,
+          "username": "IX33550336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016165518693302458",
+    "in_reply_to_user_id": "1954403111008894976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016116792339599432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IX33550336 美神降临。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016116784257236992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_qviI9bAAABnix.jpg",
+        "width": 1521
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2016116792339599432",
+        "created_at": "2026-01-27T15:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016165518693302458"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "美神降",
+              "probability": 0.4797,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954403111008894976",
+              "start": 0,
+              "username": "IX33550336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016165518693302458",
+        "in_reply_to_user_id": "1954403111008894976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016116792339599432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IX33550336 美神降临。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016116784257236992"
+          ]
+        },
+        "author_id": "1954403111008894976",
+        "conversation_id": "2016116792339599432",
+        "created_at": "2026-01-27T11:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016116792339599432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8U4HpbPLkq",
+              "end": 31,
+              "expanded_url": "https://x.com/IX33550336/status/2016116792339599432/photo/1",
+              "media_key": "3_2016116784257236992",
+              "start": 8,
+              "url": "https://t.co/8U4HpbPLkq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016116792339599432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天又要買煙了 https://t.co/8U4HpbPLkq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  废话｜od｜sh｜双相｜ ADHD｜｜｜｜尼古丁创造精神  酒精确定思想\n        感觉混沌的时候就用感受疼痛的方式去重新系起与世界的联系｜｜｜\n我跟@Lxmzs233_超级无敌霹雳至尊好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 52,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 297
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T04:43:20.000Z",
+        "description": "🎨✍️｜ed｜sh｜對外是個沒素質的精神病人但我會去誇誇所有萌萌小女孩｜男的或者怪人 滾",
+        "id": "1954403111008894976",
+        "location": "MENTAL ASYLUM",
+        "name": "嘔吐物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957717662638960640/VDy1EMDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 122,
+          "like_count": 5048,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 1896
+        },
+        "username": "IX33550336",
+        "verified": false
+      }
+    ]
+  }
+}

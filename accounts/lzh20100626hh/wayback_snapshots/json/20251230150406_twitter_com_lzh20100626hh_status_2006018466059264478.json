@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2005673492877029510",
+    "created_at": "2025-12-30T15:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T16:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006018466059264478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1212683181029068800",
+          "start": 0,
+          "username": "Cigamipcy1124"
+        },
+        {
+          "end": 25,
+          "id": "1985353024244793345",
+          "start": 15,
+          "username": "Chessiaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006018466059264478",
+    "in_reply_to_user_id": "1212683181029068800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005796058539123191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cigamipcy1124 @Chessiaya 接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2005673492877029510",
+        "created_at": "2025-12-30T15:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006018466059264478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1212683181029068800",
+              "start": 0,
+              "username": "Cigamipcy1124"
+            },
+            {
+              "end": 25,
+              "id": "1985353024244793345",
+              "start": 15,
+              "username": "Chessiaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006018466059264478",
+        "in_reply_to_user_id": "1212683181029068800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005796058539123191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cigamipcy1124 @Chessiaya 接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1212683181029068800",
+        "conversation_id": "2005673492877029510",
+        "created_at": "2025-12-30T00:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T01:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005796058539123191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1985353024244793345",
+              "start": 0,
+              "username": "Chessiaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005796058539123191",
+        "in_reply_to_user_id": "1985353024244793345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13211,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005673492877029510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chessiaya 别说接吻了我之前刚谈的时候光是一起走路都会。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜双性恋",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001214410438983819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 34,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 177
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-02T10:33:02.000Z",
+        "description": "4i/sub/v9爱丽/B2uty/碎碎念清水做饭吐槽推/爱香水爱做甜点爱做饭/阿米和跑三粉自觉绕道^ 本人是男孩子且直的要命谢谢。！",
+        "id": "1212683181029068800",
+        "location": "我很可爱请给我钱。陌生人加v想都别想！/ 互关直接私我好吧！",
+        "name": "呆萌小鹿鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974806175150465024/SHMNB3U4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 141,
+          "like_count": 7830,
+          "listed_count": 1,
+          "media_count": 445,
+          "tweet_count": 3942
+        },
+        "username": "Cigamipcy1124",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T14:27:54.000Z",
+        "description": "08 我只是想要个答案是不是我自找麻烦/私信只回口令/置顶推广自辨",
+        "id": "1985353024244793345",
+        "location": "请爱我吧",
+        "name": "唉",
+        "pinned_tweet_id": "2005972327885070835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004941655280156676/Ygy6PaPR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 287,
+          "like_count": 7346,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 1160
+        },
+        "username": "Chessiaya",
+        "verified": false
+      }
+    ]
+  }
+}

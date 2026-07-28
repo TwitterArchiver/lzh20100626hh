@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2013954679177347283",
+    "created_at": "2026-01-21T12:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T13:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013954679177347283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1989935347317575681",
+          "start": 3,
+          "username": "realhkprincess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013954679177347283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013937730057859109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realhkprincess: 用大量酒精给人中下面的洞消毒会很舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2013954679177347283",
+        "created_at": "2026-01-21T12:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013954679177347283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1989935347317575681",
+              "start": 3,
+              "username": "realhkprincess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013954679177347283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013937730057859109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realhkprincess: 用大量酒精给人中下面的洞消毒会很舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989935347317575681",
+        "conversation_id": "2013937730057859109",
+        "created_at": "2026-01-21T11:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013937730057859109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013937730057859109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 603,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "用大量酒精给人中下面的洞消毒会很舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜sh｜双相｜ ADHD   \n同类来互fo 我想和你们交朋友好不好呀 我很温良",
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 48,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 263
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T05:55:48.000Z",
+        "description": "estp 双/每天能不能涨两个粉/是废话很多的一个女大/会发擦边+日常碎碎念+讲瓜/文科在读/提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/realhkprincess",
+                "end": 23,
+                "expanded_url": "https://ngl.link/realhkprincess",
+                "start": 0,
+                "url": "https://t.co/7NCyR9gIKo"
+              }
+            ]
+          }
+        },
+        "id": "1989935347317575681",
+        "name": "kk小猫派",
+        "pinned_tweet_id": "1996929784274887153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989937055665983490/yOqLlTmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 99,
+          "like_count": 2281,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1998
+        },
+        "url": "https://t.co/7NCyR9gIKo",
+        "username": "realhkprincess",
+        "verified": false
+      }
+    ]
+  }
+}

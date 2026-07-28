@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2017640049677062218",
+    "created_at": "2026-06-19T10:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067920938491064626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1574713115823874048",
+          "start": 0,
+          "username": "OxxAWkIh4kY00d0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067920938491064626",
+    "in_reply_to_user_id": "1574713115823874048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063240113283571805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OxxAWkIh4kY00d0 我去居然翻这么下面。好那个好那个！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2017640049677062218",
+        "created_at": "2026-06-19T10:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067920938491064626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1574713115823874048",
+              "start": 0,
+              "username": "OxxAWkIh4kY00d0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067920938491064626",
+        "in_reply_to_user_id": "1574713115823874048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063240113283571805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OxxAWkIh4kY00d0 我去居然翻这么下面。好那个好那个！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574713115823874048",
+        "conversation_id": "2017640049677062218",
+        "created_at": "2026-06-06T12:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063240113283571805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063240113283571805",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017640049677062218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh 这个时期的鸦鸦好忧郁啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 383,
+          "like_count": 1701,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1317
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T10:50:45.000Z",
+        "description": "有一天我也会成为你的伞骨吗",
+        "id": "1574713115823874048",
+        "name": "大王大王大王！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061968368018808832/Us3zF39P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 41,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 446
+        },
+        "url": "",
+        "username": "OxxAWkIh4kY00d0",
+        "verified": false
+      }
+    ]
+  }
+}

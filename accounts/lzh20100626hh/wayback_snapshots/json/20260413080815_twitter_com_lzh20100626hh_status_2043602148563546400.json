@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2043602148563546400",
+    "created_at": "2026-04-13T08:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043602148563546400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829229897195368455",
+          "start": 3,
+          "username": "OVOTVTOVO_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043602148563546400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043389751513043327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OVOTVTOVO_3: 17岁，还在房间里幻想幸福。17岁还在用眼泪解决问题。17岁，还在责备命运不公。17岁，还是一个傻逼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2043602148563546400",
+        "created_at": "2026-04-13T08:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043602148563546400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1829229897195368455",
+              "start": 3,
+              "username": "OVOTVTOVO_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043602148563546400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043389751513043327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OVOTVTOVO_3: 17岁，还在房间里幻想幸福。17岁还在用眼泪解决问题。17岁，还在责备命运不公。17岁，还是一个傻逼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2043389751513043327",
+        "created_at": "2026-04-12T18:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043389751513043327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043389751513043327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6615,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "17岁，还在房间里幻想幸福。17岁还在用眼泪解决问题。17岁，还在责备命运不公。17岁，还是一个傻逼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 140,
+          "like_count": 1017,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 800
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户2778（祺嘉玛学长）",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032517620172468227/XWboBXgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 68,
+          "like_count": 3159,
+          "listed_count": 4,
+          "media_count": 315,
+          "tweet_count": 4743
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "OVOTVTOVO_3",
+        "verified": false
+      }
+    ]
+  }
+}

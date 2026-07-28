@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2073779964542124528",
+    "created_at": "2026-07-07T05:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074371368301543717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860970079246303232",
+          "start": 0,
+          "username": "1ju3twant2die"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074371368301543717",
+    "in_reply_to_user_id": "1860970079246303232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073779964542124528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ju3twant2die 同款鼠标垫，卧槽，老大你好萌啊，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 899,
+        "media_key": "3_2073779956191297536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeL4f8bgAAd8UY.jpg",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2073779964542124528",
+        "created_at": "2026-07-07T05:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074371368301543717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860970079246303232",
+              "start": 0,
+              "username": "1ju3twant2die"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074371368301543717",
+        "in_reply_to_user_id": "1860970079246303232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073779964542124528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ju3twant2die 同款鼠标垫，卧槽，老大你好萌啊，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073779956191297536"
+          ]
+        },
+        "author_id": "1860970079246303232",
+        "conversation_id": "2073779964542124528",
+        "created_at": "2026-07-05T14:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073779964542124528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m2mtKjdOtV",
+              "end": 32,
+              "expanded_url": "https://x.com/1ju3twant2die/status/2073779964542124528/photo/1",
+              "media_key": "3_2073779956191297536",
+              "start": 9,
+              "url": "https://t.co/m2mtKjdOtV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073779964542124528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 8523,
+          "like_count": 325,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "主播现实就这么蛆 https://t.co/m2mtKjdOtV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 398,
+          "like_count": 1815,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1407
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T08:53:51.000Z",
+        "description": "Post-structuralism｜Anarcho-monarchism｜Psychoanalysis｜Drug｜ Low-Functioning Antisocial Personality Disorder｜Satanism",
+        "id": "1860970079246303232",
+        "name": "RichardRamirezi ⛧",
+        "pinned_tweet_id": "2068266238124638455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068995882398384128/lpqLs0_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 125,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 472
+        },
+        "url": "",
+        "username": "1ju3twant2die",
+        "verified": false
+      }
+    ]
+  }
+}

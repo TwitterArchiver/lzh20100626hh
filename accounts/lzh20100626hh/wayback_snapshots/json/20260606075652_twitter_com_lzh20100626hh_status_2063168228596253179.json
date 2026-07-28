@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2062445880414970103",
+    "created_at": "2026-06-06T07:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063168228596253179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2060275003996942336",
+          "start": 0,
+          "username": "d9o3bo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063168228596253179",
+    "in_reply_to_user_id": "2060275003996942336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062445880414970103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d9o3bo 这张"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063168228596253179].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063168228596253179",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063168228596253179"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062445876581441536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9HmPIbIAAyEZb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062445876581441536"
+          ]
+        },
+        "author_id": "2060275003996942336",
+        "conversation_id": "2062445880414970103",
+        "created_at": "2026-06-04T08:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062445880414970103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7DivC0rRai",
+              "end": 28,
+              "expanded_url": "https://x.com/d9o3bo/status/2062445880414970103/photo/1",
+              "media_key": "3_2062445876581441536",
+              "start": 5,
+              "url": "https://t.co/7DivC0rRai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062445880414970103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "保持氛围 https://t.co/7DivC0rRai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 我们一跃而下  \n✨@Cristinai1b小綺✨\n唯一雷点是评价我的眉毛 请不要问我眉毛怎么没了这种话",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 369,
+          "like_count": 1593,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1264
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T08:20:39.000Z",
+        "description": "死去的亡灵/阴暗的蠕虫/对着墙说话",
+        "id": "2060275003996942336",
+        "name": "十二（自闭版）",
+        "pinned_tweet_id": "2062445880414970103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275274084966400/svgJZZH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 20,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 166
+        },
+        "username": "d9o3bo",
+        "verified": false
+      }
+    ]
+  }
+}

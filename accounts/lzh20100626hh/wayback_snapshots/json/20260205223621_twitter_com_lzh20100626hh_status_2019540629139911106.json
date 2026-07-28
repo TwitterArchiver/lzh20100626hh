@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2019281522906525915",
+    "created_at": "2026-02-05T22:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T23:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019540629139911106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1845304648313323522",
+          "start": 0,
+          "username": "55juzi55_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019540629139911106",
+    "in_reply_to_user_id": "1845304648313323522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019281522906525915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@55juzi55_ 我来了！50 鸦鸦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2019281522906525915",
+        "created_at": "2026-02-05T22:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T23:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019540629139911106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1845304648313323522",
+              "start": 0,
+              "username": "55juzi55_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019540629139911106",
+        "in_reply_to_user_id": "1845304648313323522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019281522906525915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@55juzi55_ 我来了！50 鸦鸦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845304648313323522",
+        "conversation_id": "2019281522906525915",
+        "created_at": "2026-02-05T05:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T06:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019281522906525915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019281522906525915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 28699,
+          "like_count": 144,
+          "quote_count": 10,
+          "reply_count": 59,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "求⭕钱教程...我想吃好吃的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神  酒精确定思想\n 感觉混沌的时候就用感受疼痛的方式去重新系起与世界的联系\n我是鸦鸦  废话｜od｜sh｜双相｜ ADHD｜双性恋\n@Lxmzs233_我两超级无敌霹雳至尊好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2017855976465174746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 97,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 442
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T03:25:04.000Z",
+        "description": "只回粉丝丨欢迎找我聊天丨当朋友圈发丨直接发屌死全家丨🚪可加联系方式丨欢迎美女宝宝互关丨接陪玩丨喜欢帅哥美女丨礼貌一点互相尊重谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/juzi.mood",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/juzi.mood",
+                "start": 0,
+                "url": "https://t.co/ymlXKHVLfK"
+              }
+            ]
+          }
+        },
+        "id": "1845304648313323522",
+        "location": "🚪188/520没什么实际区别 无任何抵扣",
+        "name": "欣欣",
+        "pinned_tweet_id": "2013069149870637529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924989316138467328/bwN8esp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 48,
+          "like_count": 1247,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 755
+        },
+        "url": "https://t.co/ymlXKHVLfK",
+        "username": "55juzi55_",
+        "verified": false
+      }
+    ]
+  }
+}

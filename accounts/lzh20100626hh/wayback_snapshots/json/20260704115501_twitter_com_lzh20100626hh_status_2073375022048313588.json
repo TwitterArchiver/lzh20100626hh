@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2073375022048313588",
+    "created_at": "2026-07-04T11:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073375022048313588"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073375022048313588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我这两天画画画的忘乎所以。本来就想描个梗图没有人知道为什么要扣这么细"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2073375022048313588",
+        "created_at": "2026-07-04T11:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073375022048313588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073375022048313588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这两天画画画的忘乎所以。本来就想描个梗图没有人知道为什么要扣这么细"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 393,
+          "like_count": 1780,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1386
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

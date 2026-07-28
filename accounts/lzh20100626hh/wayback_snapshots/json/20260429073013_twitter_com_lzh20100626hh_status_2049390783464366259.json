@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2049390783464366259",
+    "created_at": "2026-04-29T07:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T08:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049390783464366259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "鸦’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1qKDz…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1qKDzPXvaQwJV",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2049390786006134784/KAchfaru?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2049390786006134784/KAchfaru?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 嗑药聊天",
+          "unwound_url": "https://twitter.com/i/spaces/1qKDzPXvaQwJV/peek",
+          "url": "https://t.co/gH7v8EQ5e9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049390783464366259",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/gH7v8EQ5e9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2049390783464366259",
+        "created_at": "2026-04-29T07:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049390783464366259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "鸦’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1qKDz…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1qKDzPXvaQwJV",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2049390786006134784/KAchfaru?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049390786006134784/KAchfaru?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 嗑药聊天",
+              "unwound_url": "https://twitter.com/i/spaces/1qKDzPXvaQwJV/peek",
+              "url": "https://t.co/gH7v8EQ5e9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049390783464366259",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gH7v8EQ5e9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以梦想是所有人可以一直陪着鸦od｜双相｜解离型身份障碍ADHD｜双性恋｜鸦鸦是主人格第二人格叫西西第三人格是♂叫茧 ✨激推のLxmzs233明鏡✨小繁繁@Cristinai1b✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2047897363289903320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 261,
+          "like_count": 1204,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 928
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

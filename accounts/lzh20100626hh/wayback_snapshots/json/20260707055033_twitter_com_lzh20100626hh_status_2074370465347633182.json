@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2074370465347633182",
+    "created_at": "2026-07-07T05:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074370465347633182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916434358917033984",
+          "start": 3,
+          "username": "BlackTrapTrip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074370465347633182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074011812438438393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BlackTrapTrip: 感觉我唯一吃到过的时代红利就是右美沙芬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2074370465347633182",
+        "created_at": "2026-07-07T05:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074370465347633182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916434358917033984",
+              "start": 3,
+              "username": "BlackTrapTrip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074370465347633182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074011812438438393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BlackTrapTrip: 感觉我唯一吃到过的时代红利就是右美沙芬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916434358917033984",
+        "conversation_id": "2074011812438438393",
+        "created_at": "2026-07-06T06:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074011812438438393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074011812438438393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1930,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我唯一吃到过的时代红利就是右美沙芬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 397,
+          "like_count": 1811,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1406
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T10:09:04.000Z",
+        "description": "同类互关欢迎｜CHN & ENG | she/they❗️非常雷男性称呼｜纯看黄的不要关注我｜pansexual🏳️‍🌈🏳️‍⚧️友好｜可以私信或提问箱但不回答drug相关问题｜fw #shtwt #odtwt #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "shtwt"
+              },
+              {
+                "end": 105,
+                "start": 99,
+                "tag": "odtwt"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blacktraptrip",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blacktraptrip",
+                "start": 0,
+                "url": "https://t.co/2gFjzywDf6"
+              }
+            ]
+          }
+        },
+        "id": "1916434358917033984",
+        "location": "无🚪不接不卖任何",
+        "name": "黒阱👁️8964 of shtwt",
+        "pinned_tweet_id": "2007652695445057657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038091281591619585/JqgLxKnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 200,
+          "like_count": 1267,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/2gFjzywDf6",
+        "username": "BlackTrapTrip",
+        "verified": false
+      }
+    ]
+  }
+}

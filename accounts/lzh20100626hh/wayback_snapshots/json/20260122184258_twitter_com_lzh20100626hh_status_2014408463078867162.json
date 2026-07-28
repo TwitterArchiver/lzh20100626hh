@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2014399704227053905",
+    "created_at": "2026-01-22T18:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T19:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014408463078867162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999504877337395200",
+          "start": 0,
+          "username": "chuan_0123"
+        },
+        {
+          "end": 23,
+          "id": "1467072876100472832",
+          "start": 12,
+          "username": "zhenyaaaa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014408463078867162",
+    "in_reply_to_user_id": "1999504877337395200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014399704227053905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_0123 @zhenyaaaa1 生日快乐哟小川川"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014399700607340544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_SV2t5akAA1OtD.jpg",
+        "width": 964
+      },
+      {
+        "height": 1943,
+        "media_key": "3_2014399701416869888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_SV2w6bAAAPioq.jpg",
+        "width": 1457
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2014399704227053905",
+        "created_at": "2026-01-22T18:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T19:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014408463078867162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999504877337395200",
+              "start": 0,
+              "username": "chuan_0123"
+            },
+            {
+              "end": 23,
+              "id": "1467072876100472832",
+              "start": 12,
+              "username": "zhenyaaaa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014408463078867162",
+        "in_reply_to_user_id": "1999504877337395200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014399704227053905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_0123 @zhenyaaaa1 生日快乐哟小川川"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014399700607340544",
+            "3_2014399701416869888"
+          ]
+        },
+        "author_id": "1999504877337395200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014399704227053905",
+        "created_at": "2026-01-22T18:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T19:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014399704227053905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1467072876100472832",
+              "start": 3,
+              "username": "zhenyaaaa1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qqTksSG2W",
+              "end": 61,
+              "expanded_url": "https://x.com/chuan_0123/status/2014399704227053905/photo/1",
+              "media_key": "3_2014399700607340544",
+              "start": 38,
+              "url": "https://t.co/4qqTksSG2W"
+            },
+            {
+              "display_url": "pic.x.com/4qqTksSG2W",
+              "end": 61,
+              "expanded_url": "https://x.com/chuan_0123/status/2014399704227053905/photo/1",
+              "media_key": "3_2014399701416869888",
+              "start": 38,
+              "url": "https://t.co/4qqTksSG2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014399704227053905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到了@zhenyaaaa1 的小作文还有好朋友们的投喂＝ω＝ 女孩幸福中 https://t.co/4qqTksSG2W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  废话｜od｜sh｜双相｜ ADHD｜｜｜｜尼古丁创造精神  酒精确定思想\n        感觉混沌的时候就用感受疼痛的方式去重新系起与世界的联系｜｜｜\n@Lxmzs233_我俩超级无敌霹雳至尊好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 48,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 289
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川 怎么称呼我都ok！/20↑/病み垢/无言follow抱歉/直fo＝喜欢你/欢迎互fo我想和你们玩/脑子不好啥都发 有自伤&od内容 图片一般不会直接发/接受不了的可以随意拉黑我😸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan_0123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan_0123",
+                "start": 0,
+                "url": "https://t.co/4YtHcQTLzj"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "佛在渡你   提问箱→",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2013616959921779066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009954663387541506/RIm7gJMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 108,
+          "like_count": 2534,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1340
+        },
+        "url": "https://t.co/4YtHcQTLzj",
+        "username": "chuan_0123",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T10:06:54.000Z",
+        "description": "🇨🇳｜中文&日本語(一生懸命勉強中)｜21｜还是不会玩推特当QQ空间发因为这里傻逼同学发现不了我😋",
+        "id": "1467072876100472832",
+        "location": "月球",
+        "name": "我好他妈想睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942804039881662464/U9TEXq5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 127,
+          "like_count": 670,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 306
+        },
+        "username": "zhenyaaaa1",
+        "verified": false
+      }
+    ]
+  }
+}

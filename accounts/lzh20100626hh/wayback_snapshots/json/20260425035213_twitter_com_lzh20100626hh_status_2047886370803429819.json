@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2047858125999636543",
+    "created_at": "2026-04-25T03:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047886370803429819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1966505502919270400",
+          "start": 0,
+          "username": "QiShuiBuXing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047886370803429819",
+    "in_reply_to_user_id": "1966505502919270400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047882022463639860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiShuiBuXing 所以所有人都讨厌我 可怜之人必有可恨之处咯？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2047858125999636543",
+        "created_at": "2026-04-25T03:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047886370803429819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1966505502919270400",
+              "start": 0,
+              "username": "QiShuiBuXing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047886370803429819",
+        "in_reply_to_user_id": "1966505502919270400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047882022463639860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiShuiBuXing 所以所有人都讨厌我 可怜之人必有可恨之处咯？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966505502919270400",
+        "conversation_id": "2047858125999636543",
+        "created_at": "2026-04-25T03:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047882022463639860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047882022463639860",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047858125999636543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh ？ 怎么没有人关注你 但是你这种大部分想找的都是同类吧 所以大家就会觉得自己不合适"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2047867229585523028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 158,
+          "like_count": 1176,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 890
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T14:13:54.000Z",
+        "description": "遇到真爱的喜悦，失去至亲的痛苦，都是化学层面的问题。无非是内啡肽、荷尔蒙、多巴胺以及一系列激素的共同作用，本质上是一群化合物操弄着你的感受。",
+        "id": "1966505502919270400",
+        "name": "百忧解",
+        "pinned_tweet_id": "2020841917156901347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987177220130119680/y9K2ZMnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 1412,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 66
+        },
+        "username": "QiShuiBuXing",
+        "verified": false
+      }
+    ]
+  }
+}

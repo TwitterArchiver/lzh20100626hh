@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022048587215970304",
+        "3_2022048587342131201",
+        "3_2022048587211825152",
+        "3_2022048587207598080"
+      ],
+      "media_source_tweet_id": [
+        "2022048632732819672",
+        "2022048632732819672",
+        "2022048632732819672",
+        "2022048632732819672"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2022124789377425616",
+    "created_at": "2026-02-13T01:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T02:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022124789377425616"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "门槛"
+        },
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "半绿"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "纯绿"
+        },
+        {
+          "end": 47,
+          "start": 45,
+          "tag": "互"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "hu"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1814254961607487489",
+          "start": 3,
+          "username": "deku01234567"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ru2HFB0Xmo",
+          "end": 97,
+          "expanded_url": "https://x.com/deku01234567/status/2022048632732819672/photo/1",
+          "media_key": "3_2022048587215970304",
+          "start": 74,
+          "url": "https://t.co/Ru2HFB0Xmo"
+        },
+        {
+          "display_url": "pic.x.com/Ru2HFB0Xmo",
+          "end": 97,
+          "expanded_url": "https://x.com/deku01234567/status/2022048632732819672/photo/1",
+          "media_key": "3_2022048587342131201",
+          "start": 74,
+          "url": "https://t.co/Ru2HFB0Xmo"
+        },
+        {
+          "display_url": "pic.x.com/Ru2HFB0Xmo",
+          "end": 97,
+          "expanded_url": "https://x.com/deku01234567/status/2022048632732819672/photo/1",
+          "media_key": "3_2022048587211825152",
+          "start": 74,
+          "url": "https://t.co/Ru2HFB0Xmo"
+        },
+        {
+          "display_url": "pic.x.com/Ru2HFB0Xmo",
+          "end": 97,
+          "expanded_url": "https://x.com/deku01234567/status/2022048632732819672/photo/1",
+          "media_key": "3_2022048587207598080",
+          "start": 74,
+          "url": "https://t.co/Ru2HFB0Xmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022124789377425616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022048632732819672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deku01234567: #门槛 #门槛妹 #爸爸活 #妈妈活 #半绿 #纯绿 #互 #hu \n我是猫猫 回归啦！欢迎爸爸妈妈们入我门🥹 https://t.co/Ru2HFB0Xmo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022124789377425616].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022124789377425616",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022124789377425616"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022048587215970304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_Ceg-WoAApvkU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2022048587342131201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_CehcbsAEYpVz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022048587211825152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_Ceg9XYAA5U7r.jpg",
+        "width": 1132
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2022048587207598080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_Ceg8W4AAT7O3.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022048587215970304",
+            "3_2022048587342131201",
+            "3_2022048587211825152",
+            "3_2022048587207598080"
+          ]
+        },
+        "author_id": "1814254961607487489",
+        "conversation_id": "2022048632732819672",
+        "created_at": "2026-02-12T20:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T21:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022048632732819672"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "门槛"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "半绿"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "纯绿"
+            },
+            {
+              "end": 29,
+              "start": 27,
+              "tag": "互"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "hu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ru2HFB0Xmo",
+              "end": 79,
+              "expanded_url": "https://x.com/deku01234567/status/2022048632732819672/photo/1",
+              "media_key": "3_2022048587215970304",
+              "start": 56,
+              "url": "https://t.co/Ru2HFB0Xmo"
+            },
+            {
+              "display_url": "pic.x.com/Ru2HFB0Xmo",
+              "end": 79,
+              "expanded_url": "https://x.com/deku01234567/status/2022048632732819672/photo/1",
+              "media_key": "3_2022048587342131201",
+              "start": 56,
+              "url": "https://t.co/Ru2HFB0Xmo"
+            },
+            {
+              "display_url": "pic.x.com/Ru2HFB0Xmo",
+              "end": 79,
+              "expanded_url": "https://x.com/deku01234567/status/2022048632732819672/photo/1",
+              "media_key": "3_2022048587211825152",
+              "start": 56,
+              "url": "https://t.co/Ru2HFB0Xmo"
+            },
+            {
+              "display_url": "pic.x.com/Ru2HFB0Xmo",
+              "end": 79,
+              "expanded_url": "https://x.com/deku01234567/status/2022048632732819672/photo/1",
+              "media_key": "3_2022048587207598080",
+              "start": 56,
+              "url": "https://t.co/Ru2HFB0Xmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022048632732819672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛 #门槛妹 #爸爸活 #妈妈活 #半绿 #纯绿 #互 #hu \n我是猫猫 回归啦！欢迎爸爸妈妈们入我门🥹 https://t.co/Ru2HFB0Xmo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 鸦会一直陪着所有人｜od｜sh ｜双向｜ADHD｜双性恋｜を激推します✨@Lxmzs233_✨明鏡！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2021707692977660357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 107,
+          "like_count": 643,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 557
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T11:04:35.000Z",
+        "description": "猫猫 我来为爸爸们提供情绪价值 坐标重庆主城 🚪52/70/100/200/600 600包天纯绿 帮忙hu啦谢谢宝宝们",
+        "id": "1814254961607487489",
+        "name": "猫猫",
+        "pinned_tweet_id": "2022048632732819672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021606446077759488/Ug8xNYA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 10,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "deku01234567",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2004297411146273239",
+    "created_at": "2025-12-25T21:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T22:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004297411146273239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2000658943144812548",
+          "start": 3,
+          "username": "lzh20100626hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004297411146273239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004221625135518095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lzh20100626hh: 23t普瑞没药效后面补"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2004297411146273239",
+        "created_at": "2025-12-25T21:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T22:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004297411146273239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2000658943144812548",
+              "start": 3,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004297411146273239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004221625135518095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lzh20100626hh: 23t普瑞没药效后面补"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2004221625135518095",
+        "created_at": "2025-12-25T16:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T17:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004221625135518095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004221625135518095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "23t普瑞没药效后面补"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜双性恋",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001214410438983819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 33,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 158
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

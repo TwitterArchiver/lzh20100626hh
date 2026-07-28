@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057644879984144384"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2057644894001496549",
+    "created_at": "2026-05-22T02:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T03:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057644894001496549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j1v84S9INx",
+          "end": 27,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2057644894001496549/photo/1",
+          "media_key": "3_2057644879984144384",
+          "start": 4,
+          "url": "https://t.co/j1v84S9INx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057644894001496549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "操你妈 https://t.co/j1v84S9INx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057644879984144384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI45HdFbMAAbVU5.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057644879984144384"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2057644894001496549",
+        "created_at": "2026-05-22T02:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057644894001496549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j1v84S9INx",
+              "end": 27,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2057644894001496549/photo/1",
+              "media_key": "3_2057644879984144384",
+              "start": 4,
+              "url": "https://t.co/j1v84S9INx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057644894001496549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈 https://t.co/j1v84S9INx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2056744177984266427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 320,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1086
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

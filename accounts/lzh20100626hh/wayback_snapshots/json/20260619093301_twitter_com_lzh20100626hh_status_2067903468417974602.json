@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2067808988658536923",
+    "created_at": "2026-06-19T09:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067903468417974602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1773337990200459265",
+          "start": 0,
+          "username": "jnglu196966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067903468417974602",
+    "in_reply_to_user_id": "1773337990200459265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067808988658536923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jnglu196966 求原图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_2067808974515453952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJVTn1bwAAO1Q4.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2067808988658536923",
+        "created_at": "2026-06-19T09:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067903468417974602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1773337990200459265",
+              "start": 0,
+              "username": "jnglu196966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067903468417974602",
+        "in_reply_to_user_id": "1773337990200459265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067808988658536923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jnglu196966 求原图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067808974515453952"
+          ]
+        },
+        "author_id": "1773337990200459265",
+        "conversation_id": "2067808988658536923",
+        "created_at": "2026-06-19T03:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067808988658536923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dx6caByIKJ",
+              "end": 36,
+              "expanded_url": "https://x.com/jnglu196966/status/2067808988658536923/photo/1",
+              "media_key": "3_2067808974515453952",
+              "start": 13,
+              "url": "https://t.co/Dx6caByIKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067808988658536923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没想到能有一条线串起来了 https://t.co/Dx6caByIKJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 383,
+          "like_count": 1699,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1316
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T13:15:07.000Z",
+        "description": "infp/观鸟人/经常错字🙏请见谅\n喜欢动物、历史/偶尔发点摸鱼（有🔞内容）/有对象了⭐\n把这当另一种的碎碎念备忘录了/我啥都发，不过你要是愿意讨论动物，我非常欢迎/私信看心情回",
+        "id": "1773337990200459265",
+        "location": "It's too bad bad bad",
+        "name": "鲸落（限流版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773338711243268096/d6yf95W2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 121,
+          "like_count": 13647,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 2619
+        },
+        "url": "",
+        "username": "jnglu196966",
+        "verified": false
+      }
+    ]
+  }
+}

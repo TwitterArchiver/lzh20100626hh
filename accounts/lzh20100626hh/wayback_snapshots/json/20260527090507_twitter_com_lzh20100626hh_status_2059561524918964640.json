@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057753063570673664",
+        "3_2057753070885572608"
+      ],
+      "media_source_tweet_id": [
+        "2057753073922277842",
+        "2057753073922277842"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059561524918964640",
+    "created_at": "2026-05-27T09:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059561524918964640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2016175327069011971",
+          "start": 3,
+          "username": "shanhu_mi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E3cTjRMc68",
+          "end": 130,
+          "expanded_url": "https://x.com/shanhu_mi/status/2057753073922277842/photo/1",
+          "media_key": "3_2057753063570673664",
+          "start": 107,
+          "url": "https://t.co/E3cTjRMc68"
+        },
+        {
+          "display_url": "pic.x.com/E3cTjRMc68",
+          "end": 130,
+          "expanded_url": "https://x.com/shanhu_mi/status/2057753073922277842/photo/1",
+          "media_key": "3_2057753070885572608",
+          "start": 107,
+          "url": "https://t.co/E3cTjRMc68"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059561524918964640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057753073922277842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shanhu_mi: 叫我板栗就好！\n年龄你猜。\nod。 自残。抽烟。\n可能会有一些多负能吧\n我比较喜欢自言自语\n同类想互fo 私信说一下就好！\n欢迎互转呀\n过🚪来聊天的话一般都会秒回的呀\n没回就是在睡觉 https://t.co/E3cTjRMc68"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_2057753063570673664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6bgkWaEAAienC.jpg",
+        "width": 1072
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057753070885572608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6bg_makAAbwTh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057753063570673664",
+            "3_2057753070885572608"
+          ],
+          "media_source_tweet_id": [
+            "2057753073922277842",
+            "2057753073922277842"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059561524918964640",
+        "created_at": "2026-05-27T09:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059561524918964640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016175327069011971",
+              "start": 3,
+              "username": "shanhu_mi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E3cTjRMc68",
+              "end": 130,
+              "expanded_url": "https://x.com/shanhu_mi/status/2057753073922277842/photo/1",
+              "media_key": "3_2057753063570673664",
+              "start": 107,
+              "url": "https://t.co/E3cTjRMc68"
+            },
+            {
+              "display_url": "pic.x.com/E3cTjRMc68",
+              "end": 130,
+              "expanded_url": "https://x.com/shanhu_mi/status/2057753073922277842/photo/1",
+              "media_key": "3_2057753070885572608",
+              "start": 107,
+              "url": "https://t.co/E3cTjRMc68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059561524918964640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057753073922277842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shanhu_mi: 叫我板栗就好！\n年龄你猜。\nod。 自残。抽烟。\n可能会有一些多负能吧\n我比较喜欢自言自语\n同类想互fo 私信说一下就好！\n欢迎互转呀\n过🚪来聊天的话一般都会秒回的呀\n没回就是在睡觉 https://t.co/E3cTjRMc68"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057753063570673664",
+            "3_2057753070885572608"
+          ]
+        },
+        "author_id": "2016175327069011971",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057753073922277842",
+        "created_at": "2026-05-22T09:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057753073922277842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E3cTjRMc68",
+              "end": 115,
+              "expanded_url": "https://x.com/shanhu_mi/status/2057753073922277842/photo/1",
+              "media_key": "3_2057753063570673664",
+              "start": 92,
+              "url": "https://t.co/E3cTjRMc68"
+            },
+            {
+              "display_url": "pic.x.com/E3cTjRMc68",
+              "end": 115,
+              "expanded_url": "https://x.com/shanhu_mi/status/2057753073922277842/photo/1",
+              "media_key": "3_2057753070885572608",
+              "start": 92,
+              "url": "https://t.co/E3cTjRMc68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057753073922277842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3033,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "叫我板栗就好！\n年龄你猜。\nod。 自残。抽烟。\n可能会有一些多负能吧\n我比较喜欢自言自语\n同类想互fo 私信说一下就好！\n欢迎互转呀\n过🚪来聊天的话一般都会秒回的呀\n没回就是在睡觉 https://t.co/E3cTjRMc68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦 第二人格叫西西 第三人格是♂叫茧 ✨激推@Lxmzs233_明鏡✨@Cristinai1b小綺✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Lxmzs233_"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 345,
+          "like_count": 1506,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1168
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T15:44:09.000Z",
+        "description": "叫我板栗就好！\n年龄你猜。\nod。自残。抽烟 \n我比较喜欢自言自语 \n欢迎同类互fo呀 私信说一下就好 ！\n🚪13.14 好友位和圈圈\n🚪52 被动聊天\n🚪152 主动聊天分享日常",
+        "id": "2016175327069011971",
+        "name": "T^",
+        "pinned_tweet_id": "2057753073922277842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043617995340288000/Ggj4GW0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 165,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 856
+        },
+        "username": "shanhu_mi",
+        "verified": false
+      }
+    ]
+  }
+}

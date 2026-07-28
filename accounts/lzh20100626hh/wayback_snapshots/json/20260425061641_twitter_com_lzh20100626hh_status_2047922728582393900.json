@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2047897363289903320",
+    "created_at": "2026-04-25T06:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047922728582393900"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047922728582393900",
+    "in_reply_to_user_id": "2000658943144812548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047897363289903320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抽完为止"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047897359141781504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuXzEQbQAAurI2.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047897354267987968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuXyyGbEAA09r0.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047897354263781376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuXyyFa4AASiOt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2047897355526225920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuXy2yaQAAbUkT.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2047897363289903320",
+        "created_at": "2026-04-25T06:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047922728582393900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047922728582393900",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047897363289903320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抽完为止"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047897359141781504",
+            "3_2047897354267987968",
+            "3_2047897354263781376",
+            "3_2047897355526225920"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2047897363289903320",
+        "created_at": "2026-04-25T04:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047897363289903320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xa47gWCaDk",
+              "end": 180,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2047897363289903320/photo/1",
+              "media_key": "3_2047897359141781504",
+              "start": 157,
+              "url": "https://t.co/xa47gWCaDk"
+            },
+            {
+              "display_url": "pic.x.com/xa47gWCaDk",
+              "end": 180,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2047897363289903320/photo/1",
+              "media_key": "3_2047897354267987968",
+              "start": 157,
+              "url": "https://t.co/xa47gWCaDk"
+            },
+            {
+              "display_url": "pic.x.com/xa47gWCaDk",
+              "end": 180,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2047897363289903320/photo/1",
+              "media_key": "3_2047897354263781376",
+              "start": 157,
+              "url": "https://t.co/xa47gWCaDk"
+            },
+            {
+              "display_url": "pic.x.com/xa47gWCaDk",
+              "end": 180,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2047897363289903320/photo/1",
+              "media_key": "3_2047897355526225920",
+              "start": 157,
+              "url": "https://t.co/xa47gWCaDk"
+            },
+            {
+              "display_url": "x.com/lzh20100626hh/…",
+              "end": 204,
+              "expanded_url": "https://twitter.com/lzh20100626hh/status/2047858125999636543",
+              "start": 181,
+              "url": "https://t.co/ugDHyqb6Qn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047897363289903320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 784,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047858125999636543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转帖点赞评论抽小红包 \n交到朋友抽\n一等奖散装pr和愈美如果是假药随便你怎么搞我都好有原盒（或52r \n二等奖52\n 三等奖30r\n四等奖13.14\n10年ip吉林长春下面小县城\n穿孔｜解离｜双性恋\n长春附近都可以最好可以一起戒药一起抽烟喝酒 什么性别都可以\n我可以给你买烟买酒爆金币我经济范围内任何你喜欢的礼物 https://t.co/xa47gWCaDk https://t.co/ugDHyqb6Qn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2047897363289903320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 172,
+          "like_count": 1200,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 902
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

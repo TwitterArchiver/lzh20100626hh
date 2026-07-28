@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2064361288134795717",
+    "created_at": "2026-06-10T04:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064571667591110879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "559183946",
+          "start": 0,
+          "username": "quotetoponder"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064571667591110879",
+    "in_reply_to_user_id": "559183946",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064361288134795717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quotetoponder Hiii"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2064361285370732544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYVps6XYAAJNh7.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2064361288134795717",
+        "created_at": "2026-06-10T04:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064571667591110879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "559183946",
+              "start": 0,
+              "username": "quotetoponder"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064571667591110879",
+        "in_reply_to_user_id": "559183946",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064361288134795717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quotetoponder Hiii"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064361285370732544"
+          ]
+        },
+        "author_id": "559183946",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1242158204751990788",
+              "name": "Inspirational quotes"
+            }
+          }
+        ],
+        "conversation_id": "2064361288134795717",
+        "created_at": "2026-06-09T14:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064361288134795717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hqRirITbC9",
+              "end": 77,
+              "expanded_url": "https://x.com/quotetoponder/status/2064361288134795717/photo/1",
+              "media_key": "3_2064361285370732544",
+              "start": 54,
+              "url": "https://t.co/hqRirITbC9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064361288134795717",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 56478,
+          "like_count": 3943,
+          "quote_count": 43,
+          "reply_count": 1683,
+          "retweet_count": 211
+        },
+        "reply_settings": "everyone",
+        "text": "33 years of bad luck if you don't say “Hiii” my puppy https://t.co/hqRirITbC9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 我们一跃而下",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 377,
+          "like_count": 1647,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1299
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-21T04:11:06.000Z",
+        "description": "Sharing inspirational quotes in 280 characters or less mostly found online. Page since 2012. Owner: @edongbelaro #QuoteToPonder \n\n✉ quotetoponder@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 113,
+                "tag": "QuoteToPonder"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "edongbelaro"
+              }
+            ]
+          }
+        },
+        "id": "559183946",
+        "name": "Deep Thoughts 💭",
+        "pinned_tweet_id": "2025292793610969430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056800827910586368/oPXmTfDW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026118,
+          "following_count": 52,
+          "like_count": 624,
+          "listed_count": 496,
+          "media_count": 7702,
+          "tweet_count": 48548
+        },
+        "username": "quotetoponder",
+        "verified": true
+      }
+    ]
+  }
+}

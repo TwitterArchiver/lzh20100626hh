@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2050910415107060065",
+    "created_at": "2026-05-03T12:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T13:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050910415107060065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1666072064481173506",
+          "start": 3,
+          "username": "shiyiyi22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050910415107060065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050222630457012272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiyiyi22: 微信好安静 QQ好安静 抖音好安静 推特好安静 我是社交孤儿吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2050910415107060065",
+        "created_at": "2026-05-03T12:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050910415107060065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1666072064481173506",
+              "start": 3,
+              "username": "shiyiyi22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050910415107060065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050222630457012272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiyiyi22: 微信好安静 QQ好安静 抖音好安静 推特好安静 我是社交孤儿吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666072064481173506",
+        "conversation_id": "2050222630457012272",
+        "created_at": "2026-05-01T14:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050222630457012272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050222630457012272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 23494,
+          "like_count": 603,
+          "quote_count": 11,
+          "reply_count": 134,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "微信好安静 QQ好安静 抖音好安静 推特好安静 我是社交孤儿吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以梦想是所有人可以一直陪着鸦od｜双相｜解离型身份障碍ADHD｜双性恋｜鸦鸦是主人格第二人格叫西西第三人格是♂叫茧 ✨激推のLxmzs233明鏡✨小繁繁@Cristinai1b✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2047897363289903320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 292,
+          "like_count": 1250,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 953
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T13:18:49.000Z",
+        "description": "这里是小语/未成年女高/泛性恋/🉑包容你的一切/把推当朋友圈发 /170+的萌妹 体重为良子/随机掉落精修自拍ing/🈚🚪/主页有软色情的东西女宝互fo需要注意一下呀！！！/",
+        "id": "1666072064481173506",
+        "location": "哥伦比亚",
+        "name": "迟迟不语",
+        "pinned_tweet_id": "2046566080244772902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046051756254396416/LtF-S3kD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 183,
+          "like_count": 3297,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3780
+        },
+        "username": "shiyiyi22",
+        "verified": false
+      }
+    ]
+  }
+}

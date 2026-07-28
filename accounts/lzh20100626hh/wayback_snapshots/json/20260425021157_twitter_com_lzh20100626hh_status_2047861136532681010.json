@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2047861136532681010",
+    "created_at": "2026-04-25T02:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T03:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047861136532681010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2046995754498084864",
+          "start": 3,
+          "username": "Lizi__QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047861136532681010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047704113392312370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lizi__QwQ: 好想现实有人陪我割手嗑药。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2047861136532681010",
+        "created_at": "2026-04-25T02:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047861136532681010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2046995754498084864",
+              "start": 3,
+              "username": "Lizi__QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047861136532681010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047704113392312370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lizi__QwQ: 好想现实有人陪我割手嗑药。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046995754498084864",
+        "conversation_id": "2047704113392312370",
+        "created_at": "2026-04-24T15:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047704113392312370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047704113392312370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1093,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "好想现实有人陪我割手嗑药。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 151,
+          "like_count": 1167,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 891
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T16:53:34.000Z",
+        "description": "od丨餐券丨海量帖子以及黑泥负能注意❗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/MyMz3qs4ez"
+              }
+            ]
+          }
+        },
+        "id": "2046995754498084864",
+        "location": "天國",
+        "name": "🌰 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202603084492800/bxzKb87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 102,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/MyMz3qs4ez",
+        "username": "Lizi__QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2057414598610043286",
+    "created_at": "2026-05-21T11:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057422609139331452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040203145544880128",
+          "start": 0,
+          "username": "iWwAUfN9Eo50488"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057422609139331452",
+    "in_reply_to_user_id": "2040203145544880128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057421943012508037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iWwAUfN9Eo50488 我来尝尝🤔🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2057414598610043286",
+        "created_at": "2026-05-21T11:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057422609139331452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040203145544880128",
+              "start": 0,
+              "username": "iWwAUfN9Eo50488"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057422609139331452",
+        "in_reply_to_user_id": "2040203145544880128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057421943012508037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iWwAUfN9Eo50488 我来尝尝🤔🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040203145544880128",
+        "conversation_id": "2057414598610043286",
+        "created_at": "2026-05-21T11:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057421943012508037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057421943012508037",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057414598610043286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh 哎天津八珍豆腐好吃😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜双相｜解离型身份障碍｜ADHD｜双性恋｜鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧 ✨激推の@Lxmzs233明鏡✨小繁繁@Cristinai1b✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "Lxmzs233"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2056744177984266427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 317,
+          "like_count": 1389,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1067
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T23:02:47.000Z",
+        "description": "hrt/08 1.18高中牲 /odo的多一点💊/不🔪\n闲聊找我/私信看见会回/爱好咖啡/💊/书法/🚬/双向\n（求你们和我唠嗑吧😭）",
+        "id": "2040203145544880128",
+        "name": "321908🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040341735541477376/sjwX1z81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 172,
+          "like_count": 767,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 512
+        },
+        "username": "iWwAUfN9Eo50488",
+        "verified": false
+      }
+    ]
+  }
+}

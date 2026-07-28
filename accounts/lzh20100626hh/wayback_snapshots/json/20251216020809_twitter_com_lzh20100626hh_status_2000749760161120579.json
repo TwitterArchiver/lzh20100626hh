@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2000749760161120579",
+    "created_at": "2025-12-16T02:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T03:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000749760161120579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490988806702604296",
+          "start": 0,
+          "username": "Lxmzs233_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000749760161120579",
+    "in_reply_to_user_id": "1490988806702604296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Lxmzs233_ 本来今天想去桂林路顺便找你玩来着！！结果因为我一晚上没睡觉被锁在市里了哼哼。可以周四去复查住一晚周五晚上回家。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2000749760161120579",
+        "created_at": "2025-12-16T02:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T03:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000749760161120579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490988806702604296",
+              "start": 0,
+              "username": "Lxmzs233_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000749760161120579",
+        "in_reply_to_user_id": "1490988806702604296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Lxmzs233_ 本来今天想去桂林路顺便找你玩来着！！结果因为我一晚上没睡觉被锁在市里了哼哼。可以周四去复查住一晚周五晚上回家。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦  废话/负能",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2000678245419647153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 25,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 29
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T10:00:27.000Z",
+        "description": "悲苦齑粉",
+        "id": "1490988806702604296",
+        "location": "東百",
+        "name": "𝒟ℯ𝓁𝒾𝓇𝒾𝒶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998031673850834944/D0-fKkIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 142,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 146
+        },
+        "username": "Lxmzs233_",
+        "verified": false
+      }
+    ]
+  }
+}

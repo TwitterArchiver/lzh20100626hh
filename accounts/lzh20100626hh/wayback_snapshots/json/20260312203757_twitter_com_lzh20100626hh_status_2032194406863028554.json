@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2032194406863028554",
+    "created_at": "2026-03-12T20:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T21:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032194406863028554"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032194406863028554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你在逃离现实吗？你或许能永远进入梦境里，可现实就是你自己，你无法逃离自己，这个世界就要完蛋了，一切可悲的尝试，不过就像是在潜意识，一座正在融化的幻觉之中的斗争，那些梦中虚假的幸福，真假与善良，以及层层叠加的痛苦。它们只会带来同样的结果。……你不会明白的，但事实就是如此。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2032194406863028554",
+        "created_at": "2026-03-12T20:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T21:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032194406863028554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032194406863028554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你在逃离现实吗？你或许能永远进入梦境里，可现实就是你自己，你无法逃离自己，这个世界就要完蛋了，一切可悲的尝试，不过就像是在潜意识，一座正在融化的幻觉之中的斗争，那些梦中虚假的幸福，真假与善良，以及层层叠加的痛苦。它们只会带来同样的结果。……你不会明白的，但事实就是如此。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双向｜精分｜ADHD｜双性恋｜を激推します✨@Lxmzs233_✨明鏡！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2026378329436336276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 109,
+          "like_count": 756,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 645
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

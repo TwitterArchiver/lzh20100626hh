@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2015245680424710537",
+    "created_at": "2026-01-25T13:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T14:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015411450874040482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999504877337395200",
+          "start": 0,
+          "username": "chuan_0123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015411450874040482",
+    "in_reply_to_user_id": "1999504877337395200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015245680424710537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_0123 小鸡鸡。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2015245677685870593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_eXREGbkAEGa8i.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2015245680424710537",
+        "created_at": "2026-01-25T13:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T14:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015411450874040482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999504877337395200",
+              "start": 0,
+              "username": "chuan_0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015411450874040482",
+        "in_reply_to_user_id": "1999504877337395200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015245680424710537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_0123 小鸡鸡。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015245677685870593"
+          ]
+        },
+        "author_id": "1999504877337395200",
+        "conversation_id": "2015245680424710537",
+        "created_at": "2026-01-25T02:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T03:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015245680424710537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z0kbcES7Ph",
+              "end": 28,
+              "expanded_url": "https://x.com/chuan_0123/status/2015245680424710537/photo/1",
+              "media_key": "3_2015245677685870593",
+              "start": 5,
+              "url": "https://t.co/z0kbcES7Ph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015245680424710537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小鸡鸡。 https://t.co/z0kbcES7Ph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  废话｜od｜sh｜双相｜ ADHD｜｜｜｜尼古丁创造精神  酒精确定思想\n        感觉混沌的时候就用感受疼痛的方式去重新系起与世界的联系｜｜｜\n我跟@Lxmzs233_超级无敌霹雳至尊好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 2,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 293
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川 怎么称呼我都ok！/20↑/病み垢/无言follow抱歉/直fo＝喜欢你/欢迎互fo我想和你们玩/脑子不好啥都发 有自伤&od内容 图片一般不会直接发/接受不了的可以随意拉黑我😸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan_0123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan_0123",
+                "start": 0,
+                "url": "https://t.co/4YtHcQTLzj"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "佛在渡你   提问箱→",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2013616959921779066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009954663387541506/RIm7gJMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 124,
+          "like_count": 2910,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1673
+        },
+        "url": "https://t.co/4YtHcQTLzj",
+        "username": "chuan_0123",
+        "verified": false
+      }
+    ]
+  }
+}

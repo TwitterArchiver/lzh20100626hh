@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2072629186041409949",
+    "created_at": "2026-07-02T10:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072629307361677395"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072629307361677395",
+    "in_reply_to_user_id": "2000658943144812548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072629186041409949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好像没线稿好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072629180454600704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN1QiQbAAAnI8U.jpg",
+        "width": 919
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072629182174248960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN1QoqawAAwfBg.jpg",
+        "width": 919
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072629182530777088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN1Qp_a8AAlFoW.jpg",
+        "width": 919
+      },
+      {
+        "height": 1005,
+        "media_key": "3_2072629180408496129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN1QiFbgAECJ6y.jpg",
+        "width": 622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2072629186041409949",
+        "created_at": "2026-07-02T10:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072629307361677395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072629307361677395",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072629186041409949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像没线稿好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072629180454600704",
+            "3_2072629182174248960",
+            "3_2072629182530777088",
+            "3_2072629180408496129"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2072629186041409949",
+        "created_at": "2026-07-02T10:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072629186041409949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LAbHgArgQ0",
+              "end": 29,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2072629186041409949/photo/1",
+              "media_key": "3_2072629180454600704",
+              "start": 6,
+              "url": "https://t.co/LAbHgArgQ0"
+            },
+            {
+              "display_url": "pic.x.com/LAbHgArgQ0",
+              "end": 29,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2072629186041409949/photo/1",
+              "media_key": "3_2072629182174248960",
+              "start": 6,
+              "url": "https://t.co/LAbHgArgQ0"
+            },
+            {
+              "display_url": "pic.x.com/LAbHgArgQ0",
+              "end": 29,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2072629186041409949/photo/1",
+              "media_key": "3_2072629182530777088",
+              "start": 6,
+              "url": "https://t.co/LAbHgArgQ0"
+            },
+            {
+              "display_url": "pic.x.com/LAbHgArgQ0",
+              "end": 29,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2072629186041409949/photo/1",
+              "media_key": "3_2072629180408496129",
+              "start": 6,
+              "url": "https://t.co/LAbHgArgQ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072629186041409949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比较丑陋， https://t.co/LAbHgArgQ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 391,
+          "like_count": 1775,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1382
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2016381215696421055",
+    "created_at": "2026-01-28T05:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T06:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016381215696421055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1976224313339777024",
+          "start": 3,
+          "username": "WinbornN94577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016381215696421055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016267602612625631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WinbornN94577: 把愚昧片轻轻拿起🤓\n从中间开始撕开包装😛\n手不要接触里面🔞\n轻轻放在嘴里👄\n这样很讲卫生👍🏻\n疾病不会找你🦠\n而且像一位伯爵🤵🏻‍♂️\n使你优雅无比💰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2016381215696421055",
+        "created_at": "2026-01-28T05:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016381215696421055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1976224313339777024",
+              "start": 3,
+              "username": "WinbornN94577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016381215696421055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016267602612625631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WinbornN94577: 把愚昧片轻轻拿起🤓\n从中间开始撕开包装😛\n手不要接触里面🔞\n轻轻放在嘴里👄\n这样很讲卫生👍🏻\n疾病不会找你🦠\n而且像一位伯爵🤵🏻‍♂️\n使你优雅无比💰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976224313339777024",
+        "conversation_id": "2016267602612625631",
+        "created_at": "2026-01-27T21:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T22:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016267602612625631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016267602612625631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 713,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "把愚昧片轻轻拿起🤓\n从中间开始撕开包装😛\n手不要接触里面🔞\n轻轻放在嘴里👄\n这样很讲卫生👍🏻\n疾病不会找你🦠\n而且像一位伯爵🤵🏻‍♂️\n使你优雅无比💰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神  酒精确定思想\n 感觉混沌的时候就用感受疼痛的方式去重新系起与世界的联系\n我是鸦鸦  废话｜od｜sh｜双相｜ ADHD\n我跟@Lxmzs233_超级无敌霹雳至尊好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 55,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 305
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "药物Wiki混子🏴‍☠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Freeod.Wiki",
+                "end": 23,
+                "expanded_url": "http://Freeod.Wiki",
+                "start": 0,
+                "url": "https://t.co/00oa1doxAd"
+              }
+            ]
+          }
+        },
+        "id": "1976224313339777024",
+        "location": "🚪52",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2009440325455294908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 76,
+          "like_count": 2471,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1140
+        },
+        "url": "https://t.co/00oa1doxAd",
+        "username": "WinbornN94577",
+        "verified": false
+      }
+    ]
+  }
+}

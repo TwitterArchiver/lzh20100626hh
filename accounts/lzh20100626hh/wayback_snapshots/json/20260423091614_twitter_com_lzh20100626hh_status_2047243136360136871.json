@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2047243136360136871",
+    "created_at": "2026-04-23T09:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T10:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047243136360136871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1847712034361659392",
+          "start": 3,
+          "username": "huaxuejilebaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047243136360136871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046928933464297687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huaxuejilebaike: 我们走的太远\n以至于忘了为什么而出发\n右美沙芬:我现在不存在 我过去存在\n普瑞巴林:一句真话比整个世界的分量还重\n巴氯芬:孩子们就是这样对付恐惧 他们睡觉\n白兔bron:我相信你的爱 让这句话做我最后的话\n美金刚:过量即地狱\n金刚烷胺:…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2047243136360136871",
+        "created_at": "2026-04-23T09:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047243136360136871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1847712034361659392",
+              "start": 3,
+              "username": "huaxuejilebaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047243136360136871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046928933464297687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huaxuejilebaike: 我们走的太远\n以至于忘了为什么而出发\n右美沙芬:我现在不存在 我过去存在\n普瑞巴林:一句真话比整个世界的分量还重\n巴氯芬:孩子们就是这样对付恐惧 他们睡觉\n白兔bron:我相信你的爱 让这句话做我最后的话\n美金刚:过量即地狱\n金刚烷胺:…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2046928933464297687",
+        "created_at": "2026-04-22T12:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046928933464297687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046928933464297687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2970,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我们走的太远\n以至于忘了为什么而出发\n右美沙芬:我现在不存在 我过去存在\n普瑞巴林:一句真话比整个世界的分量还重\n巴氯芬:孩子们就是这样对付恐惧 他们睡觉\n白兔bron:我相信你的爱 让这句话做我最后的话\n美金刚:过量即地狱\n金刚烷胺:追逐影子的人 自己就是影子\n苯海索:当你凝视深渊时 深渊也在凝视着你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 148,
+          "like_count": 1114,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 871
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/DF7NTAL0F9 TG交流群：https://t.co/ngKDwwK3ao DC交流群：https://t.co/Zb0fsL464g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/DF7NTAL0F9"
+              },
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 56,
+                "expanded_url": "http://t.me/weizhanersheng666",
+                "start": 33,
+                "url": "https://t.co/ngKDwwK3ao"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/Zb0fsL464g"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "2043905280967397423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 910,
+          "like_count": 24165,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 2840
+        },
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

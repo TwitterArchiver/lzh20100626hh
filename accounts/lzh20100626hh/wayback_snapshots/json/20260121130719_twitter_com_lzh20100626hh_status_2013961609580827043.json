@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2013629769850724535",
+    "created_at": "2026-01-21T13:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T14:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013961609580827043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737929072888676354",
+          "start": 0,
+          "username": "YSonoe13572"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013961609580827043",
+    "in_reply_to_user_id": "1737929072888676354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013629769850724535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YSonoe13572 我需要这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14953,
+        "height": 1280,
+        "media_key": "13_2013629727815217152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013629727815217152/img/hPuCNvOUV5TirwUy.jpg",
+        "public_metrics": {
+          "view_count": 342423
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013629727815217152/vid/avc1/320x568/_7XC-p5azcMLwI49.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013629727815217152/vid/avc1/480x852/T32o9GjaLSHi57mG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013629727815217152/vid/avc1/720x1280/ysN4WlTc9vXX_gJW.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013629727815217152/pl/CErLPFbXRI-Zhwgj.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2013629769850724535",
+        "created_at": "2026-01-21T13:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013961609580827043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737929072888676354",
+              "start": 0,
+              "username": "YSonoe13572"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013961609580827043",
+        "in_reply_to_user_id": "1737929072888676354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013629769850724535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YSonoe13572 我需要这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013629727815217152"
+          ]
+        },
+        "author_id": "1737929072888676354",
+        "conversation_id": "2013629769850724535",
+        "created_at": "2026-01-20T15:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013629769850724535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gvhWjhQcMz",
+              "end": 23,
+              "expanded_url": "https://x.com/YSonoe13572/status/2013629769850724535/video/1",
+              "media_key": "13_2013629727815217152",
+              "start": 0,
+              "url": "https://t.co/gvhWjhQcMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013629769850724535",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 818,
+          "impression_count": 580549,
+          "like_count": 2121,
+          "quote_count": 48,
+          "reply_count": 137,
+          "retweet_count": 235
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gvhWjhQcMz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜sh｜双相｜ ADHD   \n同类来互fo 我想和你们交朋友好不好呀 我很温良\n@Lxmzs233_我俩超级无敌霹雳至尊好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 50,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 270
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T20:12:51.000Z",
+        "description": "Redefining moments that create wonder ✨ | Curated with purpose",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "43server.life/LIVE-CAM",
+                "end": 23,
+                "expanded_url": "https://43server.life/LIVE-CAM",
+                "start": 0,
+                "url": "https://t.co/y2zPMAONb2"
+              }
+            ]
+          }
+        },
+        "id": "1737929072888676354",
+        "name": "yoshikawa sonoe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962172679034949632/7IFqVzmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 42,
+          "like_count": 89,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/y2zPMAONb2",
+        "username": "YSonoe13572",
+        "verified": false
+      }
+    ]
+  }
+}

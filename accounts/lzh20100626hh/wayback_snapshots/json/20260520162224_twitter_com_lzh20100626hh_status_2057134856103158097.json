@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2057134856103158097",
+    "created_at": "2026-05-20T16:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057134856103158097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "Kyanu_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057134856103158097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057045565146640640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyanu_tut: 失去我意味着你同时失去了一个舔狗、备胎、消遣、宠物、受气包、敢死队、软柿子、窝囊废、情绪垃圾桶、ATM提款机、随叫随到的游戏搭子、替你喊大小姐驾到统统闪开的保镖你的一生能见识多少人啊？\n失去我就失去了半壁江山了懂不懂啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2057134856103158097",
+        "created_at": "2026-05-20T16:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057134856103158097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "Kyanu_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057134856103158097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057045565146640640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyanu_tut: 失去我意味着你同时失去了一个舔狗、备胎、消遣、宠物、受气包、敢死队、软柿子、窝囊废、情绪垃圾桶、ATM提款机、随叫随到的游戏搭子、替你喊大小姐驾到统统闪开的保镖你的一生能见识多少人啊？\n失去我就失去了半壁江山了懂不懂啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2057045565146640640",
+        "created_at": "2026-05-20T10:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057045565146640640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057045565146640640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1306,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "失去我意味着你同时失去了一个舔狗、备胎、消遣、宠物、受气包、敢死队、软柿子、窝囊废、情绪垃圾桶、ATM提款机、随叫随到的游戏搭子、替你喊大小姐驾到统统闪开的保镖你的一生能见识多少人啊？\n失去我就失去了半壁江山了懂不懂啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜双相｜解离型身份障碍｜ADHD｜双性恋｜鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧 ✨激推の@Lxmzs233明鏡✨小繁繁@Cristinai1b✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "Lxmzs233"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2056744177984266427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 314,
+          "like_count": 1371,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1053
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 418,
+          "like_count": 734,
+          "listed_count": 2,
+          "media_count": 324,
+          "tweet_count": 2113
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

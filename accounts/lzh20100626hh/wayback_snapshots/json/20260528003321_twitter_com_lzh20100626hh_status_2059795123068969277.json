@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2059603067516186698",
+    "created_at": "2026-05-28T00:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T01:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059795123068969277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944839793533444098",
+          "start": 0,
+          "username": "mangofragile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059795123068969277",
+    "in_reply_to_user_id": "1944839793533444098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059696061581787215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mangofragile 谢谢宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2059603067516186698",
+        "created_at": "2026-05-28T00:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059795123068969277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944839793533444098",
+              "start": 0,
+              "username": "mangofragile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059795123068969277",
+        "in_reply_to_user_id": "1944839793533444098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059696061581787215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mangofragile 谢谢宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944839793533444098",
+        "conversation_id": "2059603067516186698",
+        "created_at": "2026-05-27T17:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059696061581787215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059696061581787215",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059603067516186698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh 吃过一阵子好像有大一点点（e→e到f这种），但我也不确定是因为吃药还是因为胖了，总之影响不大（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦 第二人格叫西西 第三人格是♂叫茧 ✨激推@Lxmzs233_明鏡✨@Cristinai1b小綺✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Lxmzs233_"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 355,
+          "like_count": 1523,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1189
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T19:22:05.000Z",
+        "description": "：我是一位友好的伪人。话语中会出现混乱及颠倒、错字。请多多包庇，还在学习人类的言语方式中。\n我来这里是碎碎念疏解感情的，不是来约的不是来约的不是来约的\n私信已关，去幸福了。",
+        "id": "1944839793533444098",
+        "location": "回忆是无害的致幻剂",
+        "name": "Mango",
+        "pinned_tweet_id": "1990373989966106947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009630658604478464/_SHpaT31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 51,
+          "like_count": 2768,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 1797
+        },
+        "username": "mangofragile",
+        "verified": false
+      }
+    ]
+  }
+}

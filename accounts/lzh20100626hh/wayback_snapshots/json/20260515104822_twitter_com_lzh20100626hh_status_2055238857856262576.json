@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2055238857856262576",
+    "created_at": "2026-05-15T10:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T11:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055238857856262576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2028432059002150912",
+          "start": 3,
+          "username": "NinJaCatRising"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055238857856262576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054958937884008496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NinJaCatRising: 盘点那些吃吃减减一个月最后体重0变化的女孩。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2055238857856262576",
+        "created_at": "2026-05-15T10:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055238857856262576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2028432059002150912",
+              "start": 3,
+              "username": "NinJaCatRising"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055238857856262576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054958937884008496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NinJaCatRising: 盘点那些吃吃减减一个月最后体重0变化的女孩。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028432059002150912",
+        "conversation_id": "2054958937884008496",
+        "created_at": "2026-05-14T16:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054958937884008496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054958937884008496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 20796,
+          "like_count": 246,
+          "quote_count": 6,
+          "reply_count": 84,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "盘点那些吃吃减减一个月最后体重0变化的女孩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜双相｜解离型身份障碍｜ADHD｜双性恋｜鸦鸦是主人格｜第二人格叫西西｜第三人格是♂叫茧 ✨激推の@Lxmzs233明鏡✨小繁繁@Cristinai1b✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "Lxmzs233"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2047897363289903320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 298,
+          "like_count": 1280,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 974
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T11:29:34.000Z",
+        "description": "保持佛系\n想问的：https://t.co/Dh2a6i88ri",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seoeowang",
+                "end": 32,
+                "expanded_url": "https://ngl.link/seoeowang",
+                "start": 9,
+                "url": "https://t.co/Dh2a6i88ri"
+              }
+            ]
+          }
+        },
+        "id": "2028432059002150912",
+        "name": "Kek",
+        "pinned_tweet_id": "2053443454030459336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055214532490854400/YCYpUQyM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 21,
+          "like_count": 1933,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 257
+        },
+        "username": "NinJaCatRising",
+        "verified": false
+      }
+    ]
+  }
+}

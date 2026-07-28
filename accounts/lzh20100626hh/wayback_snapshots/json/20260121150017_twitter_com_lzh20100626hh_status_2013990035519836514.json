@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2013989955857768448"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2013990035519836514",
+    "created_at": "2026-01-21T15:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T16:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013990035519836514"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lFGEHQVOtJ",
+          "end": 38,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2013990035519836514/video/1",
+          "media_key": "7_2013989955857768448",
+          "start": 15,
+          "url": "https://t.co/lFGEHQVOtJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013990035519836514",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "眠眠猫 ₍˄·͈༝·͈˄₎◞ https://t.co/lFGEHQVOtJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16610,
+        "height": 1280,
+        "media_key": "7_2013989955857768448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2013989955857768448/pu/img/NN8S2zLPiX0Sq-cS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013989955857768448/pu/vid/avc1/320x568/GqvG3g5gFFzISUl-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013989955857768448/pu/vid/avc1/480x852/kdIxEuAr5fu5KSrx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013989955857768448/pu/vid/avc1/720x1280/tfiDOiRjIeGrIOdt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2013989955857768448/pu/pl/qameCaAtbN5ENfaK.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013989955857768448"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2013990035519836514",
+        "created_at": "2026-01-21T15:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013990035519836514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFGEHQVOtJ",
+              "end": 38,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2013990035519836514/video/1",
+              "media_key": "7_2013989955857768448",
+              "start": 15,
+              "url": "https://t.co/lFGEHQVOtJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013990035519836514",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眠眠猫 ₍˄·͈༝·͈˄₎◞ https://t.co/lFGEHQVOtJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜sh｜双相｜ ADHD   \n同类来互fo 我想和你们交朋友好不好呀 我很温良\n@Lxmzs233_我俩超级无敌霹雳至尊好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 50,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 279
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

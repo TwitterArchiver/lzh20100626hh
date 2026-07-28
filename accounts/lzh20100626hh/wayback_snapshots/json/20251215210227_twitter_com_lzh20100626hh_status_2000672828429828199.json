@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000672824374226944",
+        "3_2000672823220797440",
+        "3_2000672822927220736",
+        "3_2000672823141175296"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2000672828429828199",
+    "created_at": "2025-12-15T21:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T22:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000672828429828199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wTljWvHzkh",
+          "end": 23,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2000672828429828199/photo/1",
+          "media_key": "3_2000672824374226944",
+          "start": 0,
+          "url": "https://t.co/wTljWvHzkh"
+        },
+        {
+          "display_url": "pic.x.com/wTljWvHzkh",
+          "end": 23,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2000672828429828199/photo/1",
+          "media_key": "3_2000672823220797440",
+          "start": 0,
+          "url": "https://t.co/wTljWvHzkh"
+        },
+        {
+          "display_url": "pic.x.com/wTljWvHzkh",
+          "end": 23,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2000672828429828199/photo/1",
+          "media_key": "3_2000672822927220736",
+          "start": 0,
+          "url": "https://t.co/wTljWvHzkh"
+        },
+        {
+          "display_url": "pic.x.com/wTljWvHzkh",
+          "end": 23,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2000672828429828199/photo/1",
+          "media_key": "3_2000672823141175296",
+          "start": 0,
+          "url": "https://t.co/wTljWvHzkh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000672828429828199",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/wTljWvHzkh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000672828429828199].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000672828429828199",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000672828429828199"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000672824374226944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8PRVXCacAAdI0k.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2000672823220797440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8PRVSvagAAWo2X.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2000672822927220736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8PRVRpa4AAO4XH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2000672823141175296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8PRVScbkAAmJRN.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦。喜欢我就给我钱",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 20,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

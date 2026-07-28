@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2026372188585210059",
+    "created_at": "2026-02-24T19:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T20:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026372188585210059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1946240021696040961",
+          "start": 3,
+          "username": "odday_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026372188585210059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026300485603303711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @odday_official: od药物\n解离剂：愈美片，加兰他敏，美金刚\n迷幻剂：依非韦仑，唑吡坦\n谵妄剂：苄达明，金刚烷胺，苯海拉明，美金刚\n止痛药：氢吗啡酮，羟考酮，氢可酮，吗啡，曲马多，二氢可待因，美沙酮，普瑞巴林以及加巴喷丁/苯磺酸克利加巴林/苯磺酸美洛加巴林"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2026372188585210059",
+        "created_at": "2026-02-24T19:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T20:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026372188585210059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1946240021696040961",
+              "start": 3,
+              "username": "odday_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026372188585210059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026300485603303711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @odday_official: od药物\n解离剂：愈美片，加兰他敏，美金刚\n迷幻剂：依非韦仑，唑吡坦\n谵妄剂：苄达明，金刚烷胺，苯海拉明，美金刚\n止痛药：氢吗啡酮，羟考酮，氢可酮，吗啡，曲马多，二氢可待因，美沙酮，普瑞巴林以及加巴喷丁/苯磺酸克利加巴林/苯磺酸美洛加巴林"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946240021696040961",
+        "conversation_id": "2026300485603303711",
+        "created_at": "2026-02-24T14:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026300485603303711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026300485603303711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 2173,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "od药物\n解离剂：愈美片，加兰他敏，美金刚\n迷幻剂：依非韦仑，唑吡坦\n谵妄剂：苄达明，金刚烷胺，苯海拉明，美金刚\n止痛药：氢吗啡酮，羟考酮，氢可酮，吗啡，曲马多，二氢可待因，美沙酮，普瑞巴林以及加巴喷丁/苯磺酸克利加巴林/苯磺酸美洛加巴林"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 鸦会一直陪着所有人｜od｜sh ｜双向｜ADHD｜双性恋｜を激推します✨@Lxmzs233_✨明鏡！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2021707692977660357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 111,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 605
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T16:06:07.000Z",
+        "description": "💊\noverdoseに集中しています............",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 23,
+                "expanded_url": "http://taikong.mom",
+                "start": 0,
+                "url": "https://t.co/SZTYiU0vCx"
+              }
+            ]
+          }
+        },
+        "id": "1946240021696040961",
+        "location": "天国",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "1998327004668862546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984269351256473600/z_4Rg7td_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 142,
+          "like_count": 538,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/SZTYiU0vCx",
+        "username": "odday_official",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2002002621524242922",
+    "created_at": "2025-12-19T13:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T14:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002002621524242922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974688655513096192",
+          "start": 3,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002002621524242922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001971150625321414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lin_dialog: 我左边胸口一直有一个瘤子在跳，跳了十七年了，我现在准备拿个刀给他挑出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2002002621524242922",
+        "created_at": "2025-12-19T13:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T14:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002002621524242922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974688655513096192",
+              "start": 3,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002002621524242922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001971150625321414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lin_dialog: 我左边胸口一直有一个瘤子在跳，跳了十七年了，我现在准备拿个刀给他挑出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2001971150625321414",
+        "created_at": "2025-12-19T11:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T12:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001971150625321414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001971150625321414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我左边胸口一直有一个瘤子在跳，跳了十七年了，我现在准备拿个刀给他挑出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜\n🚪具体请私信！\n喜欢什么风格我都可以尝试！",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001827342180847659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 102
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "霖霖 ♡ 17 they/them｜shedtwt odtwt｜bmi16.7 (o^^o) ♡｜need more moots!｜抽烟喝酒自残od｜非二元性别｜朋克摇滚 哲学 小说爱好者｜LGBTQ+🏳️‍🌈全友好^^｜互fo私信我 只fo同类! 健全勿扰",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "1993204221223879044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997881852657549312/35b--OQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 177,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 957
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

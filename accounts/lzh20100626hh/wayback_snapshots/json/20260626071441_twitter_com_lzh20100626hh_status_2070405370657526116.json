@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2070206736309551361",
+    "created_at": "2026-06-26T07:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070405370657526116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046967144798121984",
+          "start": 0,
+          "username": "Cristinai1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070405370657526116",
+    "in_reply_to_user_id": "2046967144798121984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070206736309551361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cristinai1b 卧槽你好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070206727174393856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLraDMjakAAK3gV.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2070206736309551361",
+        "created_at": "2026-06-26T07:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070405370657526116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046967144798121984",
+              "start": 0,
+              "username": "Cristinai1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070405370657526116",
+        "in_reply_to_user_id": "2046967144798121984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070206736309551361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cristinai1b 卧槽你好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070206727174393856"
+          ]
+        },
+        "author_id": "2046967144798121984",
+        "conversation_id": "2070206736309551361",
+        "created_at": "2026-06-25T18:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070206736309551361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hCGlQFZJAt",
+              "end": 35,
+              "expanded_url": "https://x.com/Cristinai1b/status/2070206736309551361/photo/1",
+              "media_key": "3_2070206727174393856",
+              "start": 12,
+              "url": "https://t.co/hCGlQFZJAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070206736309551361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剧烈缺钱了。遂。求过🚪 https://t.co/hCGlQFZJAt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 387,
+          "like_count": 1768,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1339
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T15:01:30.000Z",
+        "description": "oded餐券嗯嗯好的！女网友全肯定！我平等爱着世界上所有人。我发誓小绮真的是天使^^",
+        "id": "2046967144798121984",
+        "name": "Relythat517",
+        "pinned_tweet_id": "2064543442848583785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046968486316978177/sxvY-Ud2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 307,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "Cristinai1b",
+        "verified": false
+      }
+    ]
+  }
+}

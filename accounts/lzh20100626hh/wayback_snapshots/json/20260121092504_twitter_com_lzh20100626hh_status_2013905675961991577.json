@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2013767004604506184",
+    "created_at": "2026-01-21T09:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T10:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013905675961991577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954403111008894976",
+          "start": 0,
+          "username": "IX33550336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013905675961991577",
+    "in_reply_to_user_id": "1954403111008894976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013767004604506184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IX33550336 女孩你好萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26966,
+        "height": 720,
+        "media_key": "13_2013766913156157440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013766913156157440/img/_RMoZXwkc1ySKctl.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013766913156157440/vid/avc1/480x270/AcvU8EENvxgkFTse.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013766913156157440/vid/avc1/640x360/v76Aa5wt_j3mMyLC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013766913156157440/vid/avc1/1280x720/MCCreSDo44NsP32q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013766913156157440/pl/2R_pOVVObEVf6beq.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2013767004604506184",
+        "created_at": "2026-01-21T09:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T10:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013905675961991577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954403111008894976",
+              "start": 0,
+              "username": "IX33550336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013905675961991577",
+        "in_reply_to_user_id": "1954403111008894976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013767004604506184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IX33550336 女孩你好萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013766913156157440"
+          ]
+        },
+        "author_id": "1954403111008894976",
+        "conversation_id": "2013767004604506184",
+        "created_at": "2026-01-21T00:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T01:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013767004604506184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a6KkjbhjA1",
+              "end": 54,
+              "expanded_url": "https://x.com/IX33550336/status/2013767004604506184/video/1",
+              "media_key": "13_2013766913156157440",
+              "start": 31,
+              "url": "https://t.co/a6KkjbhjA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013767004604506184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽個煙嘎巴一下可以暈過去（正在暈\n想去穿天使咬 誰支持誰反對 https://t.co/a6KkjbhjA1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜sh｜双相｜ ADHD   \n同类来互fo 我想和你们交朋友好不好呀 我很温良",
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 48,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 248
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T04:43:20.000Z",
+        "description": "🎨✍️｜ed｜sh｜對外是個沒素質的精神病人但我會去誇誇所有萌萌小女孩｜男的或者怪人 滾",
+        "id": "1954403111008894976",
+        "location": "MENTAL ASYLUM",
+        "name": "嘔吐物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957717662638960640/VDy1EMDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 123,
+          "like_count": 4663,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 1754
+        },
+        "username": "IX33550336",
+        "verified": false
+      }
+    ]
+  }
+}

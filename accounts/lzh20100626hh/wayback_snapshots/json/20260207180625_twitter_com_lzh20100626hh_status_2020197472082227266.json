@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2020197472082227266",
+    "created_at": "2026-02-07T18:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T19:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020197472082227266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007104134466736129",
+          "start": 3,
+          "username": "peipeimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020197472082227266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019381578531827831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @peipeimao: 我们自残吧我们吞药吧我们一跃而下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2020197472082227266",
+        "created_at": "2026-02-07T18:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T19:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020197472082227266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007104134466736129",
+              "start": 3,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020197472082227266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019381578531827831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @peipeimao: 我们自残吧我们吞药吧我们一跃而下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2019381578531827831",
+        "created_at": "2026-02-05T12:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T13:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019381578531827831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019381578531827831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12535,
+          "like_count": 296,
+          "quote_count": 7,
+          "reply_count": 7,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "我们自残吧我们吞药吧我们一跃而下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神  酒精确定思想\n 感觉混沌的时候就用感受疼痛的方式去重新系起与世界的联系\n我是鸦鸦  废话｜od｜sh｜双相｜ ADHD｜双性恋\n@Lxmzs233_我两超级无敌霹雳至尊好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2017855976465174746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 101,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 472
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2365,
+          "following_count": 153,
+          "like_count": 382,
+          "listed_count": 4,
+          "media_count": 49,
+          "tweet_count": 746
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

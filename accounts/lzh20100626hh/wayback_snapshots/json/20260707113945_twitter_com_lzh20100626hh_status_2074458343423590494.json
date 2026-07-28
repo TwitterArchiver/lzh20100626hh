@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2074458343423590494",
+    "created_at": "2026-07-07T11:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T12:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074458343423590494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2048693394226974720",
+          "start": 3,
+          "username": "CCA8798suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074458343423590494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073733681118847311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CCA8798suki: 1000fo纪念！\n感谢大家的支持\n于是打算久违地抽奖...\n第一名 15.20r*1\n第二名 月薪喵50cm玩偶*1(可折8r)\n第三名 黑/白小猫玩偶*2(可折2r)\n\n关注+点赞+评论+转帖参与\n\n1100fo时开奖！\n\n抽奖是用自研的抽…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 955,
+        "media_key": "3_2073730105411821568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdeizUa4AAjKkm.jpg",
+        "width": 720
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2073733669853020160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdhyR5bQAAGE2A.jpg",
+        "width": 1200
+      },
+      {
+        "height": 959,
+        "media_key": "3_2073733672688295937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdhycdaIAED6u3.jpg",
+        "width": 1212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2074458343423590494",
+        "created_at": "2026-07-07T11:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074458343423590494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2048693394226974720",
+              "start": 3,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074458343423590494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073733681118847311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CCA8798suki: 1000fo纪念！\n感谢大家的支持\n于是打算久违地抽奖...\n第一名 15.20r*1\n第二名 月薪喵50cm玩偶*1(可折8r)\n第三名 黑/白小猫玩偶*2(可折2r)\n\n关注+点赞+评论+转帖参与\n\n1100fo时开奖！\n\n抽奖是用自研的抽…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073730105411821568",
+            "3_2073733669853020160",
+            "3_2073733672688295937"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "conversation_id": "2073733681118847311",
+        "created_at": "2026-07-05T11:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073733681118847311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ocf6ZzT81M",
+              "end": 190,
+              "expanded_url": "https://x.com/CCA8798suki/status/2073733681118847311/photo/1",
+              "media_key": "3_2073730105411821568",
+              "start": 167,
+              "url": "https://t.co/ocf6ZzT81M"
+            },
+            {
+              "display_url": "pic.x.com/ocf6ZzT81M",
+              "end": 190,
+              "expanded_url": "https://x.com/CCA8798suki/status/2073733681118847311/photo/1",
+              "media_key": "3_2073733669853020160",
+              "start": 167,
+              "url": "https://t.co/ocf6ZzT81M"
+            },
+            {
+              "display_url": "pic.x.com/ocf6ZzT81M",
+              "end": 190,
+              "expanded_url": "https://x.com/CCA8798suki/status/2073733681118847311/photo/1",
+              "media_key": "3_2073733672688295937",
+              "start": 167,
+              "url": "https://t.co/ocf6ZzT81M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073733681118847311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3583,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo纪念！\n感谢大家的支持\n于是打算久违地抽奖...\n第一名 15.20r*1\n第二名 月薪喵50cm玩偶*1(可折8r)\n第三名 黑/白小猫玩偶*2(可折2r)\n\n关注+点赞+评论+转帖参与\n\n1100fo时开奖！\n\n抽奖是用自研的抽奖工具噢\n(之前有发过帖子来着)\n具体的引擎是\nC++标准库mt19937_64+时间戳 https://t.co/ocf6ZzT81M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 399,
+          "like_count": 1832,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1414
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2073733681118847311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 1253,
+          "like_count": 3794,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      }
+    ]
+  }
+}

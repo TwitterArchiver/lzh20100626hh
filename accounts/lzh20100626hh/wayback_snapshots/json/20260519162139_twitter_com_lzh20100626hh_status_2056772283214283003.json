@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2056770857213812768",
+    "created_at": "2026-05-19T16:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056772283214283003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600762207515443201",
+          "start": 0,
+          "username": "miaoeatcarrot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056772283214283003",
+    "in_reply_to_user_id": "1600762207515443201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056772213639086202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaoeatcarrot 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2056770857213812768",
+        "created_at": "2026-05-19T16:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056772283214283003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600762207515443201",
+              "start": 0,
+              "username": "miaoeatcarrot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056772283214283003",
+        "in_reply_to_user_id": "1600762207515443201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056772213639086202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaoeatcarrot 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600762207515443201",
+        "conversation_id": "2056770857213812768",
+        "created_at": "2026-05-19T16:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056772213639086202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056772213639086202",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056770857213812768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh 加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜双相｜解离型身份障碍｜ADHD｜双性恋｜鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧 ✨激推の@Lxmzs233明鏡✨小繁繁@Cristinai1b✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "Lxmzs233"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2056744177984266427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 302,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1007
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T08:00:56.000Z",
+        "description": "06年/167 53kg/无糖/坐标吉林/欢迎贴贴\n乖老婆 @zhangyv_ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "zhangyv_ovo"
+              }
+            ]
+          }
+        },
+        "id": "1600762207515443201",
+        "location": "长春",
+        "name": "猫猫吃萝贝",
+        "pinned_tweet_id": "1725537855085375800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600762432397271041/xTKeZgYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 86,
+          "like_count": 218,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 83
+        },
+        "username": "miaoeatcarrot",
+        "verified": false
+      }
+    ]
+  }
+}

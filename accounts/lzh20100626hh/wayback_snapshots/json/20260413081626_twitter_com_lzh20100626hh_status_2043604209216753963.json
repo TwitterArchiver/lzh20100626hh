@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2043583712953082003",
+    "created_at": "2026-04-13T08:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043604209216753963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1716689663443005440",
+          "start": 0,
+          "username": "DongS49455"
+        },
+        {
+          "end": 21,
+          "id": "1472219833261772801",
+          "start": 12,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043604209216753963",
+    "in_reply_to_user_id": "1716689663443005440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043583712953082003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DongS49455 @xxx_jjkk 互fo！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2043583712953082003",
+        "created_at": "2026-04-13T08:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043604209216753963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1716689663443005440",
+              "start": 0,
+              "username": "DongS49455"
+            },
+            {
+              "end": 21,
+              "id": "1472219833261772801",
+              "start": 12,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043604209216753963",
+        "in_reply_to_user_id": "1716689663443005440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043583712953082003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DongS49455 @xxx_jjkk 互fo！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716689663443005440",
+        "conversation_id": "2043583712953082003",
+        "created_at": "2026-04-13T06:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043583712953082003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043583712953082003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我打算到100fo抽一下\n一等奖：五盒红普（折现70）x1人\n二等奖：52🧧x1人\n三等奖：两盒红普（折现28） x1人\n四等奖：一盒红普（折现15.2）x1人\n我实在是没啥好抽的啦，求你们转转"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 141,
+          "like_count": 1020,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 804
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-24T05:34:54.000Z",
+        "description": "我活不长了",
+        "id": "1716689663443005440",
+        "name": "冬樹age",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037235493235286017/y6T_YAue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 126,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 213
+        },
+        "username": "DongS49455",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "开放私信 欢迎聊天",
+        "name": "旖旎",
+        "pinned_tweet_id": "2036763868152934681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 415,
+          "like_count": 10156,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1495
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

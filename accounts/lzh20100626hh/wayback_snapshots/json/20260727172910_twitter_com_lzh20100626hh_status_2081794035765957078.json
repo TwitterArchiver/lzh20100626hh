@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2081794035765957078",
+    "created_at": "2026-07-27T17:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081794035765957078"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sapphireao3oa/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Sapphireao3oa/status/2081793345890742694",
+          "start": 12,
+          "url": "https://t.co/EpBK85cBHt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081794035765957078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081793345890742694",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来支持这个天使小绮吧！ https://t.co/EpBK85cBHt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2081794035765957078",
+        "created_at": "2026-07-27T17:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081794035765957078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sapphireao3oa/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Sapphireao3oa/status/2081793345890742694",
+              "start": 12,
+              "url": "https://t.co/EpBK85cBHt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081794035765957078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081793345890742694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来支持这个天使小绮吧！ https://t.co/EpBK85cBHt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080713516684812289",
+        "conversation_id": "2081793345890742694",
+        "created_at": "2026-07-27T17:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081793345890742694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081793345890742694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是陆绮书，我是小绮\n转生归来…..过🚪上不封顶 \n我是很真诚的人 您愿意把钱给我 我会珍惜每个人对我的好 \n过🚪88开放聊天 朋友圈 可以接原味\n过🚪152可以接照片视频10min80-300根据尺度调整\n过🚪188半绿线下\n过🚪266非绿线下\n过🚪520虚拟电子女友 可以打语音\n过🚪1314我会永远永远爱您的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 398,
+          "like_count": 1929,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1498
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-24T18:02:19.000Z",
+        "description": "转生归来前世@Cristina1b",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "Cristina1b"
+              }
+            ]
+          }
+        },
+        "id": "2080713516684812289",
+        "name": "我反社会",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080715862131265536/-Vi_GONa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 43,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "Sapphireao3oa",
+        "verified": false
+      }
+    ]
+  }
+}

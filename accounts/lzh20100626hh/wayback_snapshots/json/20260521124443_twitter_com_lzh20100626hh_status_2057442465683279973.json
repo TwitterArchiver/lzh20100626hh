@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2057442411841040384"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2057442465683279973",
+    "created_at": "2026-05-21T12:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057442465683279973"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4dNlfNjiN3",
+          "end": 51,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2057442465683279973/video/1",
+          "media_key": "7_2057442411841040384",
+          "start": 28,
+          "url": "https://t.co/4dNlfNjiN3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057442465683279973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操。天津染发你崛起吧。好正的红色没白疼。给我染乐呵了 https://t.co/4dNlfNjiN3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6721,
+        "height": 1280,
+        "media_key": "7_2057442411841040384",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057442411841040384/pu/img/4-mwwZKuBD4Ztqpm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057442411841040384/pu/vid/avc1/320x568/xA0ec3pXcv95yAfP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057442411841040384/pu/vid/avc1/480x852/v8W8CcY1cBZqO1KU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057442411841040384/pu/vid/avc1/720x1280/jSwXwyHx4l7elCzS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057442411841040384/pu/pl/DOc0k3Vqmvu7SXd4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2057442411841040384"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2057442465683279973",
+        "created_at": "2026-05-21T12:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057442465683279973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4dNlfNjiN3",
+              "end": 51,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2057442465683279973/video/1",
+              "media_key": "7_2057442411841040384",
+              "start": 28,
+              "url": "https://t.co/4dNlfNjiN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057442465683279973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操。天津染发你崛起吧。好正的红色没白疼。给我染乐呵了 https://t.co/4dNlfNjiN3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜双相｜解离型身份障碍｜ADHD｜双性恋｜鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧 ✨激推の@Lxmzs233明鏡✨小繁繁@Cristinai1b✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "Lxmzs233"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2056744177984266427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 317,
+          "like_count": 1393,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1071
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

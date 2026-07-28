@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001819550015516673",
+        "3_2001819545452040192"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2001819553094078855",
+    "created_at": "2025-12-19T00:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T01:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001819553094078855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TTtHV76TIb",
+          "end": 36,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2001819553094078855/photo/1",
+          "media_key": "3_2001819550015516673",
+          "start": 13,
+          "url": "https://t.co/TTtHV76TIb"
+        },
+        {
+          "display_url": "pic.x.com/TTtHV76TIb",
+          "end": 36,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2001819553094078855/photo/1",
+          "media_key": "3_2001819545452040192",
+          "start": 13,
+          "url": "https://t.co/TTtHV76TIb"
+        },
+        {
+          "display_url": "x.com/lzh20100626hh/…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/lzh20100626hh/status/2001818981041344770",
+          "start": 37,
+          "url": "https://t.co/5tB2gEtJnD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001819553094078855",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001818981041344770",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鸦鸦の食用指南  OvO https://t.co/TTtHV76TIb https://t.co/5tB2gEtJnD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2001819553094078855].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2001819553094078855",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2001819553094078855"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2001818981041344770].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2001818981041344770",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2001818981041344770"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2001819550015516673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8fkRk8bcAESY7J.jpg",
+        "width": 712
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2001819545452040192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8fkRT8aUAA3OxC.jpg",
+        "width": 1037
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜\n🚪具体请私信！\n喜欢什么风格我都可以尝试！",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001711040627904694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 96
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

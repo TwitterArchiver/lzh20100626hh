@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2047364740968792276",
+    "created_at": "2026-04-23T17:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047364740968792276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1932959085374418944",
+          "start": 3,
+          "username": "shuigehaijao124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047364740968792276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047316078678941733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuigehaijao124: 每天就在微信和X上面来回切 下意识点开微信根本就没有人给我发信息就回到X 依旧没有人理我 然后如此反复。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2047364740968792276",
+        "created_at": "2026-04-23T17:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047364740968792276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1932959085374418944",
+              "start": 3,
+              "username": "shuigehaijao124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047364740968792276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047316078678941733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuigehaijao124: 每天就在微信和X上面来回切 下意识点开微信根本就没有人给我发信息就回到X 依旧没有人理我 然后如此反复。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932959085374418944",
+        "conversation_id": "2047316078678941733",
+        "created_at": "2026-04-23T14:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047316078678941733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047316078678941733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 447,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每天就在微信和X上面来回切 下意识点开微信根本就没有人给我发信息就回到X 依旧没有人理我 然后如此反复。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 149,
+          "like_count": 1149,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 879
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T00:32:25.000Z",
+        "description": "想要很多钱和很多爱｜可以叫我叛逆｜07｜天蝎座｜xp是扇脸掐脖子粗口｜恋哥癖手控声控重度依赖^^🥣：周末接瓦｜不闲聊别骚扰 \n老婆：@Babyzxixim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "Babyzxixim"
+              }
+            ]
+          }
+        },
+        "id": "1932959085374418944",
+        "location": "不约不线下 🚪152/288/520/1314",
+        "name": "老公叛逆被判有妻徒刑",
+        "pinned_tweet_id": "2041802938516226108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999446331384094720/w_KrKy3-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 63,
+          "like_count": 1013,
+          "listed_count": 3,
+          "media_count": 136,
+          "tweet_count": 758
+        },
+        "username": "shuigehaijao124",
+        "verified": false
+      }
+    ]
+  }
+}

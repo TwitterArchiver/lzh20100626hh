@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2074824971667534231",
+    "created_at": "2026-07-08T11:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074824971667534231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2049690086623911936",
+          "start": 3,
+          "username": "2hollisshowmore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074824971667534231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074396228927045851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2hollisshowmore: 卧槽仔细想想有个几把真的挺方便 比如说逛商场累了可以把手提袋挂几把上歇一下谢谢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2074824971667534231",
+        "created_at": "2026-07-08T11:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074824971667534231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2049690086623911936",
+              "start": 3,
+              "username": "2hollisshowmore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074824971667534231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074396228927045851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2hollisshowmore: 卧槽仔细想想有个几把真的挺方便 比如说逛商场累了可以把手提袋挂几把上歇一下谢谢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049690086623911936",
+        "conversation_id": "2074396228927045851",
+        "created_at": "2026-07-07T07:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074396228927045851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074396228927045851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 28893,
+          "like_count": 244,
+          "quote_count": 2,
+          "reply_count": 64,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽仔细想想有个几把真的挺方便 比如说逛商场累了可以把手提袋挂几把上歇一下谢谢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 400,
+          "like_count": 1858,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1424
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T03:20:41.000Z",
+        "description": "我只是一只很懵逼的蛋小黄\n头像是本人。\n匿名提问箱：https://t.co/hEg7RobMK2\n喜欢蛋小黄的话呢。请投喂咸鱼币。嘎哒嘎哒",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%8F%AA%E5%9…",
+                "end": 49,
+                "expanded_url": "https://ngl.link/%E6%8F%AA%E5%92%AAovo",
+                "start": 26,
+                "url": "https://t.co/hEg7RobMK2"
+              }
+            ]
+          }
+        },
+        "id": "2049690086623911936",
+        "name": "蛋蛋的忧桑≡ω≡",
+        "pinned_tweet_id": "2056628959488647343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058374843717111808/kWEsQxSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 248,
+          "like_count": 1157,
+          "listed_count": 2,
+          "media_count": 390,
+          "tweet_count": 2253
+        },
+        "url": "",
+        "username": "2hollisshowmore",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2001317510348779610",
+    "created_at": "2025-12-17T15:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T16:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001317510348779610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880306944784887811",
+          "start": 3,
+          "username": "yuyuYYUU0901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001317510348779610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922790142479122571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuyuYYUU0901: 感觉我玩的是单人版推特，没人跟我互动，没人喜欢我，没人给我发私信，没人跟我点赞，你们哪些有人关注的推特到底哪里下载的，求分享🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2001317510348779610",
+        "created_at": "2025-12-17T15:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T16:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001317510348779610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880306944784887811",
+              "start": 3,
+              "username": "yuyuYYUU0901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001317510348779610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922790142479122571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuyuYYUU0901: 感觉我玩的是单人版推特，没人跟我互动，没人喜欢我，没人给我发私信，没人跟我点赞，你们哪些有人关注的推特到底哪里下载的，求分享🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880306944784887811",
+        "conversation_id": "1922790142479122571",
+        "created_at": "2025-05-14T23:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T00:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922790142479122571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Raincandy_1937…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/Raincandy_1937/status/1922693062590902753",
+              "start": 65,
+              "url": "https://t.co/9znRYGXcKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922790142479122571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 527,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922693062590902753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉我玩的是单人版推特，没人跟我互动，没人喜欢我，没人给我发私信，没人跟我点赞，你们哪些有人关注的推特到底哪里下载的，求分享🥺🥺 https://t.co/9znRYGXcKG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦\n废话｜od｜身体",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001214410438983819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 25,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 51
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T17:31:36.000Z",
+        "description": "不太相信有人能对另一个人一直保持纯粹的单恋的。单恋久了是会恨的，会痛的，痛到忍不住弯下腰来，酸胀满溢，想流着泪去质问她为什么不爱我，又想告诉她我恨你，我恨你，都是你把我变成这个样子，凭什么痛苦的饱受折磨的只有我一个，你只顾享受我对你付出的一切，你真的好自私，其实最想的还是跪下去抓着她的裙角抬头哀求她，爱我吧，你爱我吧",
+        "id": "1880306944784887811",
+        "location": "New Taipei City, Taiwan",
+        "name": "死鱼",
+        "pinned_tweet_id": "1999552745712304587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971540131166535680/ICkAyUwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 687,
+          "like_count": 4358,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 5114
+        },
+        "username": "yuyuYYUU0901",
+        "verified": false
+      }
+    ]
+  }
+}

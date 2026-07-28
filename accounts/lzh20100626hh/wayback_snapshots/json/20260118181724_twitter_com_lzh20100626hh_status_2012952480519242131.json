@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2012952480519242131",
+    "created_at": "2026-01-18T18:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T19:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012952480519242131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Qiu1647/status…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/Qiu1647/status/2012922569297469474",
+          "start": 64,
+          "url": "https://t.co/ciRZ8MMnlK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012952480519242131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012922569297469474",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说这句不太合适但是这他妈简直就是我。冰美式辣烟烈酒 有关自杀自残的scene 饿到低血糖倒在床上 硬物穿过软组织 锐物划破皮肤 https://t.co/ciRZ8MMnlK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2012952480519242131",
+        "created_at": "2026-01-18T18:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T19:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012952480519242131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Qiu1647/status…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/Qiu1647/status/2012922569297469474",
+              "start": 64,
+              "url": "https://t.co/ciRZ8MMnlK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012952480519242131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012922569297469474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说这句不太合适但是这他妈简直就是我。冰美式辣烟烈酒 有关自杀自残的scene 饿到低血糖倒在床上 硬物穿过软组织 锐物划破皮肤 https://t.co/ciRZ8MMnlK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490543758160527361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2012922569297469474",
+        "created_at": "2026-01-18T16:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T17:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012922569297469474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012922569297469474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不喜欢甜的东西\n\n我喜欢冰冷的苦咖啡，辛辣的酒和烟，悲情的歌和电影。\n我喜欢饥饿的感觉，把胃里东西吐掉的轻松感。我喜欢锐器划过神经末梢的疼痛。\n\n我总是让自己冷冰冰，总是故意让自己流血和流泪。\n\n因为我想要让痛苦把我变得深刻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜sh",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2010645337543967011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 42,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 200
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T04:32:15.000Z",
+        "description": "男。eating and life disorder。脾气差，傻逼滚，不恋爱，不发大尺度照片。",
+        "id": "1490543758160527361",
+        "name": "Hskx（h，黑色可信",
+        "pinned_tweet_id": "2010225538376646716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010363043881070592/INvhdBHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 1547,
+          "like_count": 69720,
+          "listed_count": 6,
+          "media_count": 620,
+          "tweet_count": 16271
+        },
+        "username": "Qiu1647",
+        "verified": false
+      }
+    ]
+  }
+}

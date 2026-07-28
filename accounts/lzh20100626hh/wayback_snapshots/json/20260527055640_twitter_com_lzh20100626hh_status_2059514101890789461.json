@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2059262304269812185",
+    "created_at": "2026-05-27T05:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059514101890789461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827754267551395840",
+          "start": 0,
+          "username": "MosaicIceRoll"
+        },
+        {
+          "end": 23,
+          "id": "2058484419581870080",
+          "start": 15,
+          "username": "12S1dsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059514101890789461",
+    "in_reply_to_user_id": "1827754267551395840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059513141567119773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MosaicIceRoll @12S1dsb 在北京这边没有找到合适的固色洗发水😿外卖点太贵了要好几十 不知道哪天回家还不能网购。打算今晚回宾馆再找找"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2059262304269812185",
+        "created_at": "2026-05-27T05:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059514101890789461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827754267551395840",
+              "start": 0,
+              "username": "MosaicIceRoll"
+            },
+            {
+              "end": 23,
+              "id": "2058484419581870080",
+              "start": 15,
+              "username": "12S1dsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059514101890789461",
+        "in_reply_to_user_id": "1827754267551395840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059513141567119773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MosaicIceRoll @12S1dsb 在北京这边没有找到合适的固色洗发水😿外卖点太贵了要好几十 不知道哪天回家还不能网购。打算今晚回宾馆再找找"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827754267551395840",
+        "conversation_id": "2059262304269812185",
+        "created_at": "2026-05-27T05:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059513141567119773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            },
+            {
+              "end": 23,
+              "id": "2058484419581870080",
+              "start": 15,
+              "username": "12S1dsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059513141567119773",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059264974720266484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh @12S1dsb 宝儿这种全头红直接上固色洗发水呀！！好用的勒！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦 第二人格叫西西 第三人格是♂叫茧 ✨激推@Lxmzs233_明鏡✨@Cristinai1b小綺✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Lxmzs233_"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 344,
+          "like_count": 1504,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1165
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T17:06:04.000Z",
+        "description": "我是冰卷，叫我冰就行，\nshtwt/overdosetwt/edtwt,\n互fo希望，喜欢装熟...",
+        "id": "1827754267551395840",
+        "location": "大电池鲶鱼保护中心",
+        "name": "_(:3」∠)_",
+        "pinned_tweet_id": "2058425911452807222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830319129904975873/HzgrEU7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 219,
+          "like_count": 390,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1080
+        },
+        "username": "MosaicIceRoll",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T09:45:49.000Z",
+        "description": "从出生没少往死里嗫，打那起多活一天都是赚的/烟袋",
+        "id": "2058484419581870080",
+        "location": "Jiput, Indonesia",
+        "name": "叫我12就好了",
+        "pinned_tweet_id": "2058890118145171528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058493615861907457/hNojcrDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 90,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 81
+        },
+        "username": "12S1dsb",
+        "verified": false
+      }
+    ]
+  }
+}

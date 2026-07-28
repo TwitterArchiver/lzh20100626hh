@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001822962270519296",
+        "3_2001822962308255744",
+        "3_2001822962769686528",
+        "3_2001822968297697281"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2001822971195986208",
+    "created_at": "2025-12-19T01:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T02:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001822971195986208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0kebg7myco",
+          "end": 32,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2001822971195986208/photo/1",
+          "media_key": "3_2001822962270519296",
+          "start": 9,
+          "url": "https://t.co/0kebg7myco"
+        },
+        {
+          "display_url": "pic.x.com/0kebg7myco",
+          "end": 32,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2001822971195986208/photo/1",
+          "media_key": "3_2001822962308255744",
+          "start": 9,
+          "url": "https://t.co/0kebg7myco"
+        },
+        {
+          "display_url": "pic.x.com/0kebg7myco",
+          "end": 32,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2001822971195986208/photo/1",
+          "media_key": "3_2001822962769686528",
+          "start": 9,
+          "url": "https://t.co/0kebg7myco"
+        },
+        {
+          "display_url": "pic.x.com/0kebg7myco",
+          "end": 32,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2001822971195986208/photo/1",
+          "media_key": "3_2001822968297697281",
+          "start": 9,
+          "url": "https://t.co/0kebg7myco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001822971195986208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🚪 爱我就给我钱 https://t.co/0kebg7myco"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001822962270519296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8fnYMlawAAuw7b.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1076,
+        "media_key": "3_2001822962308255744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8fnYMuakAApMgi.jpg",
+        "width": 872
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2001822962769686528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8fnYOcbcAA1Qzj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 904,
+        "media_key": "3_2001822968297697281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8fnYjCaMAE30Ss.jpg",
+        "width": 721
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001822962270519296",
+            "3_2001822962308255744",
+            "3_2001822962769686528",
+            "3_2001822968297697281"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2001822971195986208",
+        "created_at": "2025-12-19T01:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T02:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001822971195986208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kebg7myco",
+              "end": 32,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2001822971195986208/photo/1",
+              "media_key": "3_2001822962270519296",
+              "start": 9,
+              "url": "https://t.co/0kebg7myco"
+            },
+            {
+              "display_url": "pic.x.com/0kebg7myco",
+              "end": 32,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2001822971195986208/photo/1",
+              "media_key": "3_2001822962308255744",
+              "start": 9,
+              "url": "https://t.co/0kebg7myco"
+            },
+            {
+              "display_url": "pic.x.com/0kebg7myco",
+              "end": 32,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2001822971195986208/photo/1",
+              "media_key": "3_2001822962769686528",
+              "start": 9,
+              "url": "https://t.co/0kebg7myco"
+            },
+            {
+              "display_url": "pic.x.com/0kebg7myco",
+              "end": 32,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2001822971195986208/photo/1",
+              "media_key": "3_2001822968297697281",
+              "start": 9,
+              "url": "https://t.co/0kebg7myco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001822971195986208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🚪 爱我就给我钱 https://t.co/0kebg7myco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜\n🚪具体请私信！\n喜欢什么风格我都可以尝试！",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001711040627904694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 99
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

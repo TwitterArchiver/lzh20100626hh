@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072628451056795648",
+        "3_2072628451799072768",
+        "3_2072628451518173184"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2072628455595012597",
+    "created_at": "2026-07-02T10:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072628455595012597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jb1QZz58bJ",
+          "end": 28,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2072628455595012597/photo/1",
+          "media_key": "3_2072628451056795648",
+          "start": 5,
+          "url": "https://t.co/jb1QZz58bJ"
+        },
+        {
+          "display_url": "pic.x.com/jb1QZz58bJ",
+          "end": 28,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2072628455595012597/photo/1",
+          "media_key": "3_2072628451799072768",
+          "start": 5,
+          "url": "https://t.co/jb1QZz58bJ"
+        },
+        {
+          "display_url": "pic.x.com/jb1QZz58bJ",
+          "end": 28,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2072628455595012597/photo/1",
+          "media_key": "3_2072628451518173184",
+          "start": 5,
+          "url": "https://t.co/jb1QZz58bJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072628455595012597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "比较丑陋 https://t.co/jb1QZz58bJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072628451056795648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN0mFCbwAAu-4_.jpg",
+        "width": 919
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072628451799072768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN0mHzaAAAA_Qg.jpg",
+        "width": 919
+      },
+      {
+        "height": 1004,
+        "media_key": "3_2072628451518173184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN0mGwb0AAhQ_B.jpg",
+        "width": 620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072628451056795648",
+            "3_2072628451799072768",
+            "3_2072628451518173184"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2072628455595012597",
+        "created_at": "2026-07-02T10:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072628455595012597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jb1QZz58bJ",
+              "end": 28,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2072628455595012597/photo/1",
+              "media_key": "3_2072628451056795648",
+              "start": 5,
+              "url": "https://t.co/jb1QZz58bJ"
+            },
+            {
+              "display_url": "pic.x.com/jb1QZz58bJ",
+              "end": 28,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2072628455595012597/photo/1",
+              "media_key": "3_2072628451799072768",
+              "start": 5,
+              "url": "https://t.co/jb1QZz58bJ"
+            },
+            {
+              "display_url": "pic.x.com/jb1QZz58bJ",
+              "end": 28,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2072628455595012597/photo/1",
+              "media_key": "3_2072628451518173184",
+              "start": 5,
+              "url": "https://t.co/jb1QZz58bJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072628455595012597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比较丑陋 https://t.co/jb1QZz58bJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 391,
+          "like_count": 1775,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1381
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

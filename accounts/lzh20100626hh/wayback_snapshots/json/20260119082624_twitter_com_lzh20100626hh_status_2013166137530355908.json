@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013166134665601024",
+        "3_2013166133910650880"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2013166137530355908",
+    "created_at": "2026-01-19T08:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T09:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013166137530355908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pqddsi9kX8",
+          "end": 84,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2013166137530355908/photo/1",
+          "media_key": "3_2013166134665601024",
+          "start": 61,
+          "url": "https://t.co/pqddsi9kX8"
+        },
+        {
+          "display_url": "pic.x.com/pqddsi9kX8",
+          "end": 84,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2013166137530355908/photo/1",
+          "media_key": "3_2013166133910650880",
+          "start": 61,
+          "url": "https://t.co/pqddsi9kX8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013166137530355908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就是那个我都幸福了，冬天一边听着喜欢的歌一边在绘画软件上拉屎。微信余额两块三也能喝上上海少妇，小镜镜给我点的吧！么么么！ https://t.co/pqddsi9kX8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013166134665601024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Az7uqW4AAoAdv.jpg",
+        "width": 919
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2013166133910650880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Az7r2XQAA5PYm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013166134665601024",
+            "3_2013166133910650880"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2013166137530355908",
+        "created_at": "2026-01-19T08:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T09:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013166137530355908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqddsi9kX8",
+              "end": 84,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2013166137530355908/photo/1",
+              "media_key": "3_2013166134665601024",
+              "start": 61,
+              "url": "https://t.co/pqddsi9kX8"
+            },
+            {
+              "display_url": "pic.x.com/pqddsi9kX8",
+              "end": 84,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2013166137530355908/photo/1",
+              "media_key": "3_2013166133910650880",
+              "start": 61,
+              "url": "https://t.co/pqddsi9kX8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013166137530355908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是那个我都幸福了，冬天一边听着喜欢的歌一边在绘画软件上拉屎。微信余额两块三也能喝上上海少妇，小镜镜给我点的吧！么么么！ https://t.co/pqddsi9kX8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜sh",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2010645337543967011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 43,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 200
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

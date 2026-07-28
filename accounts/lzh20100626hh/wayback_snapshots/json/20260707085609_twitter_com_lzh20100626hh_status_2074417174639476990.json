@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2064356871352520724",
+    "created_at": "2026-07-07T08:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074417174639476990"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074417174639476990",
+    "in_reply_to_user_id": "2000658943144812548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064356871352520724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我没在扩。因为我喜欢西太后的一款耳钉我就想着。万一以后有钱买然后戴上了呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064356867082772481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYRohgbYAET831.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2064356871352520724",
+        "created_at": "2026-07-07T08:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074417174639476990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074417174639476990",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064356871352520724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我没在扩。因为我喜欢西太后的一款耳钉我就想着。万一以后有钱买然后戴上了呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064356867082772481"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2064356871352520724",
+        "created_at": "2026-06-09T14:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064356871352520724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aq8D267vaQ",
+              "end": 35,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2064356871352520724/photo/1",
+              "media_key": "3_2064356867082772481",
+              "start": 12,
+              "url": "https://t.co/Aq8D267vaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064356871352520724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 911,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扩耳啊哈哈哈哈哈开心了 https://t.co/Aq8D267vaQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 398,
+          "like_count": 1820,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1411
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

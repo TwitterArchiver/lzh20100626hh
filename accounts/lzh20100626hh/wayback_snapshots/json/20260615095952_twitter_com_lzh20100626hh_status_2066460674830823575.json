@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2064359340786778521",
+    "created_at": "2026-06-15T09:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066460674830823575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1905072656875134976",
+          "start": 0,
+          "username": "jian90392"
+        },
+        {
+          "end": 23,
+          "id": "2060006148087181312",
+          "start": 11,
+          "username": "tristeza226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066460674830823575",
+    "in_reply_to_user_id": "1905072656875134976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064848046501093594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jian90392 @tristeza226 我靠牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2064359340786778521",
+        "created_at": "2026-06-15T09:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066460674830823575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1905072656875134976",
+              "start": 0,
+              "username": "jian90392"
+            },
+            {
+              "end": 23,
+              "id": "2060006148087181312",
+              "start": 11,
+              "username": "tristeza226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066460674830823575",
+        "in_reply_to_user_id": "1905072656875134976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064848046501093594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jian90392 @tristeza226 我靠牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905072656875134976",
+        "conversation_id": "2064359340786778521",
+        "created_at": "2026-06-10T23:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T00:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064848046501093594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            },
+            {
+              "end": 27,
+              "id": "2060006148087181312",
+              "start": 15,
+              "username": "tristeza226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064848046501093594",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064571850882179363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh @tristeza226 铁子我10000粉丝了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 我们一跃而下",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 378,
+          "like_count": 1644,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1302
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T01:41:40.000Z",
+        "description": "直男    男的想认识过🚪但也不约  定制就过🚪  没有时间和一些人废话  🚪288 （月度不永久）",
+        "id": "1905072656875134976",
+        "location": "天津河北区  288🚪",
+        "name": "月亮岛里月亮鱼",
+        "pinned_tweet_id": "2060494691083375025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053777200617594880/JGOY0uji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10673,
+          "following_count": 336,
+          "like_count": 197,
+          "listed_count": 48,
+          "media_count": 84,
+          "tweet_count": 155
+        },
+        "username": "jian90392",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T14:33:28.000Z",
+        "description": "重生 大号 @xioqngx286233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "xioqngx286233"
+              }
+            ]
+          }
+        },
+        "id": "2060006148087181312",
+        "name": "小情绪",
+        "pinned_tweet_id": "2063537080979059147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063453768226836480/_nRosshY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 167,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 149
+        },
+        "username": "tristeza226",
+        "verified": false
+      }
+    ]
+  }
+}

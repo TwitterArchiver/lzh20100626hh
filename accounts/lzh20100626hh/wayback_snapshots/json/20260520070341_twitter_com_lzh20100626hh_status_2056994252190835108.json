@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056994202761015296",
+        "3_2056994235409477632"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2056994252190835108",
+    "created_at": "2026-05-20T07:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056994252190835108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZkEVK8nIdW",
+          "end": 34,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2056994252190835108/photo/1",
+          "media_key": "3_2056994202761015296",
+          "start": 11,
+          "url": "https://t.co/ZkEVK8nIdW"
+        },
+        {
+          "display_url": "pic.x.com/ZkEVK8nIdW",
+          "end": 34,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2056994252190835108/photo/1",
+          "media_key": "3_2056994235409477632",
+          "start": 11,
+          "url": "https://t.co/ZkEVK8nIdW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056994252190835108",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日のコーディネート https://t.co/ZkEVK8nIdW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056994202761015296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvpVDibsAANmtJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1591,
+        "media_key": "3_2056994235409477632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvpW9KbsAAl571.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056994202761015296",
+            "3_2056994235409477632"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2056994252190835108",
+        "created_at": "2026-05-20T07:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056994252190835108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZkEVK8nIdW",
+              "end": 34,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2056994252190835108/photo/1",
+              "media_key": "3_2056994202761015296",
+              "start": 11,
+              "url": "https://t.co/ZkEVK8nIdW"
+            },
+            {
+              "display_url": "pic.x.com/ZkEVK8nIdW",
+              "end": 34,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2056994252190835108/photo/1",
+              "media_key": "3_2056994235409477632",
+              "start": 11,
+              "url": "https://t.co/ZkEVK8nIdW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056994252190835108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日のコーディネート https://t.co/ZkEVK8nIdW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜双相｜解离型身份障碍｜ADHD｜双性恋｜鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧 ✨激推の@Lxmzs233明鏡✨小繁繁@Cristinai1b✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "Lxmzs233"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2056744177984266427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 314,
+          "like_count": 1355,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1039
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062970661958791168"
+      ],
+      "media_source_tweet_id": [
+        "2062970664160809111"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2063791797936271611",
+    "created_at": "2026-06-08T01:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T02:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063791797936271611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055521229625262080",
+          "start": 3,
+          "username": "ynxxx_jjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7q1rDglHi8",
+          "end": 92,
+          "expanded_url": "https://x.com/ynxxx_jjkk/status/2062970664160809111/photo/1",
+          "media_key": "3_2062970661958791168",
+          "start": 69,
+          "url": "https://t.co/7q1rDglHi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063791797936271611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062970664160809111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ynxxx_jjkk: 我是旖旎，自从1.0后，我的2.0账号也被封锁了。马斯克一直追着我杀。求求大家帮忙转转，蹲蹲前两世互关。 https://t.co/7q1rDglHi8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2062970661958791168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEk4xAbMAAcQZU.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062970661958791168"
+          ],
+          "media_source_tweet_id": [
+            "2062970664160809111"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2063791797936271611",
+        "created_at": "2026-06-08T01:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063791797936271611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055521229625262080",
+              "start": 3,
+              "username": "ynxxx_jjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7q1rDglHi8",
+              "end": 92,
+              "expanded_url": "https://x.com/ynxxx_jjkk/status/2062970664160809111/photo/1",
+              "media_key": "3_2062970661958791168",
+              "start": 69,
+              "url": "https://t.co/7q1rDglHi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063791797936271611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062970664160809111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ynxxx_jjkk: 我是旖旎，自从1.0后，我的2.0账号也被封锁了。马斯克一直追着我杀。求求大家帮忙转转，蹲蹲前两世互关。 https://t.co/7q1rDglHi8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062970661958791168"
+          ]
+        },
+        "author_id": "2055521229625262080",
+        "conversation_id": "2062970664160809111",
+        "created_at": "2026-06-05T18:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062970664160809111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7q1rDglHi8",
+              "end": 76,
+              "expanded_url": "https://x.com/ynxxx_jjkk/status/2062970664160809111/photo/1",
+              "media_key": "3_2062970661958791168",
+              "start": 53,
+              "url": "https://t.co/7q1rDglHi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062970664160809111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1563,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我是旖旎，自从1.0后，我的2.0账号也被封锁了。马斯克一直追着我杀。求求大家帮忙转转，蹲蹲前两世互关。 https://t.co/7q1rDglHi8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 我们一跃而下  \n✨@Cristinai1b小綺✨\n唯一雷点是评价我的眉毛 请不要问我眉毛怎么没了这种话",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 371,
+          "like_count": 1611,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1276
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T05:30:39.000Z",
+        "description": "我的病历本。\n我没招了，我两个号都被封了，\n这是我的3.0了",
+        "id": "2055521229625262080",
+        "name": "旖旎3.0",
+        "pinned_tweet_id": "2062970664160809111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055521656643502080/L8pEAvzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 137,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 39
+        },
+        "username": "ynxxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

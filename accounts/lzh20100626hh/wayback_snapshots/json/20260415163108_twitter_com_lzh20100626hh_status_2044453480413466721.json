@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2044453480413466721",
+    "created_at": "2026-04-15T16:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T17:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044453480413466721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1960348162616672256",
+          "start": 3,
+          "username": "rainw20100301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044453480413466721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044034075590308306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rainw20100301: 我想互fo……餐券妹、oder或者其它同类都可以来！！求转求转拜托了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2044453480413466721",
+        "created_at": "2026-04-15T16:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044453480413466721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1960348162616672256",
+              "start": 3,
+              "username": "rainw20100301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044453480413466721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044034075590308306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rainw20100301: 我想互fo……餐券妹、oder或者其它同类都可以来！！求转求转拜托了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960348162616672256",
+        "conversation_id": "2044034075590308306",
+        "created_at": "2026-04-14T12:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044034075590308306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044034075590308306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1023,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我想互fo……餐券妹、oder或者其它同类都可以来！！求转求转拜托了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 147,
+          "like_count": 1052,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 822
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T14:26:50.000Z",
+        "description": "可以叫我雨温或uon\n10年丨♀️丨精神状态不稳定但温良丨od丨自残丨碎碎念 | 喜欢聊天！求同类互fo🫶",
+        "id": "1960348162616672256",
+        "location": "天国",
+        "name": "uon",
+        "pinned_tweet_id": "2044290333367017765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041393983805689856/i3YSFzXe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 102,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 67
+        },
+        "username": "rainw20100301",
+        "verified": false
+      }
+    ]
+  }
+}

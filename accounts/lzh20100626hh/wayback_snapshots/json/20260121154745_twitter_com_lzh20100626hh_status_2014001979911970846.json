@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2014001979911970846",
+    "created_at": "2026-01-21T15:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T16:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014001979911970846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 31,
+          "id": "1490988806702604296",
+          "start": 21,
+          "username": "Lxmzs233_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014001979911970846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那不是痛苦的来源 是未来成就更好的你的经历@Lxmzs233_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2014001979911970846",
+        "created_at": "2026-01-21T15:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014001979911970846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1490988806702604296",
+              "start": 21,
+              "username": "Lxmzs233_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014001979911970846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那不是痛苦的来源 是未来成就更好的你的经历@Lxmzs233_"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜sh｜双相｜ ADHD   \n同类来互fo 我想和你们交朋友好不好呀 我很温良\n@Lxmzs233_我俩超级无敌霹雳至尊好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 50,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 281
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T10:00:27.000Z",
+        "description": "悲苦齑粉",
+        "id": "1490988806702604296",
+        "location": "東百",
+        "name": "𝒟ℯ𝓁𝒾𝓇𝒾𝒶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009573998024413185/S_XG1XFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 148,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 168
+        },
+        "username": "Lxmzs233_",
+        "verified": false
+      }
+    ]
+  }
+}

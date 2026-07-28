@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2059898109996786114",
+    "created_at": "2026-05-28T08:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059916658597335256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1957049300867059712",
+          "start": 0,
+          "username": "Phthonus78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059916658597335256",
+    "in_reply_to_user_id": "1957049300867059712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059915047514869870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phthonus78 是的。我不行了。被骂没劲了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2059898109996786114",
+        "created_at": "2026-05-28T08:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059916658597335256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1957049300867059712",
+              "start": 0,
+              "username": "Phthonus78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059916658597335256",
+        "in_reply_to_user_id": "1957049300867059712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059915047514869870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phthonus78 是的。我不行了。被骂没劲了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957049300867059712",
+        "conversation_id": "2059898109996786114",
+        "created_at": "2026-05-28T08:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059915047514869870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059915047514869870",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059898109996786114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh 之前那个怀孕（好像是？）的文案吗？乍一看真的吓一跳。不过玩抽象就是这样，经常要给普通人参考文献和笑点解析，遇到懂你电波的就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦 第二人格叫西西 第三人格是♂叫茧 ✨激推@Lxmzs233_明鏡✨@Cristinai1b小綺✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Lxmzs233_"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 357,
+          "like_count": 1533,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1205
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T11:58:23.000Z",
+        "description": "♂，♋️，infp-t，05后，pink\n雷NTR，R-18G，键政🚫",
+        "id": "1957049300867059712",
+        "location": "湘皖",
+        "name": "炫鴨翼潇濋湳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007469771101757440/hCMU0bj5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 748,
+          "like_count": 10137,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 338
+        },
+        "username": "Phthonus78",
+        "verified": false
+      }
+    ]
+  }
+}

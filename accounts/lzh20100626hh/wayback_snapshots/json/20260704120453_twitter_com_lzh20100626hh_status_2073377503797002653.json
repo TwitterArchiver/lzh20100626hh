@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2073375022048313588",
+    "created_at": "2026-07-04T12:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073377503797002653"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073377503797002653",
+    "in_reply_to_user_id": "2000658943144812548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073376849548517748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再然后我要画我产品了，有点激动，或者是我自设手书，那将是我第一次画手书。我刷到了一个老师的视频太强了。然后老师说可以仿。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2073375022048313588",
+        "created_at": "2026-07-04T12:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073377503797002653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073377503797002653",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073376849548517748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再然后我要画我产品了，有点激动，或者是我自设手书，那将是我第一次画手书。我刷到了一个老师的视频太强了。然后老师说可以仿。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2073375022048313588",
+        "created_at": "2026-07-04T12:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073376849548517748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073376849548517748",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073375022048313588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后呢，我要画我脑婆的自设，画一张大头，或者是半身，其实就是我们两个都喜欢那张梗图的动作，我再拿到新画布细化一下。诶呀，这张梗图上的太小了。我一个像素点一个像素点的在画"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 393,
+          "like_count": 1780,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1388
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

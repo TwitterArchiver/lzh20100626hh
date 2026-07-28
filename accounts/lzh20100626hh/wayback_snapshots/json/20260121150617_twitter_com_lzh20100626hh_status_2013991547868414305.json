@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2013991547868414305",
+    "created_at": "2026-01-21T15:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T16:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013991547868414305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lzh20100626hh/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/lzh20100626hh/status/2013972048453009549",
+          "start": 12,
+          "url": "https://t.co/rjQESnvIYo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013991547868414305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013972048453009549",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "＋5t普瑞  2t愈美 https://t.co/rjQESnvIYo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2013991547868414305",
+        "created_at": "2026-01-21T15:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013991547868414305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lzh20100626hh/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/lzh20100626hh/status/2013972048453009549",
+              "start": 12,
+              "url": "https://t.co/rjQESnvIYo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013991547868414305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013972048453009549",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "＋5t普瑞  2t愈美 https://t.co/rjQESnvIYo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2013972048453009549",
+        "created_at": "2026-01-21T13:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013972048453009549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lzh20100626hh/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/lzh20100626hh/status/2013971589008851102",
+              "start": 28,
+              "url": "https://t.co/3zZjF4Wxmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013972048453009549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013971589008851102",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好久没吃普瑞了。不知道还有没有耐受。总之先来10t试试 https://t.co/3zZjF4Wxmc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜sh｜双相｜ ADHD   \n同类来互fo 我想和你们交朋友好不好呀 我很温良\n@Lxmzs233_我俩超级无敌霹雳至尊好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 50,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 280
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

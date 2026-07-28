@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2043294269675631077",
+    "created_at": "2026-04-12T11:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043294269675631077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1814242147605893120",
+          "start": 3,
+          "username": "hehuan333202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043294269675631077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042619703915594221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hehuan333202: 最夸张的幻想竟然是和一个人一直一直在一起。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2043294269675631077",
+        "created_at": "2026-04-12T11:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043294269675631077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1814242147605893120",
+              "start": 3,
+              "username": "hehuan333202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043294269675631077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042619703915594221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hehuan333202: 最夸张的幻想竟然是和一个人一直一直在一起。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814242147605893120",
+        "conversation_id": "2042619703915594221",
+        "created_at": "2026-04-10T15:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042619703915594221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042619703915594221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 44664,
+          "like_count": 1251,
+          "quote_count": 14,
+          "reply_count": 44,
+          "retweet_count": 235
+        },
+        "reply_settings": "everyone",
+        "text": "最夸张的幻想竟然是和一个人一直一直在一起。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 129,
+          "like_count": 972,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 748
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T10:13:52.000Z",
+        "description": "以此观我，所见即所得。\nles|infj|dom1\n/私信会回/不接推广/男的别来\n🚫原创文字禁止转载",
+        "id": "1814242147605893120",
+        "location": "52🚪",
+        "name": "疑心病",
+        "pinned_tweet_id": "2020350432917483651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030205782533517312/DRn8Ed56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3867,
+          "following_count": 332,
+          "like_count": 3199,
+          "listed_count": 4,
+          "media_count": 58,
+          "tweet_count": 448
+        },
+        "username": "hehuan333202",
+        "verified": false
+      }
+    ]
+  }
+}

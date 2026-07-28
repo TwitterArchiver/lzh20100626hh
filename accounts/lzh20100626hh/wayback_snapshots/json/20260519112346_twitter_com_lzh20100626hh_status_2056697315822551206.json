@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2056697315822551206",
+    "created_at": "2026-05-19T11:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056697315822551206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1414269095416012806",
+          "start": 3,
+          "username": "Coconut_QuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056697315822551206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056318145636466818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Coconut_QuQ: 介绍一下我自己 初中学历县城出生家里欠债 精神有问题 没有暴露癖 自尊心较强长得不尽人意 全身符文附魔 身材毫无美感 社会化程度低 嘴巴贱智商低 头脑简单耐心为零 目前想要一个稳定月薪过万且不需要什么脑子最好可以每天在家看二次元的工作 有没有适…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2056697315822551206",
+        "created_at": "2026-05-19T11:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056697315822551206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1414269095416012806",
+              "start": 3,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056697315822551206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056318145636466818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Coconut_QuQ: 介绍一下我自己 初中学历县城出生家里欠债 精神有问题 没有暴露癖 自尊心较强长得不尽人意 全身符文附魔 身材毫无美感 社会化程度低 嘴巴贱智商低 头脑简单耐心为零 目前想要一个稳定月薪过万且不需要什么脑子最好可以每天在家看二次元的工作 有没有适…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2056318145636466818",
+        "created_at": "2026-05-18T10:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056318145636466818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056318145636466818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11382,
+          "like_count": 178,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "介绍一下我自己 初中学历县城出生家里欠债 精神有问题 没有暴露癖 自尊心较强长得不尽人意 全身符文附魔 身材毫无美感 社会化程度低 嘴巴贱智商低 头脑简单耐心为零 目前想要一个稳定月薪过万且不需要什么脑子最好可以每天在家看二次元的工作 有没有适合我的职业规划发展"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜双相｜解离型身份障碍｜ADHD｜双性恋｜鸦鸦是主人格｜第二人格叫西西｜第三人格是♂叫茧 ✨激推の@Lxmzs233明鏡✨小繁繁@Cristinai1b✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "Lxmzs233"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2047897363289903320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 298,
+          "like_count": 1292,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 987
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5733,
+          "following_count": 23,
+          "like_count": 94,
+          "listed_count": 11,
+          "media_count": 35,
+          "tweet_count": 58
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

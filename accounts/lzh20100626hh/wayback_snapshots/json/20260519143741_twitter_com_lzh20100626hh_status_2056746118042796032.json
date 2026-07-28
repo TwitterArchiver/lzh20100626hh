@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2056696123365249234",
+    "created_at": "2026-05-19T14:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056746118042796032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2017823427298766848",
+          "start": 0,
+          "username": "AEason_chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056746118042796032",
+    "in_reply_to_user_id": "2017823427298766848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056696123365249234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AEason_chen 我不行了我今天一天都在医院刷推"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2056696123365249234",
+        "created_at": "2026-05-19T14:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056746118042796032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2017823427298766848",
+              "start": 0,
+              "username": "AEason_chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056746118042796032",
+        "in_reply_to_user_id": "2017823427298766848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056696123365249234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AEason_chen 我不行了我今天一天都在医院刷推"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017823427298766848",
+        "conversation_id": "2056696123365249234",
+        "created_at": "2026-05-19T11:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056696123365249234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056696123365249234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 623,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我又在急诊大庭广众之下玩推特😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜双相｜解离型身份障碍｜ADHD｜双性恋｜鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧 ✨激推の@Lxmzs233明鏡✨小繁繁@Cristinai1b✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "Lxmzs233"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2056744177984266427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 301,
+          "like_count": 1309,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1001
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T04:52:55.000Z",
+        "description": "07苦命高中休学生｜抽象文学｜INFJ/switch｜ 若你喜欢怪人 其实我很美｜\nᗴ͜ꩰ(՞⸝⸝o̴̶̷̥᷅  ̫ o̴̶̷᷄⸝⸝՞) ꩰ͜ᗱ@chennnnn0v0黑暗小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "chennnnn0v0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/renleigaozhili…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/renleigaozhiliangnanxing58",
+                "start": 0,
+                "url": "https://t.co/Tq5oRc96uc"
+              }
+            ]
+          }
+        },
+        "id": "2017823427298766848",
+        "location": "发明宝宝这个词的人真的是个天才只需要两个字就能把我骗的团团转",
+        "name": "搓澡巾",
+        "pinned_tweet_id": "2034329173481886129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018240658058903553/u0YT8f3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 257,
+          "like_count": 22976,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/Tq5oRc96uc",
+        "username": "AEason_chen",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058086921793146880",
+        "3_2058086921801506816",
+        "3_2058086921830830080",
+        "3_2058086924280369152"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2058086945105092622",
+    "created_at": "2026-05-23T07:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058086945105092622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UZ98UrMMMW",
+          "end": 181,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2058086945105092622/photo/1",
+          "media_key": "3_2058086921793146880",
+          "start": 158,
+          "url": "https://t.co/UZ98UrMMMW"
+        },
+        {
+          "display_url": "pic.x.com/UZ98UrMMMW",
+          "end": 181,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2058086945105092622/photo/1",
+          "media_key": "3_2058086921801506816",
+          "start": 158,
+          "url": "https://t.co/UZ98UrMMMW"
+        },
+        {
+          "display_url": "pic.x.com/UZ98UrMMMW",
+          "end": 181,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2058086945105092622/photo/1",
+          "media_key": "3_2058086921830830080",
+          "start": 158,
+          "url": "https://t.co/UZ98UrMMMW"
+        },
+        {
+          "display_url": "pic.x.com/UZ98UrMMMW",
+          "end": 181,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2058086945105092622/photo/1",
+          "media_key": "3_2058086924280369152",
+          "start": 158,
+          "url": "https://t.co/UZ98UrMMMW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058086945105092622",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "欢迎光临 这里鸦鸦ε٩(๑&gt; ₃ &lt;)۶з｜双相情感障碍｜解离型身份障碍｜10年阴历6.26｜穿孔｜od｜sh｜🚬9⃣️｜双性恋｜ip长春｜休学两年｜友情重度依赖｜小狗叫岁岁  请和我交朋友互fo！我会爆金币(´つヮ⊂︎) 可以扩扩也可以私信聊天 不是同类基础🚪33  我很好相处的餐劵妹od妹来吧来吧 https://t.co/UZ98UrMMMW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2058086921793146880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_LJrJbkAANZKM.jpg",
+        "width": 1500
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2058086921801506816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_LJrLbIAA36c0.jpg",
+        "width": 1500
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2058086921830830080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_LJrSakAAAAj6.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1256,
+        "media_key": "3_2058086924280369152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_LJ0abkAAC3WJ.jpg",
+        "width": 563
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058086921793146880",
+            "3_2058086921801506816",
+            "3_2058086921830830080",
+            "3_2058086924280369152"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2058086945105092622",
+        "created_at": "2026-05-23T07:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058086945105092622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZ98UrMMMW",
+              "end": 181,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2058086945105092622/photo/1",
+              "media_key": "3_2058086921793146880",
+              "start": 158,
+              "url": "https://t.co/UZ98UrMMMW"
+            },
+            {
+              "display_url": "pic.x.com/UZ98UrMMMW",
+              "end": 181,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2058086945105092622/photo/1",
+              "media_key": "3_2058086921801506816",
+              "start": 158,
+              "url": "https://t.co/UZ98UrMMMW"
+            },
+            {
+              "display_url": "pic.x.com/UZ98UrMMMW",
+              "end": 181,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2058086945105092622/photo/1",
+              "media_key": "3_2058086921830830080",
+              "start": 158,
+              "url": "https://t.co/UZ98UrMMMW"
+            },
+            {
+              "display_url": "pic.x.com/UZ98UrMMMW",
+              "end": 181,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2058086945105092622/photo/1",
+              "media_key": "3_2058086924280369152",
+              "start": 158,
+              "url": "https://t.co/UZ98UrMMMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058086945105092622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎光临 这里鸦鸦ε٩(๑&gt; ₃ &lt;)۶з｜双相情感障碍｜解离型身份障碍｜10年阴历6.26｜穿孔｜od｜sh｜🚬9⃣️｜双性恋｜ip长春｜休学两年｜友情重度依赖｜小狗叫岁岁  请和我交朋友互fo！我会爆金币(´つヮ⊂︎) 可以扩扩也可以私信聊天 不是同类基础🚪33  我很好相处的餐劵妹od妹来吧来吧 https://t.co/UZ98UrMMMW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦 第二人格叫西西 第三人格是♂叫茧 ✨激推@Lxmzs233_明鏡✨@Cristinai1b小綺✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Lxmzs233_"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2056744177984266427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 325,
+          "like_count": 1426,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1117
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

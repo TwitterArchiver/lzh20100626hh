@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059607166437453824"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2059607183336337834",
+    "created_at": "2026-05-27T12:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059607183336337834"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0rXA6Iov6e",
+          "end": 26,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2059607183336337834/photo/1",
+          "media_key": "3_2059607166437453824",
+          "start": 3,
+          "url": "https://t.co/0rXA6Iov6e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059607183336337834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "收到 https://t.co/0rXA6Iov6e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2059607166437453824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUxzjxacAAcJ7b.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059607166437453824"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2059607183336337834",
+        "created_at": "2026-05-27T12:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059607183336337834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0rXA6Iov6e",
+              "end": 26,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2059607183336337834/photo/1",
+              "media_key": "3_2059607166437453824",
+              "start": 3,
+              "url": "https://t.co/0rXA6Iov6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059607183336337834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到 https://t.co/0rXA6Iov6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦 第二人格叫西西 第三人格是♂叫茧 ✨激推@Lxmzs233_明鏡✨@Cristinai1b小綺✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Lxmzs233_"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 347,
+          "like_count": 1511,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1177
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

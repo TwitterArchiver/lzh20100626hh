@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2016029416049279139",
+    "created_at": "2026-01-27T06:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T07:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016029416049279139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1252387221849747456",
+          "start": 3,
+          "username": "akane3203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016029416049279139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008524893546311900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akane3203: 闺女闺女真牛逼 学也不上，班也不上，手腕子天天次啦次啦的喷血，别怕闺女，爸爸听说你感冒了，给你买了十盒愈美片，咱必须比其他孩子先好起来，爸爸在工地一点都不冷，不累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2016029416049279139",
+        "created_at": "2026-01-27T06:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T07:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016029416049279139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1252387221849747456",
+              "start": 3,
+              "username": "akane3203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016029416049279139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008524893546311900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akane3203: 闺女闺女真牛逼 学也不上，班也不上，手腕子天天次啦次啦的喷血，别怕闺女，爸爸听说你感冒了，给你买了十盒愈美片，咱必须比其他孩子先好起来，爸爸在工地一点都不冷，不累"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252387221849747456",
+        "conversation_id": "2008524893546311900",
+        "created_at": "2026-01-06T13:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T14:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008524893546311900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008524893546311900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1074,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闺女闺女真牛逼 学也不上，班也不上，手腕子天天次啦次啦的喷血，别怕闺女，爸爸听说你感冒了，给你买了十盒愈美片，咱必须比其他孩子先好起来，爸爸在工地一点都不冷，不累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  废话｜od｜sh｜双相｜ ADHD｜｜｜｜尼古丁创造精神  酒精确定思想\n        感觉混沌的时候就用感受疼痛的方式去重新系起与世界的联系｜｜｜\n我跟@Lxmzs233_超级无敌霹雳至尊好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 52,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 296
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-21T00:02:48.000Z",
+        "description": "距离奇迹发生还有＿天 碎碎念备用号@hhjakane311",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "hhjakane311"
+              }
+            ]
+          }
+        },
+        "id": "1252387221849747456",
+        "location": "问坐标20r",
+        "name": "茜",
+        "pinned_tweet_id": "1999090999549948195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999091299325018112/N2KsIt8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 31,
+          "like_count": 177,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 842
+        },
+        "username": "akane3203",
+        "verified": false
+      }
+    ]
+  }
+}

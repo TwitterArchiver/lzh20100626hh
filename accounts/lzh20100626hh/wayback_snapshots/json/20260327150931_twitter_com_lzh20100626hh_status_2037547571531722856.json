@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2037547214785122304"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2037547571531722856",
+    "created_at": "2026-03-27T15:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T16:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037547571531722856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5qUmLRuNuf",
+          "end": 23,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2037547571531722856/video/1",
+          "media_key": "7_2037547214785122304",
+          "start": 0,
+          "url": "https://t.co/5qUmLRuNuf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037547571531722856",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/5qUmLRuNuf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 123585,
+        "height": 1280,
+        "media_key": "7_2037547214785122304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037547214785122304/pu/img/_cfpGMwB9IwK0pxy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037547214785122304/pu/vid/avc1/320x568/SSQViVLs4ZEit9c-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037547214785122304/pu/vid/avc1/480x852/2HmngV6DwXUo50cq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037547214785122304/pu/vid/avc1/720x1280/_XDSmPFeyNxspu3s.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037547214785122304/pu/pl/1x2UBFlZmIKivp87.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037547214785122304"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2037547571531722856",
+        "created_at": "2026-03-27T15:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037547571531722856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qUmLRuNuf",
+              "end": 23,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2037547571531722856/video/1",
+              "media_key": "7_2037547214785122304",
+              "start": 0,
+              "url": "https://t.co/5qUmLRuNuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037547571531722856",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5qUmLRuNuf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双向｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2026378329436336276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 116,
+          "like_count": 879,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 691
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

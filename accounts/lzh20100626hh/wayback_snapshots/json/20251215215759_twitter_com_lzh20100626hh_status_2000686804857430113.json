@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2000686804857430113",
+    "created_at": "2025-12-15T21:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T22:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000686804857430113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1778696847563104256",
+          "start": 3,
+          "username": "gold_bihu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000686804857430113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998706707753791577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gold_bihu: 来个胸大的把我闷死。我不想活了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2000686804857430113",
+        "created_at": "2025-12-15T21:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T22:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000686804857430113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1778696847563104256",
+              "start": 3,
+              "username": "gold_bihu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000686804857430113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998706707753791577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gold_bihu: 来个胸大的把我闷死。我不想活了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778696847563104256",
+        "conversation_id": "1998706707753791577",
+        "created_at": "2025-12-10T10:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998706707753791577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huimu420/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/huimu420/status/1998687531081040188",
+              "start": 17,
+              "url": "https://t.co/mmcYoKX9y2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998706707753791577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 449,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998687531081040188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来个胸大的把我闷死。我不想活了。 https://t.co/mmcYoKX9y2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦。喜欢我就给我钱",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2000678245419647153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 20
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "性别是🦖 ｜od区?｜同类互fo｜喜欢一切有意思的东西｜请不要和我吵架｜处方放在https://t.co/MS7VCxzFgu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg28",
+                "end": 63,
+                "expanded_url": "https://t.me/dddlg28",
+                "start": 40,
+                "url": "https://t.co/MS7VCxzFgu"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "name": "多拉贡",
+        "pinned_tweet_id": "1999827971180490853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996121294568558592/oUNZCOVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 350,
+          "like_count": 8872,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 2210
+        },
+        "username": "gold_bihu",
+        "verified": false
+      }
+    ]
+  }
+}

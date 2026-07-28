@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2047873063681990665",
+    "created_at": "2026-04-25T02:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T03:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047873063681990665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893580687200157696",
+          "start": 3,
+          "username": "kittsayes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047873063681990665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047717177378431289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kittsayes: 好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2047873063681990665",
+        "created_at": "2026-04-25T02:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047873063681990665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893580687200157696",
+              "start": 3,
+              "username": "kittsayes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047873063681990665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047717177378431289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kittsayes: 好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893580687200157696",
+        "conversation_id": "2047717177378431289",
+        "created_at": "2026-04-24T16:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047717177378431289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047717177378431289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od好想od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 153,
+          "like_count": 1174,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 886
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T08:36:54.000Z",
+        "description": "cn杨诺/可颂\n｜10年高一｜双相｜目前已休学｜\n｜03.11｜双鱼｜infp｜od｜自残｜碎碎念｜\n喜欢跟同类互fo 萌妹纸和萌弟子也可以来呀（查成分回 ）\n二次深空沈星回高浓度激推梦女 纸性恋已有老公\n加联系过🚪过🚪过🚪我很缺钱我妈不给钱\n所以我还是希望能有点钱。谢谢你们❗️\n欢迎提问👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/3pRf1TkeZk"
+              }
+            ]
+          }
+        },
+        "id": "1893580687200157696",
+        "location": "🚪52纯绿  获得一个碎碎念的我",
+        "name": "Croissant",
+        "pinned_tweet_id": "2044376056078258341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044355523835985920/3SvZJ1av_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 747,
+          "like_count": 4647,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 2174
+        },
+        "url": "https://t.co/3pRf1TkeZk",
+        "username": "kittsayes",
+        "verified": false
+      }
+    ]
+  }
+}

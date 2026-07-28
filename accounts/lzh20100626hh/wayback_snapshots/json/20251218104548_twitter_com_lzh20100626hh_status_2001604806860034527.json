@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001376737436012550"
+      ],
+      "media_source_tweet_id": [
+        "2001377132447195457"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2001604806860034527",
+    "created_at": "2025-12-18T10:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T11:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001604806860034527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812286800687452160",
+          "start": 3,
+          "username": "rucarachi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rfLTiaMVkQ",
+          "end": 40,
+          "expanded_url": "https://x.com/rucarachi/status/2001377132447195457/photo/1",
+          "media_key": "3_2001376737436012550",
+          "start": 17,
+          "url": "https://t.co/rfLTiaMVkQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001604806860034527",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3098
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001377132447195457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rucarachi: 🙄 https://t.co/rfLTiaMVkQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1469,
+        "media_key": "3_2001376737436012550",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ZRifiakAYogZa.jpg",
+        "width": 1469
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001376737436012550"
+          ],
+          "media_source_tweet_id": [
+            "2001377132447195457"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2001604806860034527",
+        "created_at": "2025-12-18T10:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T11:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001604806860034527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812286800687452160",
+              "start": 3,
+              "username": "rucarachi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rfLTiaMVkQ",
+              "end": 40,
+              "expanded_url": "https://x.com/rucarachi/status/2001377132447195457/photo/1",
+              "media_key": "3_2001376737436012550",
+              "start": 17,
+              "url": "https://t.co/rfLTiaMVkQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001604806860034527",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3098
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001377132447195457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rucarachi: 🙄 https://t.co/rfLTiaMVkQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001376737436012550"
+          ]
+        },
+        "author_id": "1812286800687452160",
+        "conversation_id": "2001377132447195457",
+        "created_at": "2025-12-17T19:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T20:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001377132447195457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rfLTiaMVkQ",
+              "end": 25,
+              "expanded_url": "https://x.com/rucarachi/status/2001377132447195457/photo/1",
+              "media_key": "3_2001376737436012550",
+              "start": 2,
+              "url": "https://t.co/rfLTiaMVkQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001377132447195457",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15165,
+          "impression_count": 1642503,
+          "like_count": 74412,
+          "quote_count": 168,
+          "reply_count": 582,
+          "retweet_count": 3098
+        },
+        "reply_settings": "everyone",
+        "text": "🙄 https://t.co/rfLTiaMVkQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜\n🚪具体请私信！\n喜欢什么风格我都可以尝试！",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001214410438983819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 83
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T00:44:04.000Z",
+        "description": "ɪʟʟᴜꜱᴛʀᴀᴛᴏʀ / cosplayer / 🚫AI // Not accepting personal commissions // side acc @rucaraw // https://t.co/REQk9tmDH5 //",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "rucaraw"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/rucarachi",
+                "end": 115,
+                "expanded_url": "http://patreon.com/rucarachi",
+                "start": 92,
+                "url": "https://t.co/REQk9tmDH5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rucarachi.crd.co",
+                "end": 23,
+                "expanded_url": "http://rucarachi.crd.co",
+                "start": 0,
+                "url": "https://t.co/yYEEehQJtT"
+              }
+            ]
+          }
+        },
+        "id": "1812286800687452160",
+        "location": "rucarachi@gmail.com",
+        "name": "ruca",
+        "pinned_tweet_id": "1934949314536890647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936189290066698240/JSQNgwv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323693,
+          "following_count": 351,
+          "like_count": 4500,
+          "listed_count": 1327,
+          "media_count": 114,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/yYEEehQJtT",
+        "username": "rucarachi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2056781752354619850",
+    "created_at": "2026-05-19T16:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056781752354619850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965778226627911680",
+          "start": 3,
+          "username": "cidao2310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056781752354619850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056424394541736446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cidao2310: 我觉得越是这种时候，越要靠自己一个人熬过去，不要依赖任何人，没有人有义务开导你，没有人会永远陪着你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2056781752354619850",
+        "created_at": "2026-05-19T16:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056781752354619850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965778226627911680",
+              "start": 3,
+              "username": "cidao2310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056781752354619850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056424394541736446",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cidao2310: 我觉得越是这种时候，越要靠自己一个人熬过去，不要依赖任何人，没有人有义务开导你，没有人会永远陪着你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965778226627911680",
+        "conversation_id": "2056424394541736446",
+        "created_at": "2026-05-18T17:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056424394541736446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056424394541736446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1529,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得越是这种时候，越要靠自己一个人熬过去，不要依赖任何人，没有人有义务开导你，没有人会永远陪着你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜双相｜解离型身份障碍｜ADHD｜双性恋｜鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧 ✨激推の@Lxmzs233明鏡✨小繁繁@Cristinai1b✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "Lxmzs233"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2056744177984266427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 304,
+          "like_count": 1327,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1020
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T14:03:57.000Z",
+        "description": "我是叨叨。一百年后，我们都死了。\n📪 https://t.co/gK9nreqZ6m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cidao31181",
+                "end": 42,
+                "expanded_url": "https://ngl.link/cidao31181",
+                "start": 19,
+                "url": "https://t.co/gK9nreqZ6m"
+              }
+            ]
+          }
+        },
+        "id": "1965778226627911680",
+        "location": "小舟",
+        "name": "兔子的脚",
+        "pinned_tweet_id": "2055975946436628850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029816491932364801/lEpnxFAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 182,
+          "like_count": 1334,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 2045
+        },
+        "username": "cidao2310",
+        "verified": false
+      }
+    ]
+  }
+}

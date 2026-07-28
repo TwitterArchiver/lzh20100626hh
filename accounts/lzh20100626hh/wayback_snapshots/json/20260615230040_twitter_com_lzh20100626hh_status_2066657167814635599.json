@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2066657167814635599",
+    "created_at": "2026-06-15T23:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T00:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066657167814635599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2046967144798121984",
+          "start": 3,
+          "username": "Cristinai1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066657167814635599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064543442848583785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cristinai1b: ip长春 包路费的话也可以去找您\n身高174 三围97/79/101\n我是🚪哥🚪姐全肯定 我的性取向非常之广 我的xp非常非常多 m 线下半绿非绿可以要求玩字母 价格根据尺度调整！\n长春有房 一定要出去的话不承担酒店费用哦 其余业务待开发\n#门…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064543408048459776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKa7SowaUAA_CcL.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2066657167814635599",
+        "created_at": "2026-06-15T23:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066657167814635599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2046967144798121984",
+              "start": 3,
+              "username": "Cristinai1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066657167814635599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064543442848583785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cristinai1b: ip长春 包路费的话也可以去找您\n身高174 三围97/79/101\n我是🚪哥🚪姐全肯定 我的性取向非常之广 我的xp非常非常多 m 线下半绿非绿可以要求玩字母 价格根据尺度调整！\n长春有房 一定要出去的话不承担酒店费用哦 其余业务待开发\n#门…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064543408048459776"
+          ]
+        },
+        "author_id": "2046967144798121984",
+        "conversation_id": "2064543442848583785",
+        "created_at": "2026-06-10T03:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064543442848583785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4upWfl7kXY",
+              "end": 173,
+              "expanded_url": "https://x.com/Cristinai1b/status/2064543442848583785/photo/1",
+              "media_key": "3_2064543408048459776",
+              "start": 150,
+              "url": "https://t.co/4upWfl7kXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064543442848583785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1038,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "ip长春 包路费的话也可以去找您\n身高174 三围97/79/101\n我是🚪哥🚪姐全肯定 我的性取向非常之广 我的xp非常非常多 m 线下半绿非绿可以要求玩字母 价格根据尺度调整！\n长春有房 一定要出去的话不承担酒店费用哦 其余业务待开发\n#门槛妹#金主#爸爸活#bdsm#定制视频#女大学生#骚逼 https://t.co/4upWfl7kXY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 我们一跃而下",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 381,
+          "like_count": 1656,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1308
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T15:01:30.000Z",
+        "description": "oded餐券嗯嗯好的！女网友全肯定！我平等爱着世界上所有人。我发誓小绮真的是天使^^",
+        "id": "2046967144798121984",
+        "name": "Relythat517",
+        "pinned_tweet_id": "2064543442848583785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046968486316978177/sxvY-Ud2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 294,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 125
+        },
+        "username": "Cristinai1b",
+        "verified": false
+      }
+    ]
+  }
+}

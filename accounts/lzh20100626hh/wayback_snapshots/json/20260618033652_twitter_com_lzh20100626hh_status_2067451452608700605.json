@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2067451452608700605",
+    "created_at": "2026-06-18T03:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067451452608700605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1533945768565948418",
+          "start": 3,
+          "username": "hepkirildi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067451452608700605",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1327
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063290285279367257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hepkirildi: calismak istemiyorum okumak istemiyorum aile evinde kalmak istemiyorum aile evinden gitmek istemiyorum yasamak istemiyorum…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2067451452608700605",
+        "created_at": "2026-06-18T03:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067451452608700605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1533945768565948418",
+              "start": 3,
+              "username": "hepkirildi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067451452608700605",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1327
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063290285279367257",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hepkirildi: calismak istemiyorum okumak istemiyorum aile evinde kalmak istemiyorum aile evinden gitmek istemiyorum yasamak istemiyorum…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533945768565948418",
+        "conversation_id": "2063290285279367257",
+        "created_at": "2026-06-06T16:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063290285279367257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063290285279367257",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 210973,
+          "like_count": 7580,
+          "quote_count": 31,
+          "reply_count": 45,
+          "retweet_count": 1327
+        },
+        "reply_settings": "everyone",
+        "text": "calismak istemiyorum okumak istemiyorum aile evinde kalmak istemiyorum aile evinden gitmek istemiyorum yasamak istemiyorum yasamamak istemiyorum"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 我们一跃而下",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 386,
+          "like_count": 1678,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1314
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-06T22:55:58.000Z",
+        "description": "bir bela hasıl olur",
+        "id": "1533945768565948418",
+        "location": "El Salvador",
+        "name": "‎‏َ",
+        "pinned_tweet_id": "2049511912535195949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997457164722479104/1ctAtt4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210103,
+          "following_count": 206808,
+          "like_count": 259756,
+          "listed_count": 57,
+          "media_count": 2194,
+          "tweet_count": 20022
+        },
+        "username": "hepkirildi",
+        "verified": false
+      }
+    ]
+  }
+}

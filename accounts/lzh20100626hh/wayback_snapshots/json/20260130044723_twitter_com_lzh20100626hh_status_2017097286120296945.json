@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2017097286120296945",
+    "created_at": "2026-01-30T04:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T05:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017097286120296945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844103262292803587",
+          "start": 3,
+          "username": "JJ2597758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017097286120296945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016807575396982876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JJ2597758: os：哇这娘们手臂上有这么多福这波赚了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2017097286120296945",
+        "created_at": "2026-01-30T04:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T05:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017097286120296945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844103262292803587",
+              "start": 3,
+              "username": "JJ2597758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017097286120296945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016807575396982876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JJ2597758: os：哇这娘们手臂上有这么多福这波赚了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844103262292803587",
+        "conversation_id": "2016807575396982876",
+        "created_at": "2026-01-29T09:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T10:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016807575396982876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016807575396982876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2092,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "os：哇这娘们手臂上有这么多福这波赚了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神  酒精确定思想\n 感觉混沌的时候就用感受疼痛的方式去重新系起与世界的联系\n我是鸦鸦  废话｜od｜sh｜双相｜ ADHD\n我跟@Lxmzs233_超级无敌霹雳至尊好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 61,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 355
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T19:51:03.000Z",
+        "description": "GAME OVER",
+        "id": "1844103262292803587",
+        "name": "伴花作剑穗",
+        "pinned_tweet_id": "2016018119370932446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983696360038920196/M48jM9OQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 177,
+          "like_count": 34250,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1771
+        },
+        "username": "JJ2597758",
+        "verified": false
+      }
+    ]
+  }
+}

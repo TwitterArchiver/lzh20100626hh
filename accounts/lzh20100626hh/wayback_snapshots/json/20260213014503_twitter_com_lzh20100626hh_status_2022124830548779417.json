@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      }
+    ],
+    "conversation_id": "2022124830548779417",
+    "created_at": "2026-02-13T01:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T02:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022124830548779417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007143390303891456",
+          "start": 3,
+          "username": "emptieXtr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022124830548779417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021702183419568334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emptieXtr_: Rit／井\n坐标20\n🚪88好友位／128純／288半／388非……+\n只要過🚪就會陪你聊天～\n精神疾病／shtwt／OD\n想认识各式各样的人，欢迎各位和我互fo互转交友\n绿万🚬是我妻子……\np2 支付寶\np3 WeChat\n很缺錢的小女孩⋯⋯…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022124830548779417].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022124830548779417",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022124830548779417"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021702169108647936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6HaU9bkAA4Kj2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1136,
+        "media_key": "3_2021702169108656128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6HaU9bsAAtv4h.jpg",
+        "width": 1136
+      },
+      {
+        "height": 404,
+        "media_key": "3_2021702169104461825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6HaU8bsAEUMk9.jpg",
+        "width": 404
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021702169108647936",
+            "3_2021702169108656128",
+            "3_2021702169104461825"
+          ]
+        },
+        "author_id": "2007143390303891456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2021702183419568334",
+        "created_at": "2026-02-11T21:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T22:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021702183419568334"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 154,
+              "start": 150,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 159,
+              "start": 155,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 163,
+              "start": 160,
+              "tag": "门槛"
+            },
+            {
+              "end": 167,
+              "start": 164,
+              "tag": "互转"
+            },
+            {
+              "end": 171,
+              "start": 168,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6vaIivJMBK",
+              "end": 195,
+              "expanded_url": "https://x.com/emptieXtr_/status/2021702183419568334/photo/1",
+              "media_key": "3_2021702169108647936",
+              "start": 172,
+              "url": "https://t.co/6vaIivJMBK"
+            },
+            {
+              "display_url": "pic.x.com/6vaIivJMBK",
+              "end": 195,
+              "expanded_url": "https://x.com/emptieXtr_/status/2021702183419568334/photo/1",
+              "media_key": "3_2021702169108656128",
+              "start": 172,
+              "url": "https://t.co/6vaIivJMBK"
+            },
+            {
+              "display_url": "pic.x.com/6vaIivJMBK",
+              "end": 195,
+              "expanded_url": "https://x.com/emptieXtr_/status/2021702183419568334/photo/1",
+              "media_key": "3_2021702169104461825",
+              "start": 172,
+              "url": "https://t.co/6vaIivJMBK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021702183419568334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1985,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Rit／井\n坐标20\n🚪88好友位／128純／288半／388非……+\n只要過🚪就會陪你聊天～\n精神疾病／shtwt／OD\n想认识各式各样的人，欢迎各位和我互fo互转交友\n绿万🚬是我妻子……\np2 支付寶\np3 WeChat\n很缺錢的小女孩⋯⋯ DM永遠開放，無論是誰找我chatting隨時歡迎！\n#爸爸活 #门槛妹 #门槛 #互转 #线下 https://t.co/6vaIivJMBK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 鸦会一直陪着所有人｜od｜sh ｜双向｜ADHD｜双性恋｜を激推します✨@Lxmzs233_✨明鏡！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2021707692977660357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 107,
+          "like_count": 643,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 557
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T17:36:24.000Z",
+        "description": "⚠️sh/od related content｜marked as sensitive ｜languages learner 中文,한국어,ENG⭕️｜DM/moots⭕️｜chosen family @kurabakei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "kurabakei"
+              }
+            ]
+          }
+        },
+        "id": "2007143390303891456",
+        "name": "Ritttttttt",
+        "pinned_tweet_id": "2021702183419568334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021314366596165632/Twnql8X7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 18,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 57
+        },
+        "username": "emptieXtr_",
+        "verified": false
+      }
+    ]
+  }
+}

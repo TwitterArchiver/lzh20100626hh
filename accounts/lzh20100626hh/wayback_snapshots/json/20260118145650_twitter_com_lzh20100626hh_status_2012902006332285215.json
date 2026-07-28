@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2012901967748534274"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2012902006332285215",
+    "created_at": "2026-01-18T14:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012902006332285215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LRZcSrTkNZ",
+          "end": 28,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2012902006332285215/video/1",
+          "media_key": "7_2012901967748534274",
+          "start": 5,
+          "url": "https://t.co/LRZcSrTkNZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012902006332285215",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和小兔 https://t.co/LRZcSrTkNZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5213,
+        "height": 720,
+        "media_key": "7_2012901967748534274",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2012901967748534274/pu/img/n48edgUkfzu8BXwD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012901967748534274/pu/vid/avc1/480x270/EFJR6ekYCGwz0odK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012901967748534274/pu/vid/avc1/640x360/fdDTCaupMsgbDi9f.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012901967748534274/pu/vid/avc1/1280x720/obeG9fiJHL0BKEK8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2012901967748534274/pu/pl/gOieMl70uZq0tQCK.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2012901967748534274"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2012902006332285215",
+        "created_at": "2026-01-18T14:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012902006332285215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LRZcSrTkNZ",
+              "end": 28,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2012902006332285215/video/1",
+              "media_key": "7_2012901967748534274",
+              "start": 5,
+              "url": "https://t.co/LRZcSrTkNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012902006332285215",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和小兔 https://t.co/LRZcSrTkNZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜sh",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2010645337543967011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 41,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 196
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

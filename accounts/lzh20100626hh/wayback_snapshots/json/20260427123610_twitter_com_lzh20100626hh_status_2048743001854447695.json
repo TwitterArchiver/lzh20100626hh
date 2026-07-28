@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2048514695846617344",
+    "created_at": "2026-04-27T12:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048743001854447695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776627287934537728",
+          "start": 0,
+          "username": "NaiJin66998"
+        },
+        {
+          "end": 25,
+          "id": "1928504693585842176",
+          "start": 13,
+          "username": "siangel0911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048743001854447695",
+    "in_reply_to_user_id": "1776627287934537728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048514695846617344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaiJin66998 @siangel0911 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2048514678545084416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG3JPyPacAA9eEJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2048514695846617344",
+        "created_at": "2026-04-27T12:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048743001854447695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776627287934537728",
+              "start": 0,
+              "username": "NaiJin66998"
+            },
+            {
+              "end": 25,
+              "id": "1928504693585842176",
+              "start": 13,
+              "username": "siangel0911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048743001854447695",
+        "in_reply_to_user_id": "1776627287934537728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048514695846617344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaiJin66998 @siangel0911 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048514678545084416"
+          ]
+        },
+        "author_id": "1776627287934537728",
+        "conversation_id": "2048514695846617344",
+        "created_at": "2026-04-26T21:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T22:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048514695846617344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9J2MhqTb2r",
+              "end": 73,
+              "expanded_url": "https://x.com/NaiJin66998/status/2048514695846617344/photo/1",
+              "media_key": "3_2048514678545084416",
+              "start": 50,
+              "url": "https://t.co/9J2MhqTb2r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048514695846617344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2589,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "1kfo福利！\n一盒红普折现20r\n一盒绿普折现10r *2\n大家可以蹲蹲！多多三连！今天晚上开！ https://t.co/9J2MhqTb2r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以梦想是所有人可以一直陪着鸦od｜双相｜解离型身份障碍ADHD｜双性恋｜鸦鸦是主人格第二人格叫西西第三人格是♂叫茧 激推のLxmzs233明鏡",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2047897363289903320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 253,
+          "like_count": 1202,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 921
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T15:05:36.000Z",
+        "description": "别几把烦我别烦我别烦我去死去死去死\n喜欢的人 @ovocaize",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "ovocaize"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/r%E2%80%86ai%E…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/r%E2%80%86ai%E2%80%86n",
+                "start": 0,
+                "url": "https://t.co/4R0uvNVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1776627287934537728",
+        "location": "🚪88/188/288/520/1314",
+        "name": "冬雪Rain",
+        "pinned_tweet_id": "2048514695846617344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931283273432657920/4nOsokdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 235,
+          "like_count": 858,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/4R0uvNVXCL",
+        "username": "NaiJin66998",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T17:34:05.000Z",
+        "description": "mtf或mtx或xyn小药娘，furry福瑞控，为糖暂停自伤life，摊上各种精神或心理问题...20070911，160cm，92斤左右，常居四川，黑色小奶猫，喜欢一切可爱和黄黄，精神状态不稳定极其负能，网络要饭+结交好友ing，陪新老公小狼弟弟",
+        "id": "1928504693585842176",
+        "location": "中国大陆 四川",
+        "name": "希安angel🍥🌈🏳️‍⚧️🐱🐾➡️陪弟弟",
+        "pinned_tweet_id": "2039867735853916582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039249037359280128/BYFm5BSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 1184,
+          "like_count": 3779,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 2368
+        },
+        "username": "siangel0911",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2001640594553426042",
+    "created_at": "2025-12-18T13:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T14:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001640594553426042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1573722407625543683",
+          "start": 3,
+          "username": "Amarantos_00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001640594553426042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001487890497630331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amarantos_00: 我再也不会去许愿和谁谁谁永远幸福了，根本就是不可能的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2001640594553426042",
+        "created_at": "2025-12-18T13:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T14:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001640594553426042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573722407625543683",
+              "start": 3,
+              "username": "Amarantos_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001640594553426042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001487890497630331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amarantos_00: 我再也不会去许愿和谁谁谁永远幸福了，根本就是不可能的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573722407625543683",
+        "conversation_id": "2001487890497630331",
+        "created_at": "2025-12-18T03:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T04:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001487890497630331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001487890497630331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再也不会去许愿和谁谁谁永远幸福了，根本就是不可能的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜\n🚪具体请私信！\n喜欢什么风格我都可以尝试！",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001214410438983819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 93
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T17:14:25.000Z",
+        "description": "心有清溪，意如明镜。小号@Hanako_sn00 和小小号 @Hanako_0u0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Hanako_sn00"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Hanako_0u0"
+              }
+            ]
+          }
+        },
+        "id": "1573722407625543683",
+        "location": "罗夏·罗斯切尔德的腿上",
+        "name": "花子Hanako",
+        "pinned_tweet_id": "1828521741297013076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915240532332158976/cykBbiOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 120,
+          "like_count": 61023,
+          "listed_count": 6,
+          "media_count": 2694,
+          "tweet_count": 17521
+        },
+        "username": "Amarantos_00",
+        "verified": false
+      }
+    ]
+  }
+}

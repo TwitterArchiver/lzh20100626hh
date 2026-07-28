@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2020902832254353623",
+    "created_at": "2026-02-10T02:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T03:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021055473299095640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012588146043551744",
+          "start": 0,
+          "username": "_xiaowxxiao_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021055473299095640",
+    "in_reply_to_user_id": "2012588146043551744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020902832254353623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_xiaowxxiao_ 萌死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13566,
+        "height": 1280,
+        "media_key": "13_2020902771256623104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020902771256623104/img/1AvpOVAgKWS9n0F5.jpg",
+        "public_metrics": {
+          "view_count": 23
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020902771256623104/vid/avc1/320x568/jxbfEmjVpuWcdB5a.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020902771256623104/vid/avc1/480x852/ExOt33e8PK5Gtlcj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020902771256623104/vid/avc1/720x1280/mYqtPEEbOJatn0FS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020902771256623104/pl/zOXFc_2A8WYw-K67.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2020902832254353623",
+        "created_at": "2026-02-10T02:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T03:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021055473299095640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012588146043551744",
+              "start": 0,
+              "username": "_xiaowxxiao_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021055473299095640",
+        "in_reply_to_user_id": "2012588146043551744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020902832254353623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_xiaowxxiao_ 萌死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020902771256623104"
+          ]
+        },
+        "author_id": "2012588146043551744",
+        "conversation_id": "2020902832254353623",
+        "created_at": "2026-02-09T16:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020902832254353623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l2osUgXmKs",
+              "end": 28,
+              "expanded_url": "https://x.com/_xiaowxxiao_/status/2020902832254353623/video/1",
+              "media_key": "13_2020902771256623104",
+              "start": 5,
+              "url": "https://t.co/l2osUgXmKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020902832254353623",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wwww https://t.co/l2osUgXmKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 鸦会一直陪着所有人｜od｜sh ｜双向｜ADHD｜双性恋｜を激推します✨@Lxmzs233_✨明鏡！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2019408329861394711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 107,
+          "like_count": 620,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 527
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T18:09:56.000Z",
+        "description": "电子小筱在线营业中 躁郁|hk|09|泛|繩藝|bdsm|sw|",
+        "id": "2012588146043551744",
+        "location": "🚪188 288 388 业务表请dm",
+        "name": "电子小筱",
+        "pinned_tweet_id": "2020740481920151968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012590669257166848/qwlM1HJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 264,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 437
+        },
+        "username": "_xiaowxxiao_",
+        "verified": false
+      }
+    ]
+  }
+}

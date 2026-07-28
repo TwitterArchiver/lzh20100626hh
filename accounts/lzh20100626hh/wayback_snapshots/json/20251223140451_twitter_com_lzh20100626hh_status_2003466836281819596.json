@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2002794797543866509",
+    "created_at": "2025-12-23T14:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T15:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003466836281819596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1490543758160527361",
+          "start": 0,
+          "username": "Qiu1647"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003466836281819596",
+    "in_reply_to_user_id": "1490543758160527361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003463330439266584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiu1647 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2002794797543866509",
+        "created_at": "2025-12-23T14:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T15:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003466836281819596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1490543758160527361",
+              "start": 0,
+              "username": "Qiu1647"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003466836281819596",
+        "in_reply_to_user_id": "1490543758160527361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003463330439266584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiu1647 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490543758160527361",
+        "conversation_id": "2002794797543866509",
+        "created_at": "2025-12-23T13:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T14:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003463330439266584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003463330439266584",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002794797543866509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh 漂亮的手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜身体｜双性恋",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001214410438983819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 32,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 144
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T04:32:15.000Z",
+        "description": "男。没营养的碎碎念。脾气差，傻逼滚，不恋爱，不大尺度擦边。希望你我都尊重彼此，别太廉价。",
+        "id": "1490543758160527361",
+        "location": "狮城",
+        "name": "Philip（p",
+        "pinned_tweet_id": "2000221921426755682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002417664040579077/Y5dvGurN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 1526,
+          "like_count": 65780,
+          "listed_count": 5,
+          "media_count": 627,
+          "tweet_count": 15681
+        },
+        "username": "Qiu1647",
+        "verified": false
+      }
+    ]
+  }
+}

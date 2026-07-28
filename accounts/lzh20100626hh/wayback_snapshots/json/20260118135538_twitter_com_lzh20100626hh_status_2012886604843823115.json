@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012886597105324034"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2012886604843823115",
+    "created_at": "2026-01-18T13:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T14:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012886604843823115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1490543758160527361",
+          "start": 16,
+          "username": "Qiu1647"
+        }
+      ],
+      "urls": [
+        {
+          "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+          "display_url": "infinitetweet.me/secret-crush?l…",
+          "end": 52,
+          "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2012861372745531393/nAum2XPC?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2012861372745531393/nAum2XPC?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 29,
+          "status": 200,
+          "title": "Secret Crush • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "url": "https://t.co/oCgcpKSjXv"
+        },
+        {
+          "display_url": "pic.x.com/lxii7wyvTM",
+          "end": 76,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2012886604843823115/photo/1",
+          "media_key": "3_2012886597105324034",
+          "start": 53,
+          "url": "https://t.co/lxii7wyvTM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012886604843823115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在Twitter上的暗恋是  @Qiu1647\n\n➡️ https://t.co/oCgcpKSjXv https://t.co/lxii7wyvTM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2012886597105324034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-81sgGbkAIEMQZ.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012886597105324034"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2012886604843823115",
+        "created_at": "2026-01-18T13:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T14:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012886604843823115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1490543758160527361",
+              "start": 16,
+              "username": "Qiu1647"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infinitetweet.me/secret-crush?l…",
+              "end": 52,
+              "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2012861372745531393/nAum2XPC?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2012861372745531393/nAum2XPC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/oCgcpKSjXv"
+            },
+            {
+              "display_url": "pic.x.com/lxii7wyvTM",
+              "end": 76,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2012886604843823115/photo/1",
+              "media_key": "3_2012886597105324034",
+              "start": 53,
+              "url": "https://t.co/lxii7wyvTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012886604843823115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @Qiu1647\n\n➡️ https://t.co/oCgcpKSjXv https://t.co/lxii7wyvTM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜sh",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2006791310439756008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 45,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 192
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T04:32:15.000Z",
+        "description": "男。eating and life disorder。脾气差，傻逼滚，不恋爱，不发大尺度照片。",
+        "id": "1490543758160527361",
+        "name": "Hskx（h，黑色可信",
+        "pinned_tweet_id": "2010225538376646716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010363043881070592/INvhdBHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 1547,
+          "like_count": 69586,
+          "listed_count": 6,
+          "media_count": 620,
+          "tweet_count": 16252
+        },
+        "username": "Qiu1647",
+        "verified": false
+      }
+    ]
+  }
+}

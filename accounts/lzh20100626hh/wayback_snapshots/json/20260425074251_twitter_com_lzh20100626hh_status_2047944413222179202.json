@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047944408058986496"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2047941688312889580",
+    "created_at": "2026-04-25T07:42:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T08:42:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047944413222179202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XUS9SWxpin",
+          "end": 44,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2047944413222179202/photo/1",
+          "media_key": "3_2047944408058986496",
+          "start": 21,
+          "url": "https://t.co/XUS9SWxpin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047944413222179202",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047941688312889580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 抽抽抽 https://t.co/XUS9SWxpin"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047944408058986496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvClrIagAAYRlZ.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2047941479222722560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGu_7MXbwAAV2fc.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2047941479218450432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGu_7MWakAASBjM.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2047941479214329856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGu_7MVbsAAzvK-.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047944408058986496"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2047941688312889580",
+        "created_at": "2026-04-25T07:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047944413222179202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XUS9SWxpin",
+              "end": 44,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2047944413222179202/photo/1",
+              "media_key": "3_2047944408058986496",
+              "start": 21,
+              "url": "https://t.co/XUS9SWxpin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047944413222179202",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047941688312889580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 抽抽抽 https://t.co/XUS9SWxpin"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047941479222722560",
+            "3_2047941479218450432",
+            "3_2047941479214329856"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047941688312889580",
+        "created_at": "2026-04-25T07:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047941688312889580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bZQYfP54gt",
+              "end": 76,
+              "expanded_url": "https://x.com/hg3551019177402/status/2047941688312889580/photo/1",
+              "media_key": "3_2047941479222722560",
+              "start": 53,
+              "url": "https://t.co/bZQYfP54gt"
+            },
+            {
+              "display_url": "pic.x.com/bZQYfP54gt",
+              "end": 76,
+              "expanded_url": "https://x.com/hg3551019177402/status/2047941688312889580/photo/1",
+              "media_key": "3_2047941479218450432",
+              "start": 53,
+              "url": "https://t.co/bZQYfP54gt"
+            },
+            {
+              "display_url": "pic.x.com/bZQYfP54gt",
+              "end": 76,
+              "expanded_url": "https://x.com/hg3551019177402/status/2047941688312889580/photo/1",
+              "media_key": "3_2047941479214329856",
+              "start": 53,
+              "url": "https://t.co/bZQYfP54gt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047941688312889580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剪了个头发剪成吉他张了哈哈哈！这个七匹狼是福建烟但是浙江好像也有的地方有卖，不管了所有人跟我一起抽根烟！ https://t.co/bZQYfP54gt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2047897363289903320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 172,
+          "like_count": 1200,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 904
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 我主人@Orion2588 药物治疗精神病中（每天吃很多就是了），每天直播一下精神病日常，我的语言自知门里下贱20万bei。黑色柳丁：@rinii165892 网页版太难用了所以难以互动抱歉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Orion2588"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2043934459041645045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 631,
+          "like_count": 18471,
+          "listed_count": 0,
+          "media_count": 520,
+          "tweet_count": 8754
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

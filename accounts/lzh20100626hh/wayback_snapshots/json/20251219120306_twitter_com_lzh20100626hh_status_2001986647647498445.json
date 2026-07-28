@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2001986647647498445",
+    "created_at": "2025-12-19T12:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T13:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001986647647498445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1957104304034394112",
+          "start": 3,
+          "username": "cunyuanyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001986647647498445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001705485490360657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cunyuanyu: 我就是那种谁一直陪着我对我好 我就会爱上谁的缺爱b。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2001986647647498445",
+        "created_at": "2025-12-19T12:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T13:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001986647647498445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1957104304034394112",
+              "start": 3,
+              "username": "cunyuanyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001986647647498445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001705485490360657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cunyuanyu: 我就是那种谁一直陪着我对我好 我就会爱上谁的缺爱b。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957104304034394112",
+        "conversation_id": "2001705485490360657",
+        "created_at": "2025-12-18T17:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T18:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001705485490360657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001705485490360657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2011,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就是那种谁一直陪着我对我好 我就会爱上谁的缺爱b。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜\n🚪具体请私信！\n喜欢什么风格我都可以尝试！",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001711040627904694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 100
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T15:37:11.000Z",
+        "description": "捡到喜欢的贝壳就不要去海边了｜我很笨别骗我",
+        "id": "1957104304034394112",
+        "location": "🚪188纯绿",
+        "name": "我不可爱还很坏",
+        "pinned_tweet_id": "2000596438955512164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997861506499977216/X9Cvi4gs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 57,
+          "like_count": 2610,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 2805
+        },
+        "username": "cunyuanyu",
+        "verified": false
+      }
+    ]
+  }
+}

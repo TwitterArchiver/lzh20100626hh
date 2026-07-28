@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074722112842129408"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074722119557185730",
+    "created_at": "2026-07-08T05:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T06:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074722119557185730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pPsVOl6udT",
+          "end": 28,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2074722119557185730/photo/1",
+          "media_key": "3_2074722112842129408",
+          "start": 5,
+          "url": "https://t.co/pPsVOl6udT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074722119557185730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这期神了 https://t.co/pPsVOl6udT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 505,
+        "media_key": "3_2074722112842129408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrkxO-aYAAbynl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074722112842129408"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074722119557185730",
+        "created_at": "2026-07-08T05:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074722119557185730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pPsVOl6udT",
+              "end": 28,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2074722119557185730/photo/1",
+              "media_key": "3_2074722112842129408",
+              "start": 5,
+              "url": "https://t.co/pPsVOl6udT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074722119557185730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这期神了 https://t.co/pPsVOl6udT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 400,
+          "like_count": 1847,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1421
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

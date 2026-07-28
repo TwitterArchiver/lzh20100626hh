@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2048029078746517859",
+    "created_at": "2026-04-25T22:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T23:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048163122993877272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1722890177696468992",
+          "start": 0,
+          "username": "ustuYukichan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048163122993877272",
+    "in_reply_to_user_id": "1722890177696468992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048029078746517859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ustuYukichan 问问。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048029070349545473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwPlqvbsAEOfwH.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2048029078746517859",
+        "created_at": "2026-04-25T22:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T23:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048163122993877272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1722890177696468992",
+              "start": 0,
+              "username": "ustuYukichan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048163122993877272",
+        "in_reply_to_user_id": "1722890177696468992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048029078746517859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ustuYukichan 问问。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048029070349545473"
+          ]
+        },
+        "author_id": "1722890177696468992",
+        "conversation_id": "2048029078746517859",
+        "created_at": "2026-04-25T13:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048029078746517859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxOI8gNqSQ",
+              "end": 45,
+              "expanded_url": "https://x.com/ustuYukichan/status/2048029078746517859/photo/1",
+              "media_key": "3_2048029070349545473",
+              "start": 22,
+              "url": "https://t.co/oxOI8gNqSQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048029078746517859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 174,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶🤓☝🏻还是被我找到普瑞巴林原粉购买渠道了 https://t.co/oxOI8gNqSQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以梦想是所有人可以一直陪着鸦od｜双相｜解离型身份障碍ADHD｜双性恋｜鸦鸦是主人格第二人格叫西西第三人格是♂叫茧 激推のLxmzs233明鏡",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2047897363289903320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 204,
+          "like_count": 1201,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 914
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:13:34.000Z",
+        "description": "悲伤小熊也许是吐司",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/utsuyukichan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/utsuyukichan",
+                "start": 0,
+                "url": "https://t.co/aIBR6RGUsi"
+              }
+            ]
+          }
+        },
+        "id": "1722890177696468992",
+        "location": "地獄",
+        "name": "有害天使",
+        "pinned_tweet_id": "2017060419937194182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046887018308014080/6YSDc4U0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 551,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1278
+        },
+        "url": "https://t.co/aIBR6RGUsi",
+        "username": "ustuYukichan",
+        "verified": false
+      }
+    ]
+  }
+}

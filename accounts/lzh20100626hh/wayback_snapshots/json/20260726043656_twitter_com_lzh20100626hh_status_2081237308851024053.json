@@ -1,0 +1,621 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "2081237308851024053",
+    "created_at": "2026-07-26T04:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081237308851024053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2002024540562743296",
+          "start": 3,
+          "username": "khreborn_anime"
+        }
+      ],
+      "urls": [
+        {
+          "description": "TVアニメ『家庭教師ヒットマンREBORN!』20周年記念",
+          "display_url": "khreborn-anime.jp",
+          "end": 125,
+          "expanded_url": "https://khreborn-anime.jp/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2080961313506045952/7oxC8xyN?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2080961313506045952/7oxC8xyN?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 102,
+          "status": 200,
+          "title": "TVアニメ『家庭教師ヒットマンREBORN!』公式サイト",
+          "unwound_url": "https://khreborn-anime.jp/",
+          "url": "https://t.co/yWKowJEFAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081237308851024053",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4083
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080961254940893207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @khreborn_anime: 🔥20th ANNIV. PROJECT🔥\n\nTVアニメ『家庭教師ヒットマンREBORN!』\n20周年、まだまだ続きます！！\n新企画も近日発表予定！お楽しみに！\n\nhttps://t.co/yWKowJEFAI\nYT：https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2080958517863915520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEMvyGaIAAIYc5.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2081237308851024053",
+        "created_at": "2026-07-26T04:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081237308851024053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2002024540562743296",
+              "start": 3,
+              "username": "khreborn_anime"
+            }
+          ],
+          "urls": [
+            {
+              "description": "TVアニメ『家庭教師ヒットマンREBORN!』20周年記念",
+              "display_url": "khreborn-anime.jp",
+              "end": 125,
+              "expanded_url": "https://khreborn-anime.jp/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2080961313506045952/7oxC8xyN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080961313506045952/7oxC8xyN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "TVアニメ『家庭教師ヒットマンREBORN!』公式サイト",
+              "unwound_url": "https://khreborn-anime.jp/",
+              "url": "https://t.co/yWKowJEFAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081237308851024053",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4083
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080961254940893207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @khreborn_anime: 🔥20th ANNIV. PROJECT🔥\n\nTVアニメ『家庭教師ヒットマンREBORN!』\n20周年、まだまだ続きます！！\n新企画も近日発表予定！お楽しみに！\n\nhttps://t.co/yWKowJEFAI\nYT：https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080958517863915520"
+          ]
+        },
+        "author_id": "2002024540562743296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1286296657135468545",
+              "name": "TikTok"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286296657135468545",
+              "name": "TikTok"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2080961254940893207",
+        "created_at": "2026-07-25T10:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080961254940893207"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 202,
+              "start": 193,
+              "tag": "アニリボ20th"
+            },
+            {
+              "end": 208,
+              "start": 203,
+              "tag": "リボーン"
+            },
+            {
+              "end": 216,
+              "start": 209,
+              "tag": "REBORN"
+            }
+          ],
+          "urls": [
+            {
+              "description": "TVアニメ『家庭教師ヒットマンREBORN!』20周年記念",
+              "display_url": "khreborn-anime.jp",
+              "end": 105,
+              "expanded_url": "https://khreborn-anime.jp/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2080961313506045952/7oxC8xyN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080961313506045952/7oxC8xyN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 82,
+              "status": 200,
+              "title": "TVアニメ『家庭教師ヒットマンREBORN!』公式サイト",
+              "unwound_url": "https://khreborn-anime.jp/",
+              "url": "https://t.co/yWKowJEFAI"
+            },
+            {
+              "description": "原作：天野 明 ジャンプコミックス全42巻／TVアニメ『家庭教師ヒットマンREBORN!』は2026年10月に20周年を迎えます!!! 2026年を“20th ANNIVERSARY YEAR”として、様々な企画を展開していきます🔥 推奨ハッシュタグ #アニリボ20th #リボーン #REBORN",
+              "display_url": "youtube.com/@khreborn_anime",
+              "end": 132,
+              "expanded_url": "https://www.youtube.com/@khreborn_anime",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2080961300327477248/lh8UqIde?format=jpg&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080961300327477248/lh8UqIde?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 109,
+              "status": 200,
+              "title": "『家庭教師ヒットマンREBORN!』アニメ公式",
+              "unwound_url": "https://www.youtube.com/@khreborn_anime",
+              "url": "https://t.co/qSNauOcjja"
+            },
+            {
+              "description": "28K Followers, 0 Following, 220 Posts - See Instagram photos and videos from 『家庭教師ヒットマンREBORN!』アニメ公式 (@khreborn_anime)",
+              "display_url": "instagram.com/khreborn_anime/",
+              "end": 160,
+              "expanded_url": "https://instagram.com/khreborn_anime/",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2080961300126191616/mx16bQZY?format=jpg&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2080961300126191616/mx16bQZY?format=jpg&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 137,
+              "status": 200,
+              "title": "『家庭教師ヒットマンREBORN!』アニメ公式 (@khreborn_anime) • Instagram profile",
+              "unwound_url": "https://www.instagram.com/khreborn_anime/",
+              "url": "https://t.co/ESDaz8AkWe"
+            },
+            {
+              "display_url": "tiktok.com/khreborn_anime/",
+              "end": 191,
+              "expanded_url": "https://www.tiktok.com/khreborn_anime/",
+              "start": 168,
+              "status": 200,
+              "title": "TikTok",
+              "unwound_url": "https://www.tiktok.com/404?fromUrl=/khreborn_anime/",
+              "url": "https://t.co/fHtGlVO8YF"
+            },
+            {
+              "display_url": "pic.x.com/mkBrNa2Jrf",
+              "end": 240,
+              "expanded_url": "https://x.com/khreborn_anime/status/2080961254940893207/photo/1",
+              "media_key": "3_2080958517863915520",
+              "start": 217,
+              "url": "https://t.co/mkBrNa2Jrf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080961254940893207",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 925,
+          "impression_count": 749084,
+          "like_count": 13010,
+          "quote_count": 795,
+          "reply_count": 122,
+          "retweet_count": 4083
+        },
+        "reply_settings": "everyone",
+        "text": "🔥20th ANNIV. PROJECT🔥\n\nTVアニメ『家庭教師ヒットマンREBORN!』\n20周年、まだまだ続きます！！\n新企画も近日発表予定！お楽しみに！\n\nhttps://t.co/yWKowJEFAI\nYT：https://t.co/qSNauOcjja \nIG：https://t.co/ESDaz8AkWe\nTikTok：https://t.co/fHtGlVO8YF\n\n#アニリボ20th\n#リボーン\n#REBORN https://t.co/mkBrNa2Jrf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 399,
+          "like_count": 1910,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1494
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T14:33:59.000Z",
+        "description": "原作：#天野明 ジャンプコミックス全42巻／TVアニメ『家庭教師ヒットマンREBORN!』は、2026年10月に20周年を迎えます!!! 2026年を“20th ANNIVERSARY YEAR”として、様々な企画を展開していきます🔥  #アニリボ20th #リボーン #REBORN グッズ @khreborn_pr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 3,
+                "tag": "天野明"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "tag": "アニリボ20th"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "リボーン"
+              },
+              {
+                "end": 142,
+                "start": 135,
+                "tag": "REBORN"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "khreborn_pr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "khreborn-anime.jp",
+                "end": 23,
+                "expanded_url": "https://khreborn-anime.jp/",
+                "start": 0,
+                "url": "https://t.co/1l1ffqzLLg"
+              }
+            ]
+          }
+        },
+        "id": "2002024540562743296",
+        "name": "『家庭教師ヒットマンREBORN!』アニメ公式",
+        "pinned_tweet_id": "2002032420560986456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003411914874105856/uaGD1Lu-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66376,
+          "following_count": 5,
+          "like_count": 15,
+          "listed_count": 104,
+          "media_count": 256,
+          "tweet_count": 280
+        },
+        "url": "https://t.co/1l1ffqzLLg",
+        "username": "khreborn_anime",
+        "verified": true
+      }
+    ]
+  }
+}

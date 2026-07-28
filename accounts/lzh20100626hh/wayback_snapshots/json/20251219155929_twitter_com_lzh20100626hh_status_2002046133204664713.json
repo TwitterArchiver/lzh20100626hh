@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2002046095070027776"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2002046133204664713",
+    "created_at": "2025-12-19T15:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T16:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002046133204664713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qwR8GsFkSq",
+          "end": 23,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2002046133204664713/video/1",
+          "media_key": "7_2002046095070027776",
+          "start": 0,
+          "url": "https://t.co/qwR8GsFkSq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002046133204664713",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/qwR8GsFkSq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14024,
+        "height": 1280,
+        "media_key": "7_2002046095070027776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2002046095070027776/pu/img/0LSCHAs4R0baPbdW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002046095070027776/pu/vid/avc1/320x568/xI9BR2-JuwrRfijb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002046095070027776/pu/vid/avc1/480x852/teVsMaVaBvGQlGzC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002046095070027776/pu/vid/avc1/720x1280/IztmbEIugTAERv39.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2002046095070027776/pu/pl/VBSwb1vqpfQA74Hi.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2002046095070027776"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2002046133204664713",
+        "created_at": "2025-12-19T15:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T16:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002046133204664713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwR8GsFkSq",
+              "end": 23,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2002046133204664713/video/1",
+              "media_key": "7_2002046095070027776",
+              "start": 0,
+              "url": "https://t.co/qwR8GsFkSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002046133204664713",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qwR8GsFkSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜\n🚪好友位33｜纯绿52",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001827342180847659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 102
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

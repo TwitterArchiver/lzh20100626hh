@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2001537273305927945",
+    "created_at": "2025-12-18T17:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T18:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001704906424733880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1591291078501552128",
+          "start": 0,
+          "username": "anncy28483290"
+        },
+        {
+          "end": 22,
+          "id": "1851459951933464577",
+          "start": 15,
+          "username": "404biu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001704906424733880",
+    "in_reply_to_user_id": "1591291078501552128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001693586505765316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anncy28483290 @404biu 真的哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2001537273305927945",
+        "created_at": "2025-12-18T17:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T18:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001704906424733880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1591291078501552128",
+              "start": 0,
+              "username": "anncy28483290"
+            },
+            {
+              "end": 22,
+              "id": "1851459951933464577",
+              "start": 15,
+              "username": "404biu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001704906424733880",
+        "in_reply_to_user_id": "1591291078501552128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001693586505765316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anncy28483290 @404biu 真的哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591291078501552128",
+        "conversation_id": "2001537273305927945",
+        "created_at": "2025-12-18T16:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T17:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001693586505765316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            },
+            {
+              "end": 22,
+              "id": "1851459951933464577",
+              "start": 15,
+              "username": "404biu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001693586505765316",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001598755502723176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh @404biu 真的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜\n🚪具体请私信！\n喜欢什么风格我都可以尝试！",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001214410438983819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 98
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T04:46:39.000Z",
+        "description": "",
+        "id": "1591291078501552128",
+        "name": "anncy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879217932766711808/ZJAWKczY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 100,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "anncy28483290",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T03:03:59.000Z",
+        "description": "逆水寒  宿命相逢  欢迎劳斯们来找我玩",
+        "id": "1851459951933464577",
+        "name": "404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956605844323454976/2Y_ZYFAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 59,
+          "like_count": 2979,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 435
+        },
+        "username": "404biu",
+        "verified": false
+      }
+    ]
+  }
+}

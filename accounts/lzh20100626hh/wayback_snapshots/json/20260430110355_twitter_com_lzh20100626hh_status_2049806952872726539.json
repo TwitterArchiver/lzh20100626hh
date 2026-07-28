@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2049764489684475998",
+    "created_at": "2026-04-30T11:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049806952872726539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767122266414882816",
+          "start": 0,
+          "username": "shu_fan0228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049806952872726539",
+    "in_reply_to_user_id": "1767122266414882816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049764489684475998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shu_fan0228 老公你好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049764474790518784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHI57gEaoAALrqt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2049764474790555648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHI57gEbMAAFwNm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2049764474794725376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHI57gFa0AA5Say.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049764474782109696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHI57gCaUAAjRzE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2049764489684475998",
+        "created_at": "2026-04-30T11:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049806952872726539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767122266414882816",
+              "start": 0,
+              "username": "shu_fan0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049806952872726539",
+        "in_reply_to_user_id": "1767122266414882816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049764489684475998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shu_fan0228 老公你好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049764474790518784",
+            "3_2049764474790555648",
+            "3_2049764474794725376",
+            "3_2049764474782109696"
+          ]
+        },
+        "author_id": "1767122266414882816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049764489684475998",
+        "created_at": "2026-04-30T08:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049764489684475998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AYoyHwZwf6",
+              "end": 42,
+              "expanded_url": "https://x.com/shu_fan0228/status/2049764489684475998/photo/1",
+              "media_key": "3_2049764474790518784",
+              "start": 19,
+              "url": "https://t.co/AYoyHwZwf6"
+            },
+            {
+              "display_url": "pic.x.com/AYoyHwZwf6",
+              "end": 42,
+              "expanded_url": "https://x.com/shu_fan0228/status/2049764489684475998/photo/1",
+              "media_key": "3_2049764474790555648",
+              "start": 19,
+              "url": "https://t.co/AYoyHwZwf6"
+            },
+            {
+              "display_url": "pic.x.com/AYoyHwZwf6",
+              "end": 42,
+              "expanded_url": "https://x.com/shu_fan0228/status/2049764489684475998/photo/1",
+              "media_key": "3_2049764474794725376",
+              "start": 19,
+              "url": "https://t.co/AYoyHwZwf6"
+            },
+            {
+              "display_url": "pic.x.com/AYoyHwZwf6",
+              "end": 42,
+              "expanded_url": "https://x.com/shu_fan0228/status/2049764489684475998/photo/1",
+              "media_key": "3_2049764474782109696",
+              "start": 19,
+              "url": "https://t.co/AYoyHwZwf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049764489684475998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇啊啊啊啊啊啊啊啊第一次摸到伯恩山… https://t.co/AYoyHwZwf6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以梦想是所有人可以一直陪着鸦od｜双相｜解离型身份障碍ADHD｜双性恋｜鸦鸦是主人格第二人格叫西西第三人格是♂叫茧 ✨激推のLxmzs233明鏡✨小繁繁@Cristinai1b✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2047897363289903320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 264,
+          "like_count": 1207,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 933
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T09:36:16.000Z",
+        "description": "一个幸福的旋转的白痴神棍",
+        "id": "1767122266414882816",
+        "name": "临死前最后一顿饭要吃什么好？",
+        "pinned_tweet_id": "1901257523258327203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925656856036352000/NJqr_bws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165,
+          "following_count": 166,
+          "like_count": 3442,
+          "listed_count": 3,
+          "media_count": 716,
+          "tweet_count": 4355
+        },
+        "username": "shu_fan0228",
+        "verified": false
+      }
+    ]
+  }
+}

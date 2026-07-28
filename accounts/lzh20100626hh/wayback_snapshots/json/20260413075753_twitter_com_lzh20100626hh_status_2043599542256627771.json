@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043358013097172992"
+      ],
+      "media_source_tweet_id": [
+        "2043358027705958736"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043599542256627771",
+    "created_at": "2026-04-13T07:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043599542256627771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1578395243891855362",
+          "start": 3,
+          "username": "hate_0811"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WnuO2ATCwZ",
+          "end": 38,
+          "expanded_url": "https://x.com/hate_0811/status/2043358027705958736/photo/1",
+          "media_key": "3_2043358013097172992",
+          "start": 15,
+          "url": "https://t.co/WnuO2ATCwZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043599542256627771",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043358027705958736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hate_0811: https://t.co/WnuO2ATCwZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2043358013097172992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFt3SWea4AAf6ea.jpg",
+        "width": 867
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043358013097172992"
+          ],
+          "media_source_tweet_id": [
+            "2043358027705958736"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043599542256627771",
+        "created_at": "2026-04-13T07:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043599542256627771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1578395243891855362",
+              "start": 3,
+              "username": "hate_0811"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WnuO2ATCwZ",
+              "end": 38,
+              "expanded_url": "https://x.com/hate_0811/status/2043358027705958736/photo/1",
+              "media_key": "3_2043358013097172992",
+              "start": 15,
+              "url": "https://t.co/WnuO2ATCwZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043599542256627771",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043358027705958736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hate_0811: https://t.co/WnuO2ATCwZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043358013097172992"
+          ]
+        },
+        "author_id": "1578395243891855362",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043358027705958736",
+        "created_at": "2026-04-12T15:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043358027705958736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WnuO2ATCwZ",
+              "end": 23,
+              "expanded_url": "https://x.com/hate_0811/status/2043358027705958736/photo/1",
+              "media_key": "3_2043358013097172992",
+              "start": 0,
+              "url": "https://t.co/WnuO2ATCwZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043358027705958736",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3718,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WnuO2ATCwZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 140,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 796
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T14:42:16.000Z",
+        "description": "防失联小号喵@Tiesa1234",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Tiesa1234"
+              }
+            ]
+          }
+        },
+        "id": "1578395243891855362",
+        "location": "🚪128",
+        "name": "讨厌你的好",
+        "pinned_tweet_id": "1990474102017306720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041769231306649600/9VNYjxZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3079,
+          "following_count": 235,
+          "like_count": 8340,
+          "listed_count": 5,
+          "media_count": 811,
+          "tweet_count": 7216
+        },
+        "username": "hate_0811",
+        "verified": false
+      }
+    ]
+  }
+}

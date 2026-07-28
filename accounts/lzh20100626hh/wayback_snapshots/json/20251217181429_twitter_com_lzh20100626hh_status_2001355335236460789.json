@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2001241724044423437",
+    "created_at": "2025-12-17T18:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T19:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001355335236460789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1902981499512840192",
+          "start": 0,
+          "username": "yiju188"
+        },
+        {
+          "end": 23,
+          "id": "1454106589959319553",
+          "start": 9,
+          "username": "promisingwang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001355335236460789",
+    "in_reply_to_user_id": "1902981499512840192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001325049933164689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiju188 @promisingwang 我来好吗哥哥。。🚪33｜52｜88  不贵的。。具体私信好不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2001241724044423437",
+        "created_at": "2025-12-17T18:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T19:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001355335236460789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1902981499512840192",
+              "start": 0,
+              "username": "yiju188"
+            },
+            {
+              "end": 23,
+              "id": "1454106589959319553",
+              "start": 9,
+              "username": "promisingwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001355335236460789",
+        "in_reply_to_user_id": "1902981499512840192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001325049933164689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiju188 @promisingwang 我来好吗哥哥。。🚪33｜52｜88  不贵的。。具体私信好不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902981499512840192",
+        "conversation_id": "2001241724044423437",
+        "created_at": "2025-12-17T16:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T17:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001325049933164689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1454106589959319553",
+              "start": 0,
+              "username": "promisingwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001325049933164689",
+        "in_reply_to_user_id": "1454106589959319553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001241724044423437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@promisingwang 蹲一个纯聊天的。。。我连游戏都不打"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦\n废话｜od｜身体",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001214410438983819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 27,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 62
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T07:12:08.000Z",
+        "description": "我是风姿，琼诡，直男",
+        "id": "1902981499512840192",
+        "location": "周浆间隙",
+        "name": "逸居",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996955681380036608/C6YfdoI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 188,
+          "like_count": 543,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 119
+        },
+        "username": "yiju188",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-29T15:23:35.000Z",
+        "description": "ううううううううううううううう",
+        "id": "1454106589959319553",
+        "location": "Tokyo-to, Japan",
+        "name": "千霁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1454340505391796225/VjDKv7Ls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 76,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 61
+        },
+        "username": "promisingwang",
+        "verified": false
+      }
+    ]
+  }
+}

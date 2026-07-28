@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2045099646079676439",
+    "created_at": "2026-04-17T11:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T12:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045099646079676439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1875622919201513472",
+          "start": 3,
+          "username": "Donot_cry0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045099646079676439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 227
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044296506782404863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Donot_cry0v0: 我和心理医生聊过你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2045099646079676439",
+        "created_at": "2026-04-17T11:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045099646079676439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1875622919201513472",
+              "start": 3,
+              "username": "Donot_cry0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045099646079676439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 227
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044296506782404863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Donot_cry0v0: 我和心理医生聊过你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875622919201513472",
+        "conversation_id": "2044296506782404863",
+        "created_at": "2026-04-15T06:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044296506782404863"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044296506782404863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 106033,
+          "like_count": 1804,
+          "quote_count": 36,
+          "reply_count": 120,
+          "retweet_count": 227
+        },
+        "reply_settings": "everyone",
+        "text": "我和心理医生聊过你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 147,
+          "like_count": 1062,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 828
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T19:18:54.000Z",
+        "description": "我们只能知道对方一半的事情",
+        "id": "1875622919201513472",
+        "name": "Minato",
+        "pinned_tweet_id": "2037461186262728913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032262721979490305/Pcbk_VZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 94,
+          "like_count": 2010,
+          "listed_count": 1,
+          "media_count": 272,
+          "tweet_count": 789
+        },
+        "username": "Donot_cry0v0",
+        "verified": false
+      }
+    ]
+  }
+}

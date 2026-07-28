@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2011859245042725295",
+    "created_at": "2026-01-21T13:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T14:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013973310774866359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954403111008894976",
+          "start": 0,
+          "username": "IX33550336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013973310774866359",
+    "in_reply_to_user_id": "1954403111008894976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011859245042725295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IX33550336 我真的好喜欢这条好有感觉。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19266,
+        "height": 1280,
+        "media_key": "13_2011859175350149120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011859175350149120/img/Fztdmr7jnLOm2JxF.jpg",
+        "public_metrics": {
+          "view_count": 38
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011859175350149120/vid/avc1/320x568/Gybv45zw3tKtpIq9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011859175350149120/vid/avc1/480x852/73jqhpuzFZmHC6D7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011859175350149120/vid/avc1/720x1280/89QLoFDCtIYk3v9b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2011859175350149120/pl/qDe__8fAl589D7TQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2011859245042725295",
+        "created_at": "2026-01-21T13:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013973310774866359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954403111008894976",
+              "start": 0,
+              "username": "IX33550336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013973310774866359",
+        "in_reply_to_user_id": "1954403111008894976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011859245042725295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IX33550336 我真的好喜欢这条好有感觉。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011859175350149120"
+          ]
+        },
+        "author_id": "1954403111008894976",
+        "conversation_id": "2011859245042725295",
+        "created_at": "2026-01-15T17:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T18:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011859245042725295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/17EyARnpXU",
+              "end": 23,
+              "expanded_url": "https://x.com/IX33550336/status/2011859245042725295/video/1",
+              "media_key": "13_2011859175350149120",
+              "start": 0,
+              "url": "https://t.co/17EyARnpXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011859245042725295",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/17EyARnpXU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜sh｜双相｜ ADHD   \n同类来互fo 我想和你们交朋友好不好呀 我很温良\n@Lxmzs233_我俩超级无敌霹雳至尊好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 50,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 275
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T04:43:20.000Z",
+        "description": "🎨✍️｜ed｜sh｜對外是個沒素質的精神病人但我會去誇誇所有萌萌小女孩｜男的或者怪人 滾",
+        "id": "1954403111008894976",
+        "location": "MENTAL ASYLUM",
+        "name": "嘔吐物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957717662638960640/VDy1EMDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 124,
+          "like_count": 4700,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1775
+        },
+        "username": "IX33550336",
+        "verified": false
+      }
+    ]
+  }
+}

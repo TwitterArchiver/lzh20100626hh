@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2041919748255183259",
+    "created_at": "2026-04-08T16:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041919748255183259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2008943608695840768",
+          "start": 3,
+          "username": "electronic_dirt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041919748255183259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041385902166175940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @electronic_dirt: 对喽就这样！小药片子嗑起来！猪蹄割起来！挂壁挂起来！学徒发起开！滴泪装穿起来！大卧蚕画起来！纹身搞起来！二手烟抽起来！消肿歌听起来！小妹妹你可千万不能输呀那个血刺啦刺啦流起来才牛逼克拉斯呢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2041919748255183259",
+        "created_at": "2026-04-08T16:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041919748255183259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2008943608695840768",
+              "start": 3,
+              "username": "electronic_dirt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041919748255183259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041385902166175940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @electronic_dirt: 对喽就这样！小药片子嗑起来！猪蹄割起来！挂壁挂起来！学徒发起开！滴泪装穿起来！大卧蚕画起来！纹身搞起来！二手烟抽起来！消肿歌听起来！小妹妹你可千万不能输呀那个血刺啦刺啦流起来才牛逼克拉斯呢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008943608695840768",
+        "conversation_id": "2041385902166175940",
+        "created_at": "2026-04-07T05:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041385902166175940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041385902166175940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4583,
+          "like_count": 163,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "对喽就这样！小药片子嗑起来！猪蹄割起来！挂壁挂起来！学徒发起开！滴泪装穿起来！大卧蚕画起来！纹身搞起来！二手烟抽起来！消肿歌听起来！小妹妹你可千万不能输呀那个血刺啦刺啦流起来才牛逼克拉斯呢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 119,
+          "like_count": 942,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 737
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T16:47:44.000Z",
+        "description": "💉𓂋 =无垢 可以找我互fo捏( ^ω^ ) 09休学中 顺女 泛性恋 精无\n\n内含【 割 、o 、 烟 、 酒 】",
+        "id": "2008943608695840768",
+        "name": "无垢",
+        "pinned_tweet_id": "2026491738811150817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040675587917066240/Egsby-wo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 197,
+          "like_count": 1086,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 915
+        },
+        "username": "electronic_dirt",
+        "verified": false
+      }
+    ]
+  }
+}

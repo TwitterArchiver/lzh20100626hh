@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2001445094193311760",
+    "created_at": "2025-12-18T00:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T01:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001445094193311760"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "贡畜"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "贡猪"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "贡狗"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "上贡"
+        },
+        {
+          "end": 134,
+          "start": 127,
+          "tag": "ATM提款机"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974172033887178752",
+          "start": 3,
+          "username": "DouDouDesu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001445094193311760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984561953780711656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DouDouDesu_: 任何给我点赞的人，我会主动吐50块\n转发这个推文的人，我会主动吐100块\n如果没有钱了，我会按照10块一条个人信息补偿给您。是用来胁迫我，还是发推，还是在评论区与其他人共享，我都无权干涉\n#贡畜 #贡猪 #贡狗 #上贡 #ATM提款机 #ATM…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2001445094193311760].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2001445094193311760",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2001445094193311760"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1984561951113166849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qUlHLbQAEe3GC.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984561951113166849"
+          ]
+        },
+        "author_id": "1974172033887178752",
+        "conversation_id": "1984561953780711656",
+        "created_at": "2025-11-01T10:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T11:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984561953780711656"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "贡畜"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "贡猪"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "贡狗"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "上贡"
+            },
+            {
+              "end": 117,
+              "start": 110,
+              "tag": "ATM提款机"
+            },
+            {
+              "end": 123,
+              "start": 118,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "自曝"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "曝光"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "曝光狗"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "吐金"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "吐钱"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "榨金"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iaoJhiUine",
+              "end": 172,
+              "expanded_url": "https://x.com/DouDouDesu_/status/1984561953780711656/photo/1",
+              "media_key": "3_1984561951113166849",
+              "start": 149,
+              "url": "https://t.co/iaoJhiUine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984561953780711656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5423,
+          "like_count": 95,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "任何给我点赞的人，我会主动吐50块\n转发这个推文的人，我会主动吐100块\n如果没有钱了，我会按照10块一条个人信息补偿给您。是用来胁迫我，还是发推，还是在评论区与其他人共享，我都无权干涉\n#贡畜 #贡猪 #贡狗 #上贡 #ATM提款机 #ATM奴 #自曝 #曝光 #曝光狗 #吐金 #吐钱 #榨金 https://t.co/iaoJhiUine"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜身体｜\n入🚪具体请私信！是为了给好朋友攒看病钱꒦ິ^꒦ິ \n只要入我门的 我什么风格都可以尝试！",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001214410438983819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 67
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T17:57:55.000Z",
+        "description": "",
+        "id": "1974172033887178752",
+        "name": "💜雪雪的足奴💜",
+        "pinned_tweet_id": "1984561953780711656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001398996347293696/S-JWYYb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 172,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "username": "DouDouDesu_",
+        "verified": false
+      }
+    ]
+  }
+}

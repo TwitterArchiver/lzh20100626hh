@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2013919225979502991",
+    "created_at": "2026-01-21T12:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T13:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013952285903307007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954403111008894976",
+          "start": 0,
+          "username": "IX33550336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013952285903307007",
+    "in_reply_to_user_id": "1954403111008894976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013948138806202541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IX33550336 宝宝也你太好了吧。就是我们都会越来越好的呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2013919225979502991",
+        "created_at": "2026-01-21T12:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013952285903307007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954403111008894976",
+              "start": 0,
+              "username": "IX33550336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013952285903307007",
+        "in_reply_to_user_id": "1954403111008894976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013948138806202541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IX33550336 宝宝也你太好了吧。就是我们都会越来越好的呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954403111008894976",
+        "conversation_id": "2013919225979502991",
+        "created_at": "2026-01-21T12:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013948138806202541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013948138806202541",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013947065311900049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh 不會！我的專業也是一天到晚被說沒出路，親戚看到都要問一句以後怎麼找工作\n但實際上真的進這個領域才發現我能做的可多了\n會評價這沒出路的基本都不是真的在這個行業的人他們當然不知道有什麼可以做！做你想做的！支持你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜sh｜双相｜ ADHD   \n同类来互fo 我想和你们交朋友好不好呀 我很温良",
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 48,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 259
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T04:43:20.000Z",
+        "description": "🎨✍️｜ed｜sh｜對外是個沒素質的精神病人但我會去誇誇所有萌萌小女孩｜男的或者怪人 滾",
+        "id": "1954403111008894976",
+        "location": "MENTAL ASYLUM",
+        "name": "嘔吐物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957717662638960640/VDy1EMDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 124,
+          "like_count": 4690,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1772
+        },
+        "username": "IX33550336",
+        "verified": false
+      }
+    ]
+  }
+}

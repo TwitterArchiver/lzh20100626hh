@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2077790637475475794",
+    "created_at": "2026-07-16T16:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077790637475475794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1476198137589268480",
+          "start": 3,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077790637475475794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077712255563538702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N3kuv: 唯一尝过的甜头是电子烟漏油唯一享受的时代红利是右美沙芬和普瑞巴林没列管"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2077790637475475794",
+        "created_at": "2026-07-16T16:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077790637475475794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1476198137589268480",
+              "start": 3,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077790637475475794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077712255563538702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N3kuv: 唯一尝过的甜头是电子烟漏油唯一享受的时代红利是右美沙芬和普瑞巴林没列管"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2077712255563538702",
+        "created_at": "2026-07-16T11:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077712255563538702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077712255563538702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 921,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "唯一尝过的甜头是电子烟漏油唯一享受的时代红利是右美沙芬和普瑞巴林没列管"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 397,
+          "like_count": 1860,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1440
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "he/him 🏳️‍🌈 oder/drugtwt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/omdLQg",
+                "end": 23,
+                "expanded_url": "https://reurl.cc/omdLQg",
+                "start": 0,
+                "url": "https://t.co/D225M96ROQ"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "name": "普丁🥴免费破处💐8964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074106003067461632/ZR23tI7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 545,
+          "like_count": 6158,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 601
+        },
+        "url": "https://t.co/D225M96ROQ",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

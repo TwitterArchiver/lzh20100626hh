@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2014252580537581651",
+    "created_at": "2026-01-22T10:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T11:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014280462961971427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954403111008894976",
+          "start": 0,
+          "username": "IX33550336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014280462961971427",
+    "in_reply_to_user_id": "1954403111008894976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014252580537581651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IX33550336 就这样！我亲戚也是 说我不上学不学好 我完全不理！他们骂我他们难受 我不听我不难受！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2014252580537581651",
+        "created_at": "2026-01-22T10:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014280462961971427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954403111008894976",
+              "start": 0,
+              "username": "IX33550336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014280462961971427",
+        "in_reply_to_user_id": "1954403111008894976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014252580537581651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IX33550336 就这样！我亲戚也是 说我不上学不学好 我完全不理！他们骂我他们难受 我不听我不难受！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954403111008894976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2014252580537581651",
+        "created_at": "2026-01-22T08:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T09:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014252580537581651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014252580537581651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "過年將回家與親戚大戰\n酒吧工作 奇怪的科系 奇怪的實驗室 一堆紋身穿孔 奇怪的造型服裝穿搭\n全家就我在叛逆不好意思二十了還是這樣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  废话｜od｜sh｜双相｜ ADHD｜｜｜｜尼古丁创造精神  酒精确定思想\n        感觉混沌的时候就用感受疼痛的方式去重新系起与世界的联系｜｜｜\n@Lxmzs233_我俩超级无敌霹雳至尊好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 49,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 285
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T04:43:20.000Z",
+        "description": "🎨✍️｜ed｜sh｜對外是個沒素質的精神病人但我會去誇誇所有萌萌小女孩｜男的或者怪人 滾",
+        "id": "1954403111008894976",
+        "location": "MENTAL ASYLUM",
+        "name": "嘔吐物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957717662638960640/VDy1EMDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 124,
+          "like_count": 4760,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 1804
+        },
+        "username": "IX33550336",
+        "verified": false
+      }
+    ]
+  }
+}

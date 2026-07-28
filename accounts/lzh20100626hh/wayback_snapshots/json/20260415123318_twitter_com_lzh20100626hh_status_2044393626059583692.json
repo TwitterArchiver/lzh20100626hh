@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2044323399284232300",
+    "created_at": "2026-04-15T12:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T13:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044393626059583692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690530117171453952",
+          "start": 0,
+          "username": "AgNo3_XQ719"
+        },
+        {
+          "end": 27,
+          "id": "1714008587012612097",
+          "start": 13,
+          "username": "angelkawaii2P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044393626059583692",
+    "in_reply_to_user_id": "1690530117171453952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044323399284232300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgNo3_XQ719 @angelkawaii2P 蹲蹲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2044323399284232300",
+        "created_at": "2026-04-15T12:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044393626059583692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690530117171453952",
+              "start": 0,
+              "username": "AgNo3_XQ719"
+            },
+            {
+              "end": 27,
+              "id": "1714008587012612097",
+              "start": 13,
+              "username": "angelkawaii2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044393626059583692",
+        "in_reply_to_user_id": "1690530117171453952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044323399284232300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgNo3_XQ719 @angelkawaii2P 蹲蹲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690530117171453952",
+        "conversation_id": "2044323399284232300",
+        "created_at": "2026-04-15T07:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044323399284232300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044323399284232300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1315,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "开个抽奖🎟️\n一等奖3盒愚昧（折现24r）1位\n二等奖1盒愚昧（折现8r）3位\n三等奖5.2r 3位\n转发 评论点赞 关注参与\n500fo开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2013807148904640566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 147,
+          "like_count": 1044,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 820
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T01:06:17.000Z",
+        "description": "od妹｜09｜双相情感障碍｜istp-t｜互fo欢迎｜🚪52 88 188 288 520｜爱人@NiimiyaHoshi @llzvkeai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "llzvkeai"
+              }
+            ]
+          }
+        },
+        "id": "1690530117171453952",
+        "location": "普瑞巴林星球",
+        "name": "硝酸银_浅（二世）",
+        "pinned_tweet_id": "2041871190642585663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041358000955518976/9zUWm5kR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 309,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 495
+        },
+        "username": "AgNo3_XQ719",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T20:01:18.000Z",
+        "description": "病み垢 鬱症 od リスカ",
+        "id": "1714008587012612097",
+        "location": "天国",
+        "name": "天国ナミダ",
+        "pinned_tweet_id": "2039170935308296533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041138582778425344/tfuXk2ne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 280,
+          "like_count": 1485,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1969
+        },
+        "username": "angelkawaii2P",
+        "verified": false
+      }
+    ]
+  }
+}

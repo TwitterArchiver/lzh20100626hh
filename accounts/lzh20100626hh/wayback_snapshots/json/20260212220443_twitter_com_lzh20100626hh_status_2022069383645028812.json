@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021537370026414080",
+        "3_2021537370026475521",
+        "3_2021537370022219776"
+      ],
+      "media_source_tweet_id": [
+        "2021537381179085073",
+        "2021537381179085073",
+        "2021537381179085073"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2022069383645028812",
+    "created_at": "2026-02-12T22:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T23:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022069383645028812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2019814679179313152",
+          "start": 3,
+          "username": "zhitiao1314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UgS1v8xT6g",
+          "end": 116,
+          "expanded_url": "https://x.com/zhitiao1314/status/2021537381179085073/photo/1",
+          "media_key": "3_2021537370026414080",
+          "start": 93,
+          "url": "https://t.co/UgS1v8xT6g"
+        },
+        {
+          "display_url": "pic.x.com/UgS1v8xT6g",
+          "end": 116,
+          "expanded_url": "https://x.com/zhitiao1314/status/2021537381179085073/photo/1",
+          "media_key": "3_2021537370026475521",
+          "start": 93,
+          "url": "https://t.co/UgS1v8xT6g"
+        },
+        {
+          "display_url": "pic.x.com/UgS1v8xT6g",
+          "end": 116,
+          "expanded_url": "https://x.com/zhitiao1314/status/2021537381179085073/photo/1",
+          "media_key": "3_2021537370022219776",
+          "start": 93,
+          "url": "https://t.co/UgS1v8xT6g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022069383645028812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021537381179085073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhitiao1314: 纸条的🔝\n已成年｜G罩｜全国🉑飞\n因为父母行动不便导致家里没有收入 所以我下海了\n入我🚪的我都会真心对待🥺\n验证20坐标15r\n互fo互转欢迎来找我！ https://t.co/UgS1v8xT6g"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022069383645028812].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022069383645028812",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022069383645028812"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021537370026414080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3xhwiaEAACvjZ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021537370026475521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3xhwibAAEnOjO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021537370022219776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3xhwhaEAAZBzM.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021537370026414080",
+            "3_2021537370026475521",
+            "3_2021537370022219776"
+          ]
+        },
+        "author_id": "2019814679179313152",
+        "conversation_id": "2021537381179085073",
+        "created_at": "2026-02-11T10:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T11:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021537381179085073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UgS1v8xT6g",
+              "end": 99,
+              "expanded_url": "https://x.com/zhitiao1314/status/2021537381179085073/photo/1",
+              "media_key": "3_2021537370026414080",
+              "start": 76,
+              "url": "https://t.co/UgS1v8xT6g"
+            },
+            {
+              "display_url": "pic.x.com/UgS1v8xT6g",
+              "end": 99,
+              "expanded_url": "https://x.com/zhitiao1314/status/2021537381179085073/photo/1",
+              "media_key": "3_2021537370026475521",
+              "start": 76,
+              "url": "https://t.co/UgS1v8xT6g"
+            },
+            {
+              "display_url": "pic.x.com/UgS1v8xT6g",
+              "end": 99,
+              "expanded_url": "https://x.com/zhitiao1314/status/2021537381179085073/photo/1",
+              "media_key": "3_2021537370022219776",
+              "start": 76,
+              "url": "https://t.co/UgS1v8xT6g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021537381179085073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3760,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "纸条的🔝\n已成年｜G罩｜全国🉑飞\n因为父母行动不便导致家里没有收入 所以我下海了\n入我🚪的我都会真心对待🥺\n验证20坐标15r\n互fo互转欢迎来找我！ https://t.co/UgS1v8xT6g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 鸦会一直陪着所有人｜od｜sh ｜双向｜ADHD｜双性恋｜を激推します✨@Lxmzs233_✨明鏡！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2021707692977660357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 106,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 552
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T16:45:32.000Z",
+        "description": "2.0版本已被贱人所害 现在3.0纸条强行归来！入门可以解锁大量黄图和脸照",
+        "id": "2019814679179313152",
+        "location": "坐标15验证20",
+        "name": "纸条3.0",
+        "pinned_tweet_id": "2021537381179085073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019814798683488256/Al6I-CPI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 13,
+          "like_count": 7,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 141
+        },
+        "username": "zhitiao1314",
+        "verified": false
+      }
+    ]
+  }
+}

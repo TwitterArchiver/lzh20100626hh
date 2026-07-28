@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2006510577192218984",
+    "created_at": "2025-12-31T23:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T00:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006510577192218984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688397365336850432",
+          "start": 3,
+          "username": "nkqlbxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006510577192218984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006371766063808985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nkqlbxc: “先站稳，再牵手。”\n很多人觉得，谈恋爱就是找个人来对自己好，\n让自己开心，摆脱孤单。\n这听起来没错，但其实，\n这更像一种“情感交易”。\n真正的爱，不是“我需要你”，而是“我欣赏你”。\n\n当你一个人也能把日子过好，有自己的生活、\n兴趣和朋友圈，内心感到…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2006510577192218984",
+        "created_at": "2025-12-31T23:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T00:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006510577192218984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688397365336850432",
+              "start": 3,
+              "username": "nkqlbxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006510577192218984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006371766063808985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nkqlbxc: “先站稳，再牵手。”\n很多人觉得，谈恋爱就是找个人来对自己好，\n让自己开心，摆脱孤单。\n这听起来没错，但其实，\n这更像一种“情感交易”。\n真正的爱，不是“我需要你”，而是“我欣赏你”。\n\n当你一个人也能把日子过好，有自己的生活、\n兴趣和朋友圈，内心感到…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688397365336850432",
+        "conversation_id": "2006371766063808985",
+        "created_at": "2025-12-31T14:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T15:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006371766063808985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006371766063808985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“先站稳，再牵手。”\n很多人觉得，谈恋爱就是找个人来对自己好，\n让自己开心，摆脱孤单。\n这听起来没错，但其实，\n这更像一种“情感交易”。\n真正的爱，不是“我需要你”，而是“我欣赏你”。\n\n当你一个人也能把日子过好，有自己的生活、\n兴趣和朋友圈，内心感到充实和安稳。\n这时候，你才不会总想着从伴侣身上拼命索取爱和关注，来填补自己内心的空洞。\n\n这时的你，去爱一个人，原因会变得很纯粹；\n你不是因为他能给你做饭、陪你打发时间，\n或者让你有面子才爱他。\n\n你爱他，仅仅是因为他本身——\n可能是他笑起来的样子、他认真工作的神态，\n或者他善良的内心。\n\n这种感觉，就像你看到一片特别美的晚霞，\n你不会想去占有它，\n你只想静静地欣赏，\n希望这份美好能停留得久一点。\n\n爱其实可以很简单。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 22002,
+          "like_count": 226,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "“先站稳，再牵手。”\n很多人觉得，谈恋爱就是找个人来对自己好，\n让自己开心，摆脱孤单。\n这听起来没错，但其实，\n这更像一种“情感交易”。\n真正的爱，不是“我需要你”，而是“我欣赏你”。\n\n当你一个人也能把日子过好，有自己的生活、\n兴趣和朋友圈，内心感到充实和安稳。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜双性恋",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001214410438983819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 37,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 180
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”\n\n防封小号（处哥在干嘛）：@chuge857",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "chuge857"
+              }
+            ]
+          }
+        },
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1996944506026185176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89628,
+          "following_count": 84,
+          "like_count": 1131,
+          "listed_count": 95,
+          "media_count": 1724,
+          "tweet_count": 2565
+        },
+        "username": "nkqlbxc",
+        "verified": true
+      }
+    ]
+  }
+}

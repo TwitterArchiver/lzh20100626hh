@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2074701723072102808",
+    "created_at": "2026-07-08T03:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074701723072102808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1699273459325390848",
+          "start": 3,
+          "username": "DurantRaym93677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074701723072102808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074179366289101249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DurantRaym93677: 盘点那些只想混个学历结果差点把命搭上的男孩子女孩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2074701723072102808",
+        "created_at": "2026-07-08T03:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074701723072102808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1699273459325390848",
+              "start": 3,
+              "username": "DurantRaym93677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074701723072102808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074179366289101249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DurantRaym93677: 盘点那些只想混个学历结果差点把命搭上的男孩子女孩子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699273459325390848",
+        "conversation_id": "2074179366289101249",
+        "created_at": "2026-07-06T17:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074179366289101249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074179366289101249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12914,
+          "like_count": 221,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "盘点那些只想混个学历结果差点把命搭上的男孩子女孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 400,
+          "like_count": 1842,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1418
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🍊 あぁ 闇はただ純粋で | \n🚼 🔑サブ: @AmmieColl84391 (フォロー歓迎) | 💼 Speaker of the Parliament of @enchenia | 💕 @chiyorin8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "AmmieColl84391"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "enchenia"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "chiyorin8964"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "location": "Japan",
+        "name": "Luke 鈴木 さくらみ⛩️",
+        "pinned_tweet_id": "1991763708138397781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036740912668389376/LWPePSYk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3407,
+          "following_count": 3966,
+          "like_count": 49808,
+          "listed_count": 15,
+          "media_count": 589,
+          "tweet_count": 11975
+        },
+        "url": "",
+        "username": "DurantRaym93677",
+        "verified": true
+      }
+    ]
+  }
+}

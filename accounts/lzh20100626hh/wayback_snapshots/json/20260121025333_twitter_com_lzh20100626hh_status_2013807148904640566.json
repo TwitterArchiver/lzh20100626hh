@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013807144773263363",
+        "3_2013807144857149440",
+        "3_2013807145062715392",
+        "3_2013807145058476034"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2013807148904640566",
+    "created_at": "2026-01-21T02:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T03:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013807148904640566"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 62,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "门槛"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "门哥"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "纯绿"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "半绿"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p9qrIVVoBC",
+          "end": 106,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2013807148904640566/photo/1",
+          "media_key": "3_2013807144773263363",
+          "start": 83,
+          "url": "https://t.co/p9qrIVVoBC"
+        },
+        {
+          "display_url": "pic.x.com/p9qrIVVoBC",
+          "end": 106,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2013807148904640566/photo/1",
+          "media_key": "3_2013807144857149440",
+          "start": 83,
+          "url": "https://t.co/p9qrIVVoBC"
+        },
+        {
+          "display_url": "pic.x.com/p9qrIVVoBC",
+          "end": 106,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2013807148904640566/photo/1",
+          "media_key": "3_2013807145062715392",
+          "start": 83,
+          "url": "https://t.co/p9qrIVVoBC"
+        },
+        {
+          "display_url": "pic.x.com/p9qrIVVoBC",
+          "end": 106,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2013807148904640566/photo/1",
+          "media_key": "3_2013807145058476034",
+          "start": 83,
+          "url": "https://t.co/p9qrIVVoBC"
+        },
+        {
+          "display_url": "x.com/lzh20100626hh/…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/lzh20100626hh/status/2013806618186785088",
+          "start": 107,
+          "url": "https://t.co/qp5RQQK8O1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013807148904640566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013806618186785088",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是鸦鸦 我很缺钱\n我不想每天犯病没有药吃了\n🚪33开放朋友圈\n🚪52纯绿 聊天\n🚪88不露出\n私信发口令\n求求你们入我门\n#门槛妹 #门槛 #门哥 #纯绿 #半绿 https://t.co/p9qrIVVoBC https://t.co/qp5RQQK8O1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_2013807144773263363",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_J67bZaoAMjHGH.jpg",
+        "width": 1076
+      },
+      {
+        "height": 1372,
+        "media_key": "3_2013807144857149440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_J67btaoAAIAO8.jpg",
+        "width": 1076
+      },
+      {
+        "height": 1540,
+        "media_key": "3_2013807145062715392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_J67cebUAATwvH.jpg",
+        "width": 1072
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2013807145058476034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_J67cdaoAIrAiD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1420,
+        "media_key": "3_2013806610095972356",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_J6cTkaoAQMW30.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2013806612897538048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_J6ceAXIAAXCgF.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1592,
+        "media_key": "3_2013806611186266112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_J6cXoXMAA3PXX.jpg",
+        "width": 1076
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2013806613669519361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_J6cg4aoAEXa2h.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013807144773263363",
+            "3_2013807144857149440",
+            "3_2013807145062715392",
+            "3_2013807145058476034"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2013807148904640566",
+        "created_at": "2026-01-21T02:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T03:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013807148904640566"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 62,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "门槛"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "门哥"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "纯绿"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "半绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9qrIVVoBC",
+              "end": 106,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2013807148904640566/photo/1",
+              "media_key": "3_2013807144773263363",
+              "start": 83,
+              "url": "https://t.co/p9qrIVVoBC"
+            },
+            {
+              "display_url": "pic.x.com/p9qrIVVoBC",
+              "end": 106,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2013807148904640566/photo/1",
+              "media_key": "3_2013807144857149440",
+              "start": 83,
+              "url": "https://t.co/p9qrIVVoBC"
+            },
+            {
+              "display_url": "pic.x.com/p9qrIVVoBC",
+              "end": 106,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2013807148904640566/photo/1",
+              "media_key": "3_2013807145062715392",
+              "start": 83,
+              "url": "https://t.co/p9qrIVVoBC"
+            },
+            {
+              "display_url": "pic.x.com/p9qrIVVoBC",
+              "end": 106,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2013807148904640566/photo/1",
+              "media_key": "3_2013807145058476034",
+              "start": 83,
+              "url": "https://t.co/p9qrIVVoBC"
+            },
+            {
+              "display_url": "x.com/lzh20100626hh/…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/lzh20100626hh/status/2013806618186785088",
+              "start": 107,
+              "url": "https://t.co/qp5RQQK8O1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013807148904640566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013806618186785088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是鸦鸦 我很缺钱\n我不想每天犯病没有药吃了\n🚪33开放朋友圈\n🚪52纯绿 聊天\n🚪88不露出\n私信发口令\n求求你们入我门\n#门槛妹 #门槛 #门哥 #纯绿 #半绿 https://t.co/p9qrIVVoBC https://t.co/qp5RQQK8O1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013806610095972356",
+            "3_2013806612897538048",
+            "3_2013806611186266112",
+            "3_2013806613669519361"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2013806601187086769",
+        "created_at": "2026-01-21T02:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T03:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013806618186785088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnfTSwriBD",
+              "end": 35,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2013806618186785088/photo/1",
+              "media_key": "3_2013806610095972356",
+              "start": 12,
+              "url": "https://t.co/vnfTSwriBD"
+            },
+            {
+              "display_url": "pic.x.com/vnfTSwriBD",
+              "end": 35,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2013806618186785088/photo/1",
+              "media_key": "3_2013806612897538048",
+              "start": 12,
+              "url": "https://t.co/vnfTSwriBD"
+            },
+            {
+              "display_url": "pic.x.com/vnfTSwriBD",
+              "end": 35,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2013806618186785088/photo/1",
+              "media_key": "3_2013806611186266112",
+              "start": 12,
+              "url": "https://t.co/vnfTSwriBD"
+            },
+            {
+              "display_url": "pic.x.com/vnfTSwriBD",
+              "end": 35,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2013806618186785088/photo/1",
+              "media_key": "3_2013806613669519361",
+              "start": 12,
+              "url": "https://t.co/vnfTSwriBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013806618186785088",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013806601187086769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同类可不可以入我门。。 https://t.co/vnfTSwriBD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜sh｜双相｜ ADHD   \n同类来交朋友好不好呀 我很温良",
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88｜188",
+        "name": "鸦",
+        "pinned_tweet_id": "2013806601187086769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 47,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 234
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

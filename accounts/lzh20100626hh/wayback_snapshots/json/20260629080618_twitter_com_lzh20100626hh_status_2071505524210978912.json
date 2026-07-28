@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2071459050756386969",
+    "created_at": "2026-06-29T08:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071505524210978912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987074621280260096",
+          "start": 0,
+          "username": "LillaVirts23519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071505524210978912",
+    "in_reply_to_user_id": "1987074621280260096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071483179454865755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LillaVirts23519 哦不。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2071483179454865755].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2071483179454865755",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2071483179454865755"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2071459050756386969",
+        "created_at": "2026-06-29T08:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071505524210978912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987074621280260096",
+              "start": 0,
+              "username": "LillaVirts23519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071505524210978912",
+        "in_reply_to_user_id": "1987074621280260096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071483179454865755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LillaVirts23519 哦不。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 389,
+          "like_count": 1758,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1366
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T08:28:03.000Z",
+        "description": "互fo请私会查成分｜不聊骚不约炮不线下 ｜🚪52没福利纯圈钱",
+        "id": "1987074621280260096",
+        "location": "距你520m",
+        "name": "00",
+        "pinned_tweet_id": "2071488123604029699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005048584614674438/-sd0bBmV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 495,
+          "like_count": 12915,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 3311
+        },
+        "url": "",
+        "username": "LillaVirts23519",
+        "verified": false
+      }
+    ]
+  }
+}

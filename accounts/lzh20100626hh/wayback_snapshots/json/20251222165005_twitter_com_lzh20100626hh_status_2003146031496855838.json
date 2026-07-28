@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2003146031496855838",
+    "created_at": "2025-12-22T16:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T17:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003146031496855838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962893857731084289",
+          "start": 3,
+          "username": "lgnwsmbaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003146031496855838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002767537176813823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lgnwsmbaw: 我最贱的就是喜欢有个人管着我但是不能真管着我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2003146031496855838",
+        "created_at": "2025-12-22T16:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T17:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003146031496855838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962893857731084289",
+              "start": 3,
+              "username": "lgnwsmbaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003146031496855838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002767537176813823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lgnwsmbaw: 我最贱的就是喜欢有个人管着我但是不能真管着我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962893857731084289",
+        "conversation_id": "2002767537176813823",
+        "created_at": "2025-12-21T15:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T16:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002767537176813823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002767537176813823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11058,
+          "like_count": 183,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我最贱的就是喜欢有个人管着我但是不能真管着我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜身体｜双性恋",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001214410438983819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 30,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 136
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T15:02:38.000Z",
+        "description": "美男的福星，处男的克星，肌肉男的救星",
+        "id": "1962893857731084289",
+        "location": "水泥平地",
+        "name": "降降火气吧",
+        "pinned_tweet_id": "1980326921239175347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002780231057223681/sNSH6KHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9137,
+          "following_count": 58,
+          "like_count": 3284,
+          "listed_count": 21,
+          "media_count": 231,
+          "tweet_count": 2657
+        },
+        "username": "lgnwsmbaw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2000733910549062093",
+    "created_at": "2025-12-16T01:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T02:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000733910549062093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1599125227786608655",
+          "start": 3,
+          "username": "momoko8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000733910549062093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961489840333107610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momoko8964: 总感觉吃药是一种安慰剂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2000733910549062093",
+        "created_at": "2025-12-16T01:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T02:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000733910549062093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1599125227786608655",
+              "start": 3,
+              "username": "momoko8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000733910549062093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961489840333107610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momoko8964: 总感觉吃药是一种安慰剂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599125227786608655",
+        "conversation_id": "1961489840333107610",
+        "created_at": "2025-08-29T18:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T19:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961489840333107610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961489840333107610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3968,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "总感觉吃药是一种安慰剂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦。喜欢我就给我钱",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2000678245419647153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 25,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 25
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去 喜欢我就请给我点钱让我生活得更好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/realeco_771",
+                "end": 23,
+                "expanded_url": "https://ngl.link/realeco_771",
+                "start": 0,
+                "url": "https://t.co/goQGuK3lL5"
+              }
+            ]
+          }
+        },
+        "id": "1599125227786608655",
+        "location": "🚪88/288 私信只回口令",
+        "name": "苦桃",
+        "pinned_tweet_id": "1992505717358768130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999112583241154561/4f9HHNuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9824,
+          "following_count": 297,
+          "like_count": 27491,
+          "listed_count": 12,
+          "media_count": 1614,
+          "tweet_count": 17752
+        },
+        "url": "https://t.co/goQGuK3lL5",
+        "username": "momoko8964",
+        "verified": false
+      }
+    ]
+  }
+}

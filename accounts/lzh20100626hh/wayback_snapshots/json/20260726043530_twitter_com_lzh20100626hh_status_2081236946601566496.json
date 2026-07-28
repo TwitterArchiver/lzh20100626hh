@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2081236946601566496",
+    "created_at": "2026-07-26T04:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081236946601566496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/khreborn_pr/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/khreborn_pr/status/1938216599049408949",
+          "start": 11,
+          "url": "https://t.co/urpfHIcFlR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081236946601566496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938216599049408949",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的法克这个柄好帅啊 https://t.co/urpfHIcFlR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3412,
+        "media_key": "3_1938216202683486209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuXtXgLbEAEIfI4.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2081236946601566496",
+        "created_at": "2026-07-26T04:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081236946601566496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/khreborn_pr/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/khreborn_pr/status/1938216599049408949",
+              "start": 11,
+              "url": "https://t.co/urpfHIcFlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081236946601566496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938216599049408949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的法克这个柄好帅啊 https://t.co/urpfHIcFlR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938216202683486209"
+          ]
+        },
+        "author_id": "1480526297382408203",
+        "conversation_id": "1938216599049408949",
+        "created_at": "2025-06-26T12:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T13:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938216599049408949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "xhslink.com/m/812C02HoWT2",
+              "end": 138,
+              "expanded_url": "http://xhslink.com/m/812C02HoWT2",
+              "start": 115,
+              "unwound_url": "https://www.xiaohongshu.com/discovery/item/6854cece00000000100268fa?app_platform=android&ignoreEngage=true&app_version=8.88.0&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBp_eZhxtiHxUlZvNkFTqtC984A1OdHaCgtzdLCqJBwpQ%3D&author_share=1&xhsshare=CopyLink&shareRedId=ODc1NTtHNUE2NzUyOTgwNjY1OTg9S0lL&apptime=1750923074&share_id=96328bcb865040cc898623dcb9a565ab&share_channel=copy_link",
+              "url": "https://t.co/pPGqobRVjo"
+            },
+            {
+              "display_url": "weibo.com/6375444839/Pxn…",
+              "end": 169,
+              "expanded_url": "https://weibo.com/6375444839/PxnUPwfLA",
+              "start": 146,
+              "unwound_url": "https://weibo.com/6375444839/PxnUPwfLA",
+              "url": "https://t.co/m8mu6zpyVW"
+            },
+            {
+              "display_url": "pic.x.com/2hEEv0NThA",
+              "end": 193,
+              "expanded_url": "https://x.com/khreborn_pr/status/1938216599049408949/photo/1",
+              "media_key": "3_1938216202683486209",
+              "start": 170,
+              "url": "https://t.co/2hEEv0NThA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938216599049408949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 360,
+          "impression_count": 261083,
+          "like_count": 3763,
+          "quote_count": 345,
+          "reply_count": 7,
+          "retweet_count": 1191
+        },
+        "reply_settings": "everyone",
+        "text": "明日、27日より、中国の3都市（上海、重慶、西安）でポップアップが開催します！\n\n夏と海を感じる書き下ろし商品が揃っております！\n中国にいらっしゃる方、ご旅行行かれる方、是非ともお立ち寄りください！\n\n詳しくはこちら↓\n小紅書: https://t.co/pPGqobRVjo\nWEIBO: https://t.co/m8mu6zpyVW https://t.co/2hEEv0NThA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 399,
+          "like_count": 1908,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1493
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-10T13:06:04.000Z",
+        "description": "アニメ『家庭教師ヒットマンREBORN!』の商品情報公式アカウントです。グッズなど関連情報を発信していきます。よろしくお願いします。アニメ公式オンラインショップはこちら→https://t.co/v3ijnl2sfG\n※個別の返信は行っておりませんのでご了承ください。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reborn-animeshop.com",
+                "end": 108,
+                "expanded_url": "https://reborn-animeshop.com/",
+                "start": 85,
+                "url": "https://t.co/v3ijnl2sfG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reborn-animeshop.com",
+                "end": 23,
+                "expanded_url": "https://reborn-animeshop.com/",
+                "start": 0,
+                "url": "https://t.co/v3ijnl2sfG"
+              }
+            ]
+          }
+        },
+        "id": "1480526297382408203",
+        "name": "アニメ「家庭教師ヒットマンREBORN!」グッズ情報公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1480567306791321601/wl0_e0jy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71181,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 234,
+          "media_count": 39,
+          "tweet_count": 762
+        },
+        "url": "https://t.co/v3ijnl2sfG",
+        "username": "khreborn_pr",
+        "verified": false
+      }
+    ]
+  }
+}

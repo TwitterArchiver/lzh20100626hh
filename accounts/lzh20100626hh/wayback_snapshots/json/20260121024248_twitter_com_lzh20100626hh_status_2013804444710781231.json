@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2013803234427597272",
+    "created_at": "2026-01-21T02:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T03:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013804444710781231"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "门槛"
+        },
+        {
+          "end": 8,
+          "start": 4,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 11,
+          "start": 9,
+          "tag": "门"
+        },
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "纯绿"
+        },
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "半绿"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013804444710781231",
+    "in_reply_to_user_id": "2000658943144812548",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013803248034234376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#门槛 #门槛妹 #门 #纯绿 #半绿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_2013803242237607936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_J3YRUaQAA0K2c.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2013803244439359488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_J3YZhWUAAyvdm.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2013803244527722498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_J3YZ2aoAICdNR.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1592,
+        "media_key": "3_2013803243734802432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_J3YW5XoAAf_G1.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2013803234427597272",
+        "created_at": "2026-01-21T02:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T03:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013804444710781231"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "门槛"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 11,
+              "start": 9,
+              "tag": "门"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "纯绿"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "半绿"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013804444710781231",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013803248034234376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#门槛 #门槛妹 #门 #纯绿 #半绿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013803242237607936",
+            "3_2013803244439359488",
+            "3_2013803244527722498",
+            "3_2013803243734802432"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2013803234427597272",
+        "created_at": "2026-01-21T02:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T03:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013803248034234376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/shRnm5zb7E",
+              "end": 23,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2013803248034234376/photo/1",
+              "media_key": "3_2013803242237607936",
+              "start": 0,
+              "url": "https://t.co/shRnm5zb7E"
+            },
+            {
+              "display_url": "pic.x.com/shRnm5zb7E",
+              "end": 23,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2013803248034234376/photo/1",
+              "media_key": "3_2013803244439359488",
+              "start": 0,
+              "url": "https://t.co/shRnm5zb7E"
+            },
+            {
+              "display_url": "pic.x.com/shRnm5zb7E",
+              "end": 23,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2013803248034234376/photo/1",
+              "media_key": "3_2013803244527722498",
+              "start": 0,
+              "url": "https://t.co/shRnm5zb7E"
+            },
+            {
+              "display_url": "pic.x.com/shRnm5zb7E",
+              "end": 23,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2013803248034234376/photo/1",
+              "media_key": "3_2013803243734802432",
+              "start": 0,
+              "url": "https://t.co/shRnm5zb7E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013803248034234376",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013803234427597272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/shRnm5zb7E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜sh｜双相｜ ADHD   \n同类来交朋友好不好呀 我很温良",
+        "id": "2000658943144812548",
+        "location": "🚪33｜52｜88｜188",
+        "name": "鸦",
+        "pinned_tweet_id": "2013643691911770274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 47,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 233
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

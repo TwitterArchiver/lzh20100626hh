@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2056784961232113695",
+    "created_at": "2026-05-19T17:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056784961232113695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031591173975060489",
+          "start": 3,
+          "username": "oiloou07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056784961232113695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056589854566473995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oiloou07: 都要520了也不过我的🚪？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2056784961232113695",
+        "created_at": "2026-05-19T17:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056784961232113695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031591173975060489",
+              "start": 3,
+              "username": "oiloou07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056784961232113695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056589854566473995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oiloou07: 都要520了也不过我的🚪？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031591173975060489",
+        "conversation_id": "2056589854566473995",
+        "created_at": "2026-05-19T04:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056589854566473995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056589854566473995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3536,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "都要520了也不过我的🚪？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜双相｜解离型身份障碍｜ADHD｜双性恋｜鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧 ✨激推の@Lxmzs233明鏡✨小繁繁@Cristinai1b✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "Lxmzs233"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2056744177984266427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 304,
+          "like_count": 1337,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1026
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T04:41:09.000Z",
+        "description": "˃̣̣ᯅก",
+        "id": "2031591173975060489",
+        "location": "🚪99➕绿泡泡",
+        "name": "嗲犬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047206249889198080/D3CrKS28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6676,
+          "following_count": 0,
+          "like_count": 622,
+          "listed_count": 10,
+          "media_count": 31,
+          "tweet_count": 147
+        },
+        "username": "oiloou07",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2056697596476014924",
+    "created_at": "2026-05-19T11:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056697596476014924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhangcw04/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/zhangcw04/status/2056524233178587534",
+          "start": 17,
+          "url": "https://t.co/LcNqUy8d4j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056697596476014924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056524233178587534",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃。饿。好饿。呃。饿饿饿饿饿饿饿 https://t.co/LcNqUy8d4j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1591,
+        "media_key": "3_2054727574333558784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIPb16paEAAGxXk.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2056697596476014924",
+        "created_at": "2026-05-19T11:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056697596476014924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhangcw04/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/zhangcw04/status/2056524233178587534",
+              "start": 17,
+              "url": "https://t.co/LcNqUy8d4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056697596476014924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056524233178587534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃。饿。好饿。呃。饿饿饿饿饿饿饿 https://t.co/LcNqUy8d4j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054727574333558784"
+          ]
+        },
+        "author_id": "1754023103339094016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056524233178587534",
+        "created_at": "2026-05-18T23:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T00:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056524233178587534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjAnfGby9o",
+              "end": 41,
+              "expanded_url": "https://x.com/zhangcw04/status/2056524233178587534/photo/1",
+              "media_key": "3_2054727574333558784",
+              "start": 18,
+              "url": "https://t.co/kjAnfGby9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056524233178587534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 24463,
+          "like_count": 489,
+          "quote_count": 11,
+          "reply_count": 99,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "谁能拒绝带一层啫喱的白切鸡啊！！！ https://t.co/kjAnfGby9o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜双相｜解离型身份障碍｜ADHD｜双性恋｜鸦鸦是主人格｜第二人格叫西西｜第三人格是♂叫茧 ✨激推の@Lxmzs233明鏡✨小繁繁@Cristinai1b✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "Lxmzs233"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2047897363289903320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 298,
+          "like_count": 1293,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 988
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T06:04:44.000Z",
+        "description": "美食",
+        "id": "1754023103339094016",
+        "name": "白雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754321141446115328/C3N53vHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13579,
+          "following_count": 9704,
+          "like_count": 10913,
+          "listed_count": 30,
+          "media_count": 2942,
+          "tweet_count": 12660
+        },
+        "username": "zhangcw04",
+        "verified": false
+      }
+    ]
+  }
+}

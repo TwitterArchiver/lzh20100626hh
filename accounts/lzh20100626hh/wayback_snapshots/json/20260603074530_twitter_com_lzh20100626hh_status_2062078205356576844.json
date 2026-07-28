@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2061666842872295653",
+    "created_at": "2026-06-03T07:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062078205356576844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1268795636284973056",
+          "start": 0,
+          "username": "IHGWWyk7SI8syBi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062078205356576844",
+    "in_reply_to_user_id": "1268795636284973056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061716906227511476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IHGWWyk7SI8syBi 笑死我了我操"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2061666842872295653",
+        "created_at": "2026-06-03T07:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062078205356576844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1268795636284973056",
+              "start": 0,
+              "username": "IHGWWyk7SI8syBi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062078205356576844",
+        "in_reply_to_user_id": "1268795636284973056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061716906227511476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IHGWWyk7SI8syBi 笑死我了我操"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1268795636284973056",
+        "conversation_id": "2061666842872295653",
+        "created_at": "2026-06-02T07:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061716906227511476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061716906227511476",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061666842872295653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh 你的獠牙，粘上果粒了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 我们一跃而下  \n✨@Cristinai1b小綺✨\n唯一雷点是评价我的眉毛 请不要问我眉毛怎么没了这种话",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 364,
+          "like_count": 1599,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1256
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-05T06:43:53.000Z",
+        "description": "人之所以痛苦，在于追求错误的东西\n与其说是别人让你痛苦，不如说自己的修养不够\n如果你不给自己烦恼，别人也永远不可能给你烦恼。因为你自己的内心，你放不下\n好好的管教你自己，不要管别人\n不宽恕众生，不原谅众生，是苦了你自己\n你永远要感谢给你逆境的众生\n#无法自控 #阴郁 #恐怖 #死亡 #愤怒",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 124,
+                "tag": "无法自控"
+              },
+              {
+                "end": 133,
+                "start": 130,
+                "tag": "阴郁"
+              },
+              {
+                "end": 137,
+                "start": 134,
+                "tag": "恐怖"
+              },
+              {
+                "end": 141,
+                "start": 138,
+                "tag": "死亡"
+              },
+              {
+                "end": 145,
+                "start": 142,
+                "tag": "愤怒"
+              }
+            ]
+          }
+        },
+        "id": "1268795636284973056",
+        "location": "巨山精神病院",
+        "name": "地獄傀儡師",
+        "pinned_tweet_id": "1537006860544495616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515638418390523906/Pq_P7B1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 17,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1378
+        },
+        "username": "IHGWWyk7SI8syBi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012901609747951616"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2012901613330178117",
+    "created_at": "2026-01-18T14:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012901613330178117"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vbGfy0IP1Z",
+          "end": 29,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2012901613330178117/photo/1",
+          "media_key": "3_2012901609747951616",
+          "start": 6,
+          "url": "https://t.co/vbGfy0IP1Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012901613330178117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有一个丑逼 https://t.co/vbGfy0IP1Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2012901609747951616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9DWWjWsAAvECs.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012901609747951616"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2012901613330178117",
+        "created_at": "2026-01-18T14:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012901613330178117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vbGfy0IP1Z",
+              "end": 29,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2012901613330178117/photo/1",
+              "media_key": "3_2012901609747951616",
+              "start": 6,
+              "url": "https://t.co/vbGfy0IP1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012901613330178117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一个丑逼 https://t.co/vbGfy0IP1Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜sh",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2010645337543967011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 41,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 196
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

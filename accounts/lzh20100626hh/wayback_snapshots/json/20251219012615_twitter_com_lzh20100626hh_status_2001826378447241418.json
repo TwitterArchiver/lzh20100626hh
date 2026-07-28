@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001826373971906561",
+        "3_2001826372852027394",
+        "3_2001826374139678726"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2001826378447241418",
+    "created_at": "2025-12-19T01:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T02:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001826378447241418"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NaWCol99lJ",
+          "end": 31,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2001826378447241418/photo/1",
+          "media_key": "3_2001826373971906561",
+          "start": 8,
+          "url": "https://t.co/NaWCol99lJ"
+        },
+        {
+          "display_url": "pic.x.com/NaWCol99lJ",
+          "end": 31,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2001826378447241418/photo/1",
+          "media_key": "3_2001826372852027394",
+          "start": 8,
+          "url": "https://t.co/NaWCol99lJ"
+        },
+        {
+          "display_url": "pic.x.com/NaWCol99lJ",
+          "end": 31,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2001826378447241418/photo/1",
+          "media_key": "3_2001826374139678726",
+          "start": 8,
+          "url": "https://t.co/NaWCol99lJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001826378447241418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🚪爱我就给我钱 https://t.co/NaWCol99lJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001826373971906561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8fqeyKakAEzIKi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1076,
+        "media_key": "3_2001826372852027394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8fqet_akAIVTXB.jpg",
+        "width": 872
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2001826374139678726",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8fqeyyakAYEeTp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001826373971906561",
+            "3_2001826372852027394",
+            "3_2001826374139678726"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2001826378447241418",
+        "created_at": "2025-12-19T01:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T02:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001826378447241418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NaWCol99lJ",
+              "end": 31,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2001826378447241418/photo/1",
+              "media_key": "3_2001826373971906561",
+              "start": 8,
+              "url": "https://t.co/NaWCol99lJ"
+            },
+            {
+              "display_url": "pic.x.com/NaWCol99lJ",
+              "end": 31,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2001826378447241418/photo/1",
+              "media_key": "3_2001826372852027394",
+              "start": 8,
+              "url": "https://t.co/NaWCol99lJ"
+            },
+            {
+              "display_url": "pic.x.com/NaWCol99lJ",
+              "end": 31,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2001826378447241418/photo/1",
+              "media_key": "3_2001826374139678726",
+              "start": 8,
+              "url": "https://t.co/NaWCol99lJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001826378447241418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🚪爱我就给我钱 https://t.co/NaWCol99lJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "我是鸦鸦  \n废话｜od｜\n🚪具体请私信！\n喜欢什么风格我都可以尝试！",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2001711040627904694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 101
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

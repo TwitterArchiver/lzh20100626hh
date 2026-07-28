@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2047864685899464867",
+    "created_at": "2026-04-25T03:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047877100879966687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032033299980566528",
+          "start": 0,
+          "username": "rinii165892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047877100879966687",
+    "in_reply_to_user_id": "2000658943144812548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047864685899464867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinii165892 这条可以取消转帖了霖霖🥺🥺转我新发的那条就好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047864675963113472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGt6Ep7aEAABRT5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047864678391721984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGt6Ey-bsAANAvu.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047864678316179457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGt6EysbAAEv3W7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2047864680723763200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGt6E7qb0AAOWx-.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2047864685899464867",
+        "created_at": "2026-04-25T03:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047877100879966687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047877100879966687",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047864685899464867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 这条可以取消转帖了霖霖🥺🥺转我新发的那条就好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047864675963113472",
+            "3_2047864678391721984",
+            "3_2047864678316179457",
+            "3_2047864680723763200"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2047864685899464867",
+        "created_at": "2026-04-25T02:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047864685899464867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wS9j2iVjWl",
+              "end": 165,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2047864685899464867/photo/1",
+              "media_key": "3_2047864675963113472",
+              "start": 142,
+              "url": "https://t.co/wS9j2iVjWl"
+            },
+            {
+              "display_url": "pic.x.com/wS9j2iVjWl",
+              "end": 165,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2047864685899464867/photo/1",
+              "media_key": "3_2047864678391721984",
+              "start": 142,
+              "url": "https://t.co/wS9j2iVjWl"
+            },
+            {
+              "display_url": "pic.x.com/wS9j2iVjWl",
+              "end": 165,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2047864685899464867/photo/1",
+              "media_key": "3_2047864678316179457",
+              "start": 142,
+              "url": "https://t.co/wS9j2iVjWl"
+            },
+            {
+              "display_url": "pic.x.com/wS9j2iVjWl",
+              "end": 165,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2047864685899464867/photo/1",
+              "media_key": "3_2047864680723763200",
+              "start": 142,
+              "url": "https://t.co/wS9j2iVjWl"
+            },
+            {
+              "display_url": "x.com/lzh20100626hh/…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/lzh20100626hh/status/2047858125999636543",
+              "start": 166,
+              "url": "https://t.co/ugDHyqb6Qn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047864685899464867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047858125999636543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转帖点赞互fo抽小红包 \n交到朋友抽\n一等奖散装pr和愈美如果是假药随便你怎么搞我都好有原盒（或52r） \n二等奖52r\n 三等奖30r \n四等奖13.14r\n10年ip吉林长春\n长春附近都可以最好可以一起戒药一起抽烟喝酒\n我可以给你买烟买酒爆金币给你买我经济范围内任何你喜欢的礼物 https://t.co/wS9j2iVjWl https://t.co/ugDHyqb6Qn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想 叫我鸦鸦 什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜sh ｜双相｜解离型身份障碍｜ADHD｜双性恋｜\n鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧｜を激推します✨@Lxmzs233_✨明鏡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Lxmzs233_"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "location": "痛い",
+        "name": "鸦",
+        "pinned_tweet_id": "2047867229585523028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 154,
+          "like_count": 1175,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 888
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "不发帖就是被抓进精神病院了【寻回推u】\n- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- \n互联网蛆虫，查成分回fo/低龄糖逼，十分抱歉\n宇宙严重失眠 -12现役初中生\n备用号@YiJin_0v0\n^✟❀灵宠@dbdbsjbsja❀原神@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "YiJin_0v0"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 126,
+                "start": 110,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 143,
+                "start": 131,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/Ks0tpHwbNp"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040872269401276416/xul0eQRI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 867,
+          "like_count": 8483,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 4506
+        },
+        "url": "https://t.co/Ks0tpHwbNp",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

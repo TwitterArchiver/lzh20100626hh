@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2069390337890808049",
+    "created_at": "2026-06-23T12:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069390337890808049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2056655773502160896",
+          "start": 3,
+          "username": "simaojie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069390337890808049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068716026200785130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @simaojie: 餐券妹的结局好像确实只有变健全和飞升这两个道路"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2069390337890808049",
+        "created_at": "2026-06-23T12:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069390337890808049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2056655773502160896",
+              "start": 3,
+              "username": "simaojie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069390337890808049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068716026200785130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @simaojie: 餐券妹的结局好像确实只有变健全和飞升这两个道路"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056655773502160896",
+        "conversation_id": "2068716026200785130",
+        "created_at": "2026-06-21T15:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068716026200785130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068716026200785130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12424,
+          "like_count": 317,
+          "quote_count": 6,
+          "reply_count": 26,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "餐券妹的结局好像确实只有变健全和飞升这两个道路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 386,
+          "like_count": 1748,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1329
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:39:50.000Z",
+        "description": "你们可以叫我kaki/小卉\n欢迎互fo互转！！",
+        "id": "2056655773502160896",
+        "location": "不收门槛不接线下男的别关注别骚扰别评论",
+        "name": "Kaki",
+        "pinned_tweet_id": "2059672691880431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056656578166898688/pLNOT_SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 152,
+          "like_count": 316,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "simaojie",
+        "verified": false
+      }
+    ]
+  }
+}
