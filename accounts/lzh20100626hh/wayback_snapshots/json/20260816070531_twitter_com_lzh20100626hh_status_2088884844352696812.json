@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2088884844352696812",
+    "created_at": "2026-08-16T07:05:31.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088884844352696812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039317124053905408",
+          "start": 3,
+          "username": "SenT0rii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088884844352696812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 957
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083789043607998632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SenT0rii: 就是因为你们天天在网上保证这个是天使保证那个是天使，现在中国人都能飞了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2088884844352696812",
+        "created_at": "2026-08-16T07:05:31.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088884844352696812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039317124053905408",
+              "start": 3,
+              "username": "SenT0rii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088884844352696812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 957
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083789043607998632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SenT0rii: 就是因为你们天天在网上保证这个是天使保证那个是天使，现在中国人都能飞了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039317124053905408",
+        "conversation_id": "2083789043607998632",
+        "created_at": "2026-08-02T05:36:37.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083789043607998632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083789043607998632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 529998,
+          "like_count": 16125,
+          "quote_count": 107,
+          "reply_count": 1114,
+          "retweet_count": 957
+        },
+        "reply_settings": "everyone",
+        "text": "就是因为你们天天在网上保证这个是天使保证那个是天使，现在中国人都能飞了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088884844352696812",
+        "name": "鸦",
+        "pinned_tweet_id": "2085713205536628786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 400,
+          "like_count": 1987,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1565
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-01T12:24:12.000Z",
+        "description": "好想喝酷儿苹果汁",
+        "id": "2039317124053905408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088866763241029835",
+        "name": "苹果",
+        "pinned_tweet_id": "2082700770022224043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2039317124053905408/1778886797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039318812080955392/rRXsfmY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 50,
+          "like_count": 3222,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 1026
+        },
+        "url": "",
+        "username": "SenT0rii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

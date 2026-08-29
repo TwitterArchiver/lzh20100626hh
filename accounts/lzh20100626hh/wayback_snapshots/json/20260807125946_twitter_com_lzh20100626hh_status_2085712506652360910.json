@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2085711792546926671",
+    "created_at": "2026-08-07T12:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085712506652360910"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085712506652360910",
+    "in_reply_to_user_id": "2000658943144812548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085711792546926671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "闺蜜在我家待了一天。她不喜欢烟味所以我只在刚起床抽的第一根烟。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2085711782010843136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHv0K6acAAhemb.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2085711792546926671",
+        "created_at": "2026-08-07T12:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085712506652360910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085712506652360910",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085711792546926671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "闺蜜在我家待了一天。她不喜欢烟味所以我只在刚起床抽的第一根烟。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085711782010843136"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085711792546926671",
+        "created_at": "2026-08-07T12:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085711792546926671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEvL09TRkA",
+              "end": 65,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2085711792546926671/photo/1",
+              "media_key": "3_2085711782010843136",
+              "start": 42,
+              "url": "https://t.co/IEvL09TRkA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085711792546926671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为停不下嘴吃东西所以经常一上午不抽烟。我馋的烟都快戒了。今天第二根烟和。。鸭脖。 https://t.co/IEvL09TRkA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 395,
+          "like_count": 1956,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1523
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

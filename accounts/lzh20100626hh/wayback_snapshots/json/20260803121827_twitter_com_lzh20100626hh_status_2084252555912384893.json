@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2082504268859482624",
+    "created_at": "2026-08-03T12:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T13:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084252555912384893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2036099373608968192",
+          "start": 0,
+          "username": "szh80268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084252555912384893",
+    "in_reply_to_user_id": "2036099373608968192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082578197250806127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szh80268 吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2082504268859482624",
+        "created_at": "2026-08-03T12:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084252555912384893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2036099373608968192",
+              "start": 0,
+              "username": "szh80268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084252555912384893",
+        "in_reply_to_user_id": "2036099373608968192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082578197250806127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szh80268 吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036099373608968192",
+        "conversation_id": "2082504268859482624",
+        "created_at": "2026-07-29T21:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T22:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082578197250806127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082578197250806127",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082504268859482624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh 我吃一口雞胸肉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 394,
+          "like_count": 1951,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1514
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T15:15:03.000Z",
+        "description": "沒事可以找我聊天喔",
+        "id": "2036099373608968192",
+        "name": "素直",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036859816908619776/LYTzS830_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 379,
+          "like_count": 651,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 2244
+        },
+        "url": "",
+        "username": "szh80268",
+        "verified": false
+      }
+    ]
+  }
+}

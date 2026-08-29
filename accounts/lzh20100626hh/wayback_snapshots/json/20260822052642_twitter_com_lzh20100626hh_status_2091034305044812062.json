@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091034285579051008",
+        "3_2091034297394442240"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2090469254915330146",
+    "created_at": "2026-08-22T05:26:42.000Z",
+    "display_text_range": [
+      13,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T06:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091034305044812062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1182989706948165632",
+          "start": 0,
+          "username": "dustthepoet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N1F6RWJfj6",
+          "end": 73,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2091034305044812062/photo/1",
+          "media_key": "3_2091034285579051008",
+          "start": 50,
+          "url": "https://t.co/N1F6RWJfj6"
+        },
+        {
+          "display_url": "pic.x.com/N1F6RWJfj6",
+          "end": 73,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2091034305044812062/photo/1",
+          "media_key": "3_2091034297394442240",
+          "start": 50,
+          "url": "https://t.co/N1F6RWJfj6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091034305044812062",
+    "in_reply_to_user_id": "1182989706948165632",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091034285579051008"
+      },
+      {
+        "media_key": "3_2091034297394442240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090469254915330146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dustthepoet 药药在变好真好呀。都在变好真好呀。我记得你是我在墙外第一个互fo的同类！ https://t.co/N1F6RWJfj6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2285,
+        "media_key": "3_2091034285579051008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTYmp0aIAAbFKQ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1313,
+        "media_key": "3_2091034297394442240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTYnV1asAAsGGg.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091034285579051008",
+            "3_2091034297394442240"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2090469254915330146",
+        "created_at": "2026-08-22T05:26:42.000Z",
+        "display_text_range": [
+          13,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T06:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091034305044812062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1182989706948165632",
+              "start": 0,
+              "username": "dustthepoet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N1F6RWJfj6",
+              "end": 73,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2091034305044812062/photo/1",
+              "media_key": "3_2091034285579051008",
+              "start": 50,
+              "url": "https://t.co/N1F6RWJfj6"
+            },
+            {
+              "display_url": "pic.x.com/N1F6RWJfj6",
+              "end": 73,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2091034305044812062/photo/1",
+              "media_key": "3_2091034297394442240",
+              "start": 50,
+              "url": "https://t.co/N1F6RWJfj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091034305044812062",
+        "in_reply_to_user_id": "1182989706948165632",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091034285579051008"
+          },
+          {
+            "media_key": "3_2091034297394442240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090469254915330146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dustthepoet 药药在变好真好呀。都在变好真好呀。我记得你是我在墙外第一个互fo的同类！ https://t.co/N1F6RWJfj6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1182989706948165632",
+        "conversation_id": "2090469254915330146",
+        "created_at": "2026-08-20T16:01:24.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090469254915330146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090469254915330146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经很久不乱吃药了，抑郁症也好了个七七八八了。这么久的经历也是让我了解学习到了很多神经药理学知识，也让我重新建立了一套世界观与认知框架，如此我便能更加包容这个世界的一切。过去的事情也没法改变了，但我还能抓住我的未来不是吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091034305044812062",
+        "name": "鸦",
+        "pinned_tweet_id": "2085713205536628786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 401,
+          "like_count": 2018,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1582
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-12T12:01:46.000Z",
+        "description": "I cannot live without you @evelyn_notfound",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "evelyn_notfound"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/9ua9ua",
+                "end": 23,
+                "expanded_url": "https://ngl.link/9ua9ua",
+                "start": 0,
+                "url": "https://t.co/SEyEPJEfTs"
+              }
+            ]
+          }
+        },
+        "id": "1182989706948165632",
+        "is_identity_verified": false,
+        "location": "Your heart",
+        "most_recent_tweet_id": "2090470058967666874",
+        "name": "你有在药效中吗",
+        "pinned_tweet_id": "1911666309072408929",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1182989706948165632/1786825271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082552878447951872/4kT6rkB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 393,
+          "like_count": 8866,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 2494
+        },
+        "url": "https://t.co/SEyEPJEfTs",
+        "username": "dustthepoet",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
