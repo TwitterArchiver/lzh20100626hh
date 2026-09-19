@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2089677268474114323",
+    "created_at": "2026-08-19T04:23:04.000Z",
+    "display_text_range": [
+      21,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T05:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089931127528231402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767122266414882816",
+          "start": 0,
+          "username": "shu_fan0228"
+        },
+        {
+          "end": 20,
+          "id": "1673731239935881216",
+          "start": 13,
+          "username": "TKME2Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089931127528231402",
+    "in_reply_to_user_id": "1767122266414882816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089677268474114323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shu_fan0228 @TKME2Y 太帅。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089677254674771968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAGZDwacAAxwAp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2089677254616080384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAGZDia4AAfNYP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089677254624473088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAGZDka8AAfPsm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2089677268474114323",
+        "created_at": "2026-08-19T04:23:04.000Z",
+        "display_text_range": [
+          21,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T05:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089931127528231402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767122266414882816",
+              "start": 0,
+              "username": "shu_fan0228"
+            },
+            {
+              "end": 20,
+              "id": "1673731239935881216",
+              "start": 13,
+              "username": "TKME2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089931127528231402",
+        "in_reply_to_user_id": "1767122266414882816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089677268474114323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shu_fan0228 @TKME2Y 太帅。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089677254674771968",
+            "3_2089677254616080384",
+            "3_2089677254624473088"
+          ]
+        },
+        "author_id": "1767122266414882816",
+        "conversation_id": "2089677268474114323",
+        "created_at": "2026-08-18T11:34:19.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089677268474114323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zD5QQbydUE",
+              "end": 28,
+              "expanded_url": "https://x.com/shu_fan0228/status/2089677268474114323/photo/1",
+              "media_key": "3_2089677254674771968",
+              "start": 5,
+              "url": "https://t.co/zD5QQbydUE"
+            },
+            {
+              "display_url": "pic.x.com/zD5QQbydUE",
+              "end": 28,
+              "expanded_url": "https://x.com/shu_fan0228/status/2089677268474114323/photo/1",
+              "media_key": "3_2089677254616080384",
+              "start": 5,
+              "url": "https://t.co/zD5QQbydUE"
+            },
+            {
+              "display_url": "pic.x.com/zD5QQbydUE",
+              "end": 28,
+              "expanded_url": "https://x.com/shu_fan0228/status/2089677268474114323/photo/1",
+              "media_key": "3_2089677254624473088",
+              "start": 5,
+              "url": "https://t.co/zD5QQbydUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089677268474114323",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089677254674771968"
+          },
+          {
+            "media_key": "3_2089677254616080384"
+          },
+          {
+            "media_key": "3_2089677254624473088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 448,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汪汪汪。 https://t.co/zD5QQbydUE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089931127528231402",
+        "name": "鸦",
+        "pinned_tweet_id": "2085713205536628786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 399,
+          "like_count": 1993,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1575
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T09:36:16.000Z",
+        "description": "这里是飯～叫我饭饭之类的都可以。\n我在青岛，欢迎女生来找我玩呀！\n这个号完全不是认真经营的那种，会吐很多黑泥，我总是在飞、偶尔降落",
+        "id": "1767122266414882816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089703876866068628",
+        "name": "临死前最后一顿饭要吃什么好？",
+        "pinned_tweet_id": "2071318336601030813",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767122266414882816/1747947358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081039190616412160/fja64vW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2480,
+          "following_count": 174,
+          "like_count": 3554,
+          "listed_count": 4,
+          "media_count": 763,
+          "tweet_count": 4663
+        },
+        "url": "",
+        "username": "shu_fan0228",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-27T16:33:44.000Z",
+        "description": "",
+        "id": "1673731239935881216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089842727819305244",
+        "name": "雨以外",
+        "pinned_tweet_id": "2088288283029848458",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1673731239935881216/1777905577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089645708844650496/tMnHSIhm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 183,
+          "like_count": 5703,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 2223
+        },
+        "url": "",
+        "username": "TKME2Y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

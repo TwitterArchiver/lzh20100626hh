@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2092236710092603709",
+    "created_at": "2026-08-25T13:08:45.000Z",
+    "display_text_range": [
+      7,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T14:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092237747608236123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1617864671406751745",
+          "start": 0,
+          "username": "Jxh6O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092237747608236123",
+    "in_reply_to_user_id": "1617864671406751745",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092236840602644789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jxh6O 🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2092236710092603709",
+        "created_at": "2026-08-25T13:08:45.000Z",
+        "display_text_range": [
+          7,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092237747608236123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1617864671406751745",
+              "start": 0,
+              "username": "Jxh6O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092237747608236123",
+        "in_reply_to_user_id": "1617864671406751745",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092236840602644789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jxh6O 🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617864671406751745",
+        "conversation_id": "2092236710092603709",
+        "created_at": "2026-08-25T13:05:09.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092236840602644789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092236840602644789",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092236710092603709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh 我取关可以变成403"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092237747608236123",
+        "name": "鸦",
+        "pinned_tweet_id": "2085713205536628786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 404,
+          "like_count": 2032,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1596
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-24T12:39:44.000Z",
+        "description": "「| 鈴木空 | 24歳🇭🇰🇯🇵🇨🇳 | 中国旅行＆グルメ（焼鵝大好物🍗） | P社（HOI4/CK3）＆Apex | 歴史ミーム好き | 日中雑談大歓迎！日本語Ok👌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com",
+                "end": 23,
+                "expanded_url": "http://www.bilibili.com",
+                "start": 0,
+                "url": "https://t.co/htDqS0L7QX"
+              }
+            ]
+          }
+        },
+        "id": "1617864671406751745",
+        "is_identity_verified": false,
+        "location": "Sai Kung District, Hong Kong",
+        "most_recent_tweet_id": "2092236840602644789",
+        "name": "鈴木空(スズキソラ)",
+        "pinned_tweet_id": "1963627369500909877",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1617864671406751745/1677243154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629099821067014144/OxsSNNBd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 1657,
+          "like_count": 2726,
+          "listed_count": 9,
+          "media_count": 42,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/htDqS0L7QX",
+        "username": "Jxh6O",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

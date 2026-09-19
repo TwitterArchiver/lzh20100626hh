@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2097727439111876734",
+    "created_at": "2026-09-10T07:13:02.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097946435723690487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964331185590718464",
+          "start": 0,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097946435723690487",
+    "in_reply_to_user_id": "1964331185590718464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097727439111876734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@breakcoreWTF 萌之萌之"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12747,
+        "height": 1280,
+        "media_key": "13_2097719741070843904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097719741070843904/img/KFjOIxn4sFAGpLT5.jpg",
+        "public_metrics": {
+          "view_count": 270
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097719741070843904/vid/avc1/320x568/P9LogvacUoUnzyi-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097719741070843904/vid/avc1/480x852/nB6LSMziFgZmhZ8q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097719741070843904/vid/avc1/720x1280/Y0eB9GyOu9yQrU3D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097719741070843904/pl/OXFf3hSwgihg5iBj.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2097727439111876734",
+        "created_at": "2026-09-10T07:13:02.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097946435723690487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097946435723690487",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097727439111876734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 萌之萌之"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097719741070843904"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2097727439111876734",
+        "created_at": "2026-09-09T16:42:50.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097727439111876734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HDzCf5aIfG",
+              "end": 28,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2097727439111876734/video/1",
+              "media_key": "13_2097719741070843904",
+              "start": 5,
+              "url": "https://t.co/HDzCf5aIfG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097727439111876734",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097719741070843904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 830,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道 https://t.co/HDzCf5aIfG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "无🚪可以扩列但 ↓\n！！私信封了看不到消息也不能发消息！！\n想加我可以扫我置顶帖子赞赏码备注微信号，0.01也可以，基本都会通过",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "location": "尼古丁创造精神  酒精确定思想",
+        "most_recent_tweet_id": "2097946435723690487",
+        "name": "鸦",
+        "pinned_tweet_id": "2097705890682147024",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 0,
+          "like_count": 2139,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1710
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2097728089673662912",
+        "name": "箸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1788644554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 804,
+          "like_count": 47482,
+          "listed_count": 0,
+          "media_count": 465,
+          "tweet_count": 8388
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

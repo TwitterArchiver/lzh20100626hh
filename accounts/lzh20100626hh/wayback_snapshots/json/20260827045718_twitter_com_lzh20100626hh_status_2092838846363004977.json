@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092273541051731968"
+      ],
+      "media_source_tweet_id": [
+        "2092273568729985490"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2092838846363004977",
+    "created_at": "2026-08-27T04:57:18.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T05:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092838846363004977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1267337384087126016",
+          "start": 3,
+          "username": "Depression23ame"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QLbn8Rk6Vg",
+          "end": 47,
+          "expanded_url": "https://x.com/Depression23ame/status/2092273568729985490/video/1",
+          "media_key": "13_2092273541051731968",
+          "start": 24,
+          "url": "https://t.co/QLbn8Rk6Vg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092838846363004977",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "13_2092273541051731968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3904
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092273568729985490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Depression23ame: Yo https://t.co/QLbn8Rk6Vg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10933,
+        "height": 900,
+        "media_key": "13_2092273541051731968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092273541051731968/img/ZGjHk1Ko52R9cvYe.jpg",
+        "public_metrics": {
+          "view_count": 155731
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092273541051731968/vid/avc1/320x400/6ePUHMHClBqUIrv1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092273541051731968/vid/avc1/480x600/Tl1G7GZELyyj_xhZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092273541051731968/vid/avc1/720x900/lCrbjMavcvABVOSY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092273541051731968/pl/4dGYN5D1Nos6CPq2.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092273541051731968"
+          ],
+          "media_source_tweet_id": [
+            "2092273568729985490"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2092838846363004977",
+        "created_at": "2026-08-27T04:57:18.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092838846363004977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1267337384087126016",
+              "start": 3,
+              "username": "Depression23ame"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QLbn8Rk6Vg",
+              "end": 47,
+              "expanded_url": "https://x.com/Depression23ame/status/2092273568729985490/video/1",
+              "media_key": "13_2092273541051731968",
+              "start": 24,
+              "url": "https://t.co/QLbn8Rk6Vg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092838846363004977",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "13_2092273541051731968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3904
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092273568729985490",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Depression23ame: Yo https://t.co/QLbn8Rk6Vg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092273541051731968"
+          ]
+        },
+        "author_id": "1267337384087126016",
+        "conversation_id": "2092273568729985490",
+        "created_at": "2026-08-25T15:31:06.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T16:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092273568729985490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QLbn8Rk6Vg",
+              "end": 26,
+              "expanded_url": "https://x.com/Depression23ame/status/2092273568729985490/video/1",
+              "media_key": "13_2092273541051731968",
+              "start": 3,
+              "url": "https://t.co/QLbn8Rk6Vg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092273568729985490",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "13_2092273541051731968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2338,
+          "impression_count": 371329,
+          "like_count": 24400,
+          "quote_count": 103,
+          "reply_count": 58,
+          "retweet_count": 3904
+        },
+        "reply_settings": "everyone",
+        "text": "Yo https://t.co/QLbn8Rk6Vg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092838846363004977",
+        "name": "鸦",
+        "pinned_tweet_id": "2085713205536628786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 411,
+          "like_count": 2063,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1604
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-01T06:09:22.000Z",
+        "description": "INFJ, LOS ODIO A TODOS no queda esperanza en nada ni nadie tengo 24 años soy hombre mido 1.64",
+        "id": "1267337384087126016",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092837699862360471",
+        "name": ".",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267337384087126016/1782669786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083436062823546880/ph5c_s8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 563,
+          "like_count": 17966,
+          "listed_count": 0,
+          "media_count": 3390,
+          "tweet_count": 16253
+        },
+        "url": "",
+        "username": "Depression23ame",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

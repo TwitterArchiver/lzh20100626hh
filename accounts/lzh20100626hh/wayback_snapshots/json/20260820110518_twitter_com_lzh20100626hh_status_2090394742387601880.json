@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2090394742387601880",
+    "created_at": "2026-08-20T11:05:18.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T12:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090394742387601880"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2090394742387601880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉好搞笑啊我操好像在装逼。我可以特开心的学习。我其实在学习。我出门我爸妈以为我出去鬼混乱花钱就好了。我连学习都不能是因为喜欢因为想学。我明明能特别开心的用自己的双腿往前跑为什么要把我的腿拆掉换成拐杖 温柔的说这拐杖是我们付出一切换来的你要快点长出腿 等我习惯了拐杖再说多亏了我们。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2090394742387601880",
+        "created_at": "2026-08-20T11:05:18.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090394742387601880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090394742387601880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉好搞笑啊我操好像在装逼。我可以特开心的学习。我其实在学习。我出门我爸妈以为我出去鬼混乱花钱就好了。我连学习都不能是因为喜欢因为想学。我明明能特别开心的用自己的双腿往前跑为什么要把我的腿拆掉换成拐杖 温柔的说这拐杖是我们付出一切换来的你要快点长出腿 等我习惯了拐杖再说多亏了我们。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090394742387601880",
+        "name": "鸦",
+        "pinned_tweet_id": "2085713205536628786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 396,
+          "like_count": 1997,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1575
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

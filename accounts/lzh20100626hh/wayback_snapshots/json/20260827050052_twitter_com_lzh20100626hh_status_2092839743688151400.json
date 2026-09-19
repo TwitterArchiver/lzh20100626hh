@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2092839743688151400",
+    "created_at": "2026-08-27T05:00:52.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T06:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092839743688151400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/idiever2252641…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/idiever2252641/status/2092184880046379379",
+          "start": 5,
+          "url": "https://t.co/YsEca6MJMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092839743688151400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092184880046379379",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "萌的想哭 https://t.co/YsEca6MJMB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 89933,
+        "height": 720,
+        "media_key": "13_2092039946702053377",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092039946702053377/img/JRjtDtvv0lP45EXj.jpg",
+        "public_metrics": {
+          "view_count": 42470
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092039946702053377/vid/avc1/360x270/Djr3HBiOtT0aMC6B.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092039946702053377/vid/avc1/480x360/tUbfftkbdIxszJSJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092039946702053377/vid/avc1/960x720/KQcTN_O8_2YGuvRp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092039946702053377/pl/RXdLlYnJm_43TEov.m3u8?tag=14"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2092839743688151400",
+        "created_at": "2026-08-27T05:00:52.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092839743688151400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/idiever2252641…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/idiever2252641/status/2092184880046379379",
+              "start": 5,
+              "url": "https://t.co/YsEca6MJMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092839743688151400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092184880046379379",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "萌的想哭 https://t.co/YsEca6MJMB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092039946702053377"
+          ],
+          "media_source_tweet_id": [
+            "2092040022371537404"
+          ]
+        },
+        "author_id": "1988975446973894656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092184880046379379",
+        "created_at": "2026-08-25T09:38:40.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092184880046379379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yAfEWpvpMi",
+              "end": 44,
+              "expanded_url": "https://x.com/RebornCluster/status/2092040022371537404/video/1",
+              "media_key": "13_2092039946702053377",
+              "start": 21,
+              "url": "https://t.co/yAfEWpvpMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092184880046379379",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2092039946702053377"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 374,
+          "impression_count": 62092,
+          "like_count": 1157,
+          "quote_count": 69,
+          "reply_count": 2,
+          "retweet_count": 315
+        },
+        "reply_settings": "everyone",
+        "text": "이 엔딩진짜 느껴야됨 너무 사랑스러워 https://t.co/yAfEWpvpMi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092839743688151400",
+        "name": "鸦",
+        "pinned_tweet_id": "2085713205536628786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 411,
+          "like_count": 2066,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1606
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-13T14:21:23.000Z",
+        "description": "니얼굴 응시 1시간-야랄자극",
+        "id": "1988975446973894656",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092820024474120691",
+        "name": "엔젤이유언장ver.2",
+        "pinned_tweet_id": "2090091878649942433",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988975446973894656/1763043832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988975546051751940/edGqQKes_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 246,
+          "like_count": 9660,
+          "listed_count": 0,
+          "media_count": 728,
+          "tweet_count": 9903
+        },
+        "url": "",
+        "username": "idiever2252641",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

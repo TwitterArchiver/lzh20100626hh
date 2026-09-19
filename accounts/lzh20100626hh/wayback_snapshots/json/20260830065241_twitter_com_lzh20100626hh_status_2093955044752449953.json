@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093955006093479936",
+        "3_2093955014960312320",
+        "3_2093955025672552448",
+        "3_2093955035063586816"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2093955044752449953",
+    "created_at": "2026-08-30T06:52:41.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T07:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093955044752449953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nuuUafOYKS",
+          "end": 54,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2093955044752449953/photo/1",
+          "media_key": "3_2093955006093479936",
+          "start": 31,
+          "url": "https://t.co/nuuUafOYKS"
+        },
+        {
+          "display_url": "pic.x.com/nuuUafOYKS",
+          "end": 54,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2093955044752449953/photo/1",
+          "media_key": "3_2093955014960312320",
+          "start": 31,
+          "url": "https://t.co/nuuUafOYKS"
+        },
+        {
+          "display_url": "pic.x.com/nuuUafOYKS",
+          "end": 54,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2093955044752449953/photo/1",
+          "media_key": "3_2093955025672552448",
+          "start": 31,
+          "url": "https://t.co/nuuUafOYKS"
+        },
+        {
+          "display_url": "pic.x.com/nuuUafOYKS",
+          "end": 54,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2093955044752449953/photo/1",
+          "media_key": "3_2093955035063586816",
+          "start": 31,
+          "url": "https://t.co/nuuUafOYKS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093955044752449953",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093955006093479936"
+      },
+      {
+        "media_key": "3_2093955014960312320"
+      },
+      {
+        "media_key": "3_2093955025672552448"
+      },
+      {
+        "media_key": "3_2093955035063586816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我他妈很怀念我24年25年的化妆技术诶谁能看出来我特么14岁 https://t.co/nuuUafOYKS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2356,
+        "media_key": "3_2093955006093479936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ84-9naUAAlkn1.jpg",
+        "width": 1272
+      },
+      {
+        "height": 3821,
+        "media_key": "3_2093955014960312320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ84_epbcAAEHLb.jpg",
+        "width": 2238
+      },
+      {
+        "height": 3803,
+        "media_key": "3_2093955025672552448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ85AGjbQAAYbuP.jpg",
+        "width": 2230
+      },
+      {
+        "height": 3788,
+        "media_key": "3_2093955035063586816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ85ApibEAAUw-y.jpg",
+        "width": 2375
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093955006093479936",
+            "3_2093955014960312320",
+            "3_2093955025672552448",
+            "3_2093955035063586816"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2093955044752449953",
+        "created_at": "2026-08-30T06:52:41.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T07:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093955044752449953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nuuUafOYKS",
+              "end": 54,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2093955044752449953/photo/1",
+              "media_key": "3_2093955006093479936",
+              "start": 31,
+              "url": "https://t.co/nuuUafOYKS"
+            },
+            {
+              "display_url": "pic.x.com/nuuUafOYKS",
+              "end": 54,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2093955044752449953/photo/1",
+              "media_key": "3_2093955014960312320",
+              "start": 31,
+              "url": "https://t.co/nuuUafOYKS"
+            },
+            {
+              "display_url": "pic.x.com/nuuUafOYKS",
+              "end": 54,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2093955044752449953/photo/1",
+              "media_key": "3_2093955025672552448",
+              "start": 31,
+              "url": "https://t.co/nuuUafOYKS"
+            },
+            {
+              "display_url": "pic.x.com/nuuUafOYKS",
+              "end": 54,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2093955044752449953/photo/1",
+              "media_key": "3_2093955035063586816",
+              "start": 31,
+              "url": "https://t.co/nuuUafOYKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093955044752449953",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093955006093479936"
+          },
+          {
+            "media_key": "3_2093955014960312320"
+          },
+          {
+            "media_key": "3_2093955025672552448"
+          },
+          {
+            "media_key": "3_2093955035063586816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈很怀念我24年25年的化妆技术诶谁能看出来我特么14岁 https://t.co/nuuUafOYKS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093955044752449953",
+        "name": "鸦",
+        "pinned_tweet_id": "2085713205536628786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 411,
+          "like_count": 2071,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1610
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

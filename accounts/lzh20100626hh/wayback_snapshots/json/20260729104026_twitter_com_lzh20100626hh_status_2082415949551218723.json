@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2082251596147425687",
+    "created_at": "2026-07-29T10:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082415949551218723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675444856288870401",
+          "start": 0,
+          "username": "Maedarikuonly1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082415949551218723",
+    "in_reply_to_user_id": "1675444856288870401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082251596147425687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maedarikuonly1 刚25年的时候白云山那个一颗十五"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2082251596147425687",
+        "created_at": "2026-07-29T10:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082415949551218723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675444856288870401",
+              "start": 0,
+              "username": "Maedarikuonly1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082415949551218723",
+        "in_reply_to_user_id": "1675444856288870401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082251596147425687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maedarikuonly1 刚25年的时候白云山那个一颗十五"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675444856288870401",
+        "conversation_id": "2082251596147425687",
+        "created_at": "2026-07-28T23:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082251596147425687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082251596147425687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 803,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚做梦梦见我到了一个药店，柜台上写着单方右美，我一问不要处方我说这么好多少钱一颗，店员说一颗十三"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 395,
+          "like_count": 1949,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1513
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "location": "Украина",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 239,
+          "like_count": 4127,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1357
+        },
+        "url": "",
+        "username": "Maedarikuonly1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2094061498738086031",
+    "created_at": "2026-08-30T17:13:52.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T18:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094111372854624356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2036099373608968192",
+          "start": 0,
+          "username": "szh80268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094111372854624356",
+    "in_reply_to_user_id": "2036099373608968192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094080517314675143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szh80268 我喜欢你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2094061498738086031",
+        "created_at": "2026-08-30T17:13:52.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094111372854624356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2036099373608968192",
+              "start": 0,
+              "username": "szh80268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094111372854624356",
+        "in_reply_to_user_id": "2036099373608968192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094080517314675143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szh80268 我喜欢你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036099373608968192",
+        "conversation_id": "2094061498738086031",
+        "created_at": "2026-08-30T15:11:16.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094080517314675143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094080517314675143",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094061498738086031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh 好美呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094111372854624356",
+        "name": "鸦",
+        "pinned_tweet_id": "2085713205536628786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 410,
+          "like_count": 2093,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1639
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T15:15:03.000Z",
+        "description": "沒事可以找我聊天喔",
+        "id": "2036099373608968192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094092297126477950",
+        "name": "素直",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036859816908619776/LYTzS830_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 351,
+          "like_count": 922,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 2404
+        },
+        "url": "",
+        "username": "szh80268",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

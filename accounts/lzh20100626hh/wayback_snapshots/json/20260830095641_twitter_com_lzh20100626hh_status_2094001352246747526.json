@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093303592790982656"
+      ],
+      "media_source_tweet_id": [
+        "2093303599036314086"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094001352246747526",
+    "created_at": "2026-08-30T09:56:41.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T10:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094001352246747526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1661349504069804032",
+          "start": 3,
+          "username": "Zhuo2018"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tsgpiKHaek",
+          "end": 49,
+          "expanded_url": "https://x.com/Zhuo2018/status/2093303599036314086/photo/1",
+          "media_key": "3_2093303592790982656",
+          "start": 26,
+          "url": "https://t.co/tsgpiKHaek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094001352246747526",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093303592790982656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093303599036314086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @Zhuo2018: 你这是不是就有点幽默了 https://t.co/tsgpiKHaek"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093303592790982656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzoht9bAAAL-Vn.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093303592790982656"
+          ],
+          "media_source_tweet_id": [
+            "2093303599036314086"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094001352246747526",
+        "created_at": "2026-08-30T09:56:41.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094001352246747526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1661349504069804032",
+              "start": 3,
+              "username": "Zhuo2018"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsgpiKHaek",
+              "end": 49,
+              "expanded_url": "https://x.com/Zhuo2018/status/2093303599036314086/photo/1",
+              "media_key": "3_2093303592790982656",
+              "start": 26,
+              "url": "https://t.co/tsgpiKHaek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094001352246747526",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093303592790982656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093303599036314086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @Zhuo2018: 你这是不是就有点幽默了 https://t.co/tsgpiKHaek"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093303592790982656"
+          ]
+        },
+        "author_id": "1661349504069804032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093303599036314086",
+        "created_at": "2026-08-28T11:44:04.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093303599036314086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsgpiKHaek",
+              "end": 35,
+              "expanded_url": "https://x.com/Zhuo2018/status/2093303599036314086/photo/1",
+              "media_key": "3_2093303592790982656",
+              "start": 12,
+              "url": "https://t.co/tsgpiKHaek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093303599036314086",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093303592790982656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 134517,
+          "like_count": 797,
+          "quote_count": 12,
+          "reply_count": 140,
+          "retweet_count": 26
+        },
+        "reply_settings": "other",
+        "text": "你这是不是就有点幽默了 https://t.co/tsgpiKHaek"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094001352246747526",
+        "name": "鸦",
+        "pinned_tweet_id": "2085713205536628786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 409,
+          "like_count": 2082,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1620
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-24T12:32:54.000Z",
+        "description": "be what you wanna be",
+        "id": "1661349504069804032",
+        "is_identity_verified": false,
+        "location": "游戏热爱者",
+        "most_recent_tweet_id": "2093982224362447239",
+        "name": "Zhuo 🔪",
+        "pinned_tweet_id": "2092992608079646852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1661349504069804032/1777184569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048286608919859201/L97COj9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 366,
+          "like_count": 873,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 593
+        },
+        "url": "",
+        "username": "Zhuo2018",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2082328593942864338",
+    "created_at": "2026-07-29T08:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082383973922308220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767122266414882816",
+          "start": 0,
+          "username": "shu_fan0228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082383973922308220",
+    "in_reply_to_user_id": "1767122266414882816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082328593942864338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shu_fan0228 好美哦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082328574980444160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXqzmla0AAhqc9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082328574988812288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXqzmnagAAiiep.jpg",
+        "width": 1430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2082328593942864338",
+        "created_at": "2026-07-29T08:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082383973922308220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767122266414882816",
+              "start": 0,
+              "username": "shu_fan0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082383973922308220",
+        "in_reply_to_user_id": "1767122266414882816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082328593942864338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shu_fan0228 好美哦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082328574980444160",
+            "3_2082328574988812288"
+          ]
+        },
+        "author_id": "1767122266414882816",
+        "conversation_id": "2082328593942864338",
+        "created_at": "2026-07-29T04:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082328593942864338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xduJHGDq9",
+              "end": 27,
+              "expanded_url": "https://x.com/shu_fan0228/status/2082328593942864338/photo/1",
+              "media_key": "3_2082328574980444160",
+              "start": 4,
+              "url": "https://t.co/3xduJHGDq9"
+            },
+            {
+              "display_url": "pic.x.com/3xduJHGDq9",
+              "end": 27,
+              "expanded_url": "https://x.com/shu_fan0228/status/2082328593942864338/photo/1",
+              "media_key": "3_2082328574988812288",
+              "start": 4,
+              "url": "https://t.co/3xduJHGDq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082328593942864338",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hi。 https://t.co/3xduJHGDq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2058086945105092622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 395,
+          "like_count": 1948,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1512
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T09:36:16.000Z",
+        "description": "(o^^o)",
+        "id": "1767122266414882816",
+        "name": "临死前最后一顿饭要吃什么好？",
+        "pinned_tweet_id": "2071318336601030813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081039190616412160/fja64vW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 171,
+          "like_count": 3444,
+          "listed_count": 3,
+          "media_count": 753,
+          "tweet_count": 4561
+        },
+        "url": "",
+        "username": "shu_fan0228",
+        "verified": false
+      }
+    ]
+  }
+}

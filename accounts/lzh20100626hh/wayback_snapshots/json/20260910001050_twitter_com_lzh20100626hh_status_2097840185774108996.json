@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2096317538640806046",
+    "created_at": "2026-09-10T00:10:50.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T01:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097840185774108996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2093688603486687232",
+          "start": 0,
+          "username": "4xgfo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097840185774108996",
+    "in_reply_to_user_id": "2093688603486687232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096360015183663237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4xgfo2 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2096317538640806046",
+        "created_at": "2026-09-10T00:10:50.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T01:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097840185774108996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2093688603486687232",
+              "start": 0,
+              "username": "4xgfo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097840185774108996",
+        "in_reply_to_user_id": "2093688603486687232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096360015183663237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4xgfo2 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093688603486687232",
+        "conversation_id": "2096317538640806046",
+        "created_at": "2026-09-05T22:09:10.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T23:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096360015183663237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096360015183663237",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096317538640806046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh 长得真牛逼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "无🚪可以扩列不过  ↓\n！！私信封了看不到消息也不能发消息！！\n想加我可以扫我置顶帖子赞赏码备注微信号，0.01也可以因为我不是为了赚钱，基本都会通过",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "location": "尼古丁创造精神  酒精确定思想",
+        "most_recent_tweet_id": "2097840185774108996",
+        "name": "鸦",
+        "pinned_tweet_id": "2097705890682147024",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 441,
+          "like_count": 2130,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1698
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T13:15:11.000Z",
+        "description": "",
+        "id": "2093688603486687232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096401341912588337",
+        "name": "禾",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096353235632279552/9iZ98WX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 4,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "4xgfo2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

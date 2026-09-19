@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097944106924462080"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2097944114725814657",
+    "created_at": "2026-09-10T07:03:49.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097944114725814657"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Z1oF7pCOj",
+          "end": 31,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2097944114725814657/photo/1",
+          "media_key": "3_2097944106924462080",
+          "start": 8,
+          "url": "https://t.co/5Z1oF7pCOj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097944114725814657",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097944106924462080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别这样好吗。。 https://t.co/5Z1oF7pCOj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2799,
+        "media_key": "3_2097944106924462080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1lDMPbUAAz7Qk.jpg",
+        "width": 1271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097944106924462080"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097944114725814657",
+        "created_at": "2026-09-10T07:03:49.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097944114725814657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Z1oF7pCOj",
+              "end": 31,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2097944114725814657/photo/1",
+              "media_key": "3_2097944106924462080",
+              "start": 8,
+              "url": "https://t.co/5Z1oF7pCOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097944114725814657",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097944106924462080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别这样好吗。。 https://t.co/5Z1oF7pCOj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "无🚪可以扩列但 ↓\n！！私信封了看不到消息也不能发消息！！\n想加我可以扫我置顶帖子赞赏码备注微信号，0.01也可以，基本都会通过",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "location": "尼古丁创造精神  酒精确定思想",
+        "most_recent_tweet_id": "2097944114725814657",
+        "name": "鸦",
+        "pinned_tweet_id": "2097705890682147024",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 0,
+          "like_count": 2138,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1709
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

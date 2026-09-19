@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2090463218292633807",
+    "created_at": "2026-08-20T15:37:24.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T16:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090463218292633807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2043636692989685760",
+          "start": 3,
+          "username": "Haoxiangsiaaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090463218292633807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 316
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088947505023295654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Haoxiangsiaaaa: 中国要是不禁枪我觉得校园这一块能超越老美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2090463218292633807",
+        "created_at": "2026-08-20T15:37:24.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090463218292633807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2043636692989685760",
+              "start": 3,
+              "username": "Haoxiangsiaaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090463218292633807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 316
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088947505023295654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Haoxiangsiaaaa: 中国要是不禁枪我觉得校园这一块能超越老美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043636692989685760",
+        "conversation_id": "2088947505023295654",
+        "created_at": "2026-08-16T11:14:30.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088947505023295654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088947505023295654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 915608,
+          "like_count": 11144,
+          "quote_count": 47,
+          "reply_count": 961,
+          "retweet_count": 316
+        },
+        "reply_settings": "everyone",
+        "text": "中国要是不禁枪我觉得校园这一块能超越老美"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090463218292633807",
+        "name": "鸦",
+        "pinned_tweet_id": "2085713205536628786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 396,
+          "like_count": 2000,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1577
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T10:26:33.000Z",
+        "description": "第四世 互关回家quq",
+        "id": "2043636692989685760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089681934863732881",
+        "name": "泡泡",
+        "pinned_tweet_id": "2088196150776189008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043636692989685760/1780673568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086656120500994048/STpdO1R-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 40,
+          "like_count": 1099,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "Haoxiangsiaaaa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

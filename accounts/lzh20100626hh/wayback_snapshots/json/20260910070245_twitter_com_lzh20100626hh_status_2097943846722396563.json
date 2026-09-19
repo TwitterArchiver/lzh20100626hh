@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097259691114205184"
+      ],
+      "media_source_tweet_id": [
+        "2097259704724721944"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "conversation_id": "2097943846722396563",
+    "created_at": "2026-09-10T07:02:45.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097943846722396563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1322099241074880518",
+          "start": 3,
+          "username": "ikuta41"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s6B8RTowJw",
+          "end": 36,
+          "expanded_url": "https://x.com/ikuta41/status/2097259704724721944/photo/1",
+          "media_key": "3_2097259691114205184",
+          "start": 13,
+          "url": "https://t.co/s6B8RTowJw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097943846722396563",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2097259691114205184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122691
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097259704724721944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ikuta41: https://t.co/s6B8RTowJw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2097259691114205184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRr2k8qbkAAmuFt.jpg",
+        "width": 2686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097259691114205184"
+          ],
+          "media_source_tweet_id": [
+            "2097259704724721944"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2097943846722396563",
+        "created_at": "2026-09-10T07:02:45.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097943846722396563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1322099241074880518",
+              "start": 3,
+              "username": "ikuta41"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6B8RTowJw",
+              "end": 36,
+              "expanded_url": "https://x.com/ikuta41/status/2097259704724721944/photo/1",
+              "media_key": "3_2097259691114205184",
+              "start": 13,
+              "url": "https://t.co/s6B8RTowJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097943846722396563",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2097259691114205184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122691
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097259704724721944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ikuta41: https://t.co/s6B8RTowJw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097259691114205184"
+          ]
+        },
+        "author_id": "1322099241074880518",
+        "conversation_id": "2097259704724721944",
+        "created_at": "2026-09-08T09:44:13.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097259704724721944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6B8RTowJw",
+              "end": 23,
+              "expanded_url": "https://x.com/ikuta41/status/2097259704724721944/photo/1",
+              "media_key": "3_2097259691114205184",
+              "start": 0,
+              "url": "https://t.co/s6B8RTowJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097259704724721944",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2097259691114205184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117917,
+          "impression_count": 20918729,
+          "like_count": 915339,
+          "quote_count": 6623,
+          "reply_count": 1139,
+          "retweet_count": 122695
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/s6B8RTowJw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "无🚪可以扩列但 ↓\n！！私信封了看不到消息也不能发消息！！\n想加我可以扫我置顶帖子赞赏码备注微信号，0.01也可以，基本都会通过",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "location": "尼古丁创造精神  酒精确定思想",
+        "most_recent_tweet_id": "2097943846722396563",
+        "name": "鸦",
+        "pinned_tweet_id": "2097705890682147024",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 0,
+          "like_count": 2138,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1708
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-30T08:53:37.000Z",
+        "description": "contact▶︎▷ ikutaj0041@gmail.com Instagram▶︎▷https://t.co/T8RHIysAEi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ikuta_ikuta41",
+                "end": 67,
+                "expanded_url": "http://instagram.com/ikuta_ikuta41",
+                "start": 44,
+                "url": "https://t.co/T8RHIysAEi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/28025925",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/28025925",
+                "start": 0,
+                "url": "https://t.co/gOdCylraah"
+              }
+            ]
+          }
+        },
+        "id": "1322099241074880518",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097259704724721944",
+        "name": "幾田",
+        "pinned_tweet_id": "2000125282926440723",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1322099241074880518/1702643382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767357340066738176/y_kUFp1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286799,
+          "following_count": 339,
+          "like_count": 3794,
+          "listed_count": 1563,
+          "media_count": 140,
+          "tweet_count": 632
+        },
+        "url": "https://t.co/gOdCylraah",
+        "username": "ikuta41",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
