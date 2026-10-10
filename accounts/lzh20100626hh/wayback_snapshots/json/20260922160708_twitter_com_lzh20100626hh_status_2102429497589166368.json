@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2102425743305404471",
+    "created_at": "2026-09-22T16:07:08.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T17:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102429497589166368"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2102429497589166368",
+    "in_reply_to_user_id": "2000658943144812548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102428476343296251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我特么这个压力真不吃。我觉得好玩死了好难绷呀一帮小孩来的。我们绝交吧因为你下课没跟我一起走。你为什么跟我玩还要找她说话。班里除了请假剩十几个人了那几个名和事传都传一圈了。我今天第一次在这上了完整的一天课"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2102425743305404471",
+        "created_at": "2026-09-22T16:07:08.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T17:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102429497589166368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102429497589166368",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102428476343296251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我特么这个压力真不吃。我觉得好玩死了好难绷呀一帮小孩来的。我们绝交吧因为你下课没跟我一起走。你为什么跟我玩还要找她说话。班里除了请假剩十几个人了那几个名和事传都传一圈了。我今天第一次在这上了完整的一天课"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2102425743305404471",
+        "created_at": "2026-09-22T16:03:04.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T17:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102428476343296251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102428476343296251",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102425743305404471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我作业都被撕了划了呀。因为自习写作业她们看不惯所以被划了牛逼666的。书也被抢了要拓的纸也被抢。大纸也被搞坏了。我想着补一下笔记全班没一个写好了的。历史老师逃课了。班任牛逼的呀不教我我去哪给你写对。对不起我不会时光穿梭也不会读心术。后桌霸凌妹不识字焚书坑儒四个字读成禁书坑懦。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "无🚪可以扩列但 ↓\n！！私信封了看不到消息也不能发消息！！\n微信也封了\n想加我扫置顶帖赞赏码备注微信号，0.01也可以，除封号都会通过",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "location": "尼古丁创造精神  酒精确定思想",
+        "most_recent_tweet_id": "2102429497589166368",
+        "name": "鸦",
+        "pinned_tweet_id": "2097705890682147024",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 438,
+          "like_count": 2193,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1787
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

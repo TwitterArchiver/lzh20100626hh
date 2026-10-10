@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2102787420441973172",
+    "created_at": "2026-09-23T15:49:23.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T16:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102787420441973172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1664646791797833728",
+          "start": 3,
+          "username": "_YurA_613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102787420441973172",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2187
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102309758447518119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @_YurA_613: 隣に住んでる中国人の女の子\n\nさっき外で会った時\nぼくのリスカ跡見つけて\n\n「今日を頑張って生きてる証拠ですね」\n\nってカタコトの日本語で言ってくれて涙出た"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2102787420441973172",
+        "created_at": "2026-09-23T15:49:23.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102787420441973172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1664646791797833728",
+              "start": 3,
+              "username": "_YurA_613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102787420441973172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2187
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102309758447518119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @_YurA_613: 隣に住んでる中国人の女の子\n\nさっき外で会った時\nぼくのリスカ跡見つけて\n\n「今日を頑張って生きてる証拠ですね」\n\nってカタコトの日本語で言ってくれて涙出た"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664646791797833728",
+        "conversation_id": "2102309758447518119",
+        "created_at": "2026-09-22T08:11:20.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102309758447518119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102309758447518119",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1924,
+          "impression_count": 1166857,
+          "like_count": 52907,
+          "quote_count": 155,
+          "reply_count": 0,
+          "retweet_count": 2187
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "隣に住んでる中国人の女の子\n\nさっき外で会った時\nぼくのリスカ跡見つけて\n\n「今日を頑張って生きてる証拠ですね」\n\nってカタコトの日本語で言ってくれて涙出た"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "无🚪可以扩列但 ↓\n！！私信封了看不到消息也不能发消息！！\n微信也封了\n想加我扫置顶帖赞赏码备注微信号，0.01也可以，除封号都会通过",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "location": "尼古丁创造精神  酒精确定思想",
+        "most_recent_tweet_id": "2102787420441973172",
+        "name": "鸦",
+        "pinned_tweet_id": "2097705890682147024",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 439,
+          "like_count": 2201,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 1801
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-02T14:55:18.000Z",
+        "description": "本垢【 @_YurA_o0____ 】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "_YurA_o0____"
+              }
+            ]
+          }
+        },
+        "id": "1664646791797833728",
+        "is_identity_verified": false,
+        "location": "『不安定』であることが『安定』",
+        "most_recent_tweet_id": "2102309758447518119",
+        "name": "10.4",
+        "pinned_tweet_id": "1729079506223407451",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1664646791797833728/1749572766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664647415801212929/Ioz09lTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6091,
+          "following_count": 1,
+          "like_count": 1621,
+          "listed_count": 21,
+          "media_count": 522,
+          "tweet_count": 2347
+        },
+        "url": "",
+        "username": "_YurA_613",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

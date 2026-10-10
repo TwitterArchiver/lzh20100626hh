@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2086426300185719015",
+    "created_at": "2026-08-10T05:41:33.000Z",
+    "display_text_range": [
+      9,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086689385949389168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1490543758160527361",
+          "start": 0,
+          "username": "Qiu1647"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086689385949389168",
+    "in_reply_to_user_id": "1490543758160527361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086498037552349546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiu1647 谢谢！(*/ω＼*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2086426300185719015",
+        "created_at": "2026-08-10T05:41:33.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086689385949389168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1490543758160527361",
+              "start": 0,
+              "username": "Qiu1647"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086689385949389168",
+        "in_reply_to_user_id": "1490543758160527361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086498037552349546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiu1647 谢谢！(*/ω＼*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490543758160527361",
+        "conversation_id": "2086426300185719015",
+        "created_at": "2026-08-09T17:01:12.000Z",
+        "display_text_range": [
+          15,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086498037552349546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086498037552349546",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086426300185719015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh 是不是接睫毛引起的，注意卫生"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神 酒精确定思想",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086689385949389168",
+        "name": "鸦",
+        "pinned_tweet_id": "2085713205536628786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 395,
+          "like_count": 1977,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1556
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-07T04:32:15.000Z",
+        "description": "你的冠军梦和你自身一样毫无意义",
+        "id": "1490543758160527361",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086672676773401000",
+        "name": "外域亡灵领主",
+        "pinned_tweet_id": "2069697873407840521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490543758160527361/1764013442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069696929601101824/TQAElZ4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 1558,
+          "like_count": 68113,
+          "listed_count": 6,
+          "media_count": 632,
+          "tweet_count": 17443
+        },
+        "url": "",
+        "username": "Qiu1647",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

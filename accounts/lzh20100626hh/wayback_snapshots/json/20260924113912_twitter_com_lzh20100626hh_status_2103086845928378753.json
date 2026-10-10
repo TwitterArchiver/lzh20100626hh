@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103086824784801793"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103086845928378753",
+    "created_at": "2026-09-24T11:39:12.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T12:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103086845928378753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SoNbX1EOdJ",
+          "end": 30,
+          "expanded_url": "https://x.com/lzh20100626hh/status/2103086845928378753/photo/1",
+          "media_key": "3_2103086824784801793",
+          "start": 7,
+          "url": "https://t.co/SoNbX1EOdJ"
+        },
+        {
+          "display_url": "x.com/erikpalmer3000…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/erikpalmer3000/status/2102392224323391589",
+          "start": 31,
+          "url": "https://t.co/s5SNwj7XPB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103086845928378753",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103086824784801793"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102392224323391589",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和闺蜜有缘分 https://t.co/SoNbX1EOdJ https://t.co/s5SNwj7XPB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2103086824784801793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-qUxMaMAEasgh.jpg",
+        "width": 1461
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102392211413340160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0yk8vXEAAp34q.jpg",
+        "width": 1050
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102392218635931648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0ylXpXEAAYZBG.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103086824784801793"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103086845928378753",
+        "created_at": "2026-09-24T11:39:12.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103086845928378753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SoNbX1EOdJ",
+              "end": 30,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2103086845928378753/photo/1",
+              "media_key": "3_2103086824784801793",
+              "start": 7,
+              "url": "https://t.co/SoNbX1EOdJ"
+            },
+            {
+              "display_url": "x.com/erikpalmer3000…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/erikpalmer3000/status/2102392224323391589",
+              "start": 31,
+              "url": "https://t.co/s5SNwj7XPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103086845928378753",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103086824784801793"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102392224323391589",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和闺蜜有缘分 https://t.co/SoNbX1EOdJ https://t.co/s5SNwj7XPB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102392211413340160",
+            "3_2102392218635931648"
+          ]
+        },
+        "author_id": "2042398454937231360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2102392224323391589",
+        "created_at": "2026-09-22T13:39:01.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T14:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102392224323391589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZN5fJmkCZt",
+              "end": 93,
+              "expanded_url": "https://x.com/erikpalmer3000/status/2102392224323391589/photo/1",
+              "media_key": "3_2102392211413340160",
+              "start": 70,
+              "url": "https://t.co/ZN5fJmkCZt"
+            },
+            {
+              "display_url": "pic.x.com/ZN5fJmkCZt",
+              "end": 93,
+              "expanded_url": "https://x.com/erikpalmer3000/status/2102392224323391589/photo/1",
+              "media_key": "3_2102392218635931648",
+              "start": 70,
+              "url": "https://t.co/ZN5fJmkCZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102392224323391589",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2102392211413340160"
+          },
+          {
+            "media_key": "3_2102392218635931648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3234,
+          "impression_count": 2707376,
+          "like_count": 102433,
+          "quote_count": 1165,
+          "reply_count": 907,
+          "retweet_count": 8994
+        },
+        "reply_settings": "everyone",
+        "text": "He hecho un bizcocho con toda mi ilusión y le ha salido un puto ojete https://t.co/ZN5fJmkCZt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "无🚪可以扩列但 ↓\n！！私信封了看不到消息也不能发消息！！\n微信也封了\n想加我扫置顶帖赞赏码备注微信号，0.01也可以，除封号都会通过",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "location": "尼古丁创造精神  酒精确定思想",
+        "most_recent_tweet_id": "2103086845928378753",
+        "name": "鸦",
+        "pinned_tweet_id": "2097705890682147024",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 436,
+          "like_count": 2217,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1811
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-10T00:25:12.000Z",
+        "description": "buena persona",
+        "id": "2042398454937231360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102752852259242465",
+        "name": "Erik Palmer",
+        "pinned_tweet_id": "2047388330271109392",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042398454937231360/1777473354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053790508212756480/ug6C7kWC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 346,
+          "like_count": 18318,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 2035
+        },
+        "url": "",
+        "username": "erikpalmer3000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

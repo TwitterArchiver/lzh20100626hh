@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2097705890682147024",
+    "created_at": "2026-09-09T15:17:12.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T16:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097705890682147024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lzh20100626hh/…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/lzh20100626hh/status/2097704771780284704",
+          "start": 26,
+          "url": "https://t.co/5eOwN7WrwH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097705890682147024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097704771780284704",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是一个简陋的自介，在我做好完美自介前我将使用这个 https://t.co/5eOwN7WrwH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1221,
+        "media_key": "3_2097704763693633536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyLXlOakAAS2X1.jpg",
+        "width": 1221
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2097705890682147024",
+        "created_at": "2026-09-09T15:17:12.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097705890682147024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lzh20100626hh/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/lzh20100626hh/status/2097704771780284704",
+              "start": 26,
+              "url": "https://t.co/5eOwN7WrwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097705890682147024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097704771780284704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是一个简陋的自介，在我做好完美自介前我将使用这个 https://t.co/5eOwN7WrwH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097704763693633536"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2097704771780284704",
+        "created_at": "2026-09-09T15:12:45.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097704771780284704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNB3xIOCgZ",
+              "end": 92,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2097704771780284704/photo/1",
+              "media_key": "3_2097704763693633536",
+              "start": 69,
+              "url": "https://t.co/hNB3xIOCgZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097704771780284704",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097704763693633536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸦鸦┃🔪💊已戒断┃无🚪┃🚬🍺┃女┃IP长春┃双性恋┃友一切┃朋友脑┃我的精神病怎么还没好┃绝望的同人女┃只是一个傻逼┃私信封了联系看简介 https://t.co/hNB3xIOCgZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "无🚪可以扩列不过  ↓\n！！私信封了看不到消息也不能发消息！！\n想加我可以扫我置顶帖子赞赏码备注微信号，0.01也可以因为我不是为了赚钱，基本都会通过",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "location": "尼古丁创造精神  酒精确定思想",
+        "most_recent_tweet_id": "2097705890682147024",
+        "name": "鸦",
+        "pinned_tweet_id": "2085713205536628786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 425,
+          "like_count": 2116,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1686
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

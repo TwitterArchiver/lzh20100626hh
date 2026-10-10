@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2101668242343498099",
+    "created_at": "2026-09-20T13:42:10.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T14:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101668242343498099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2090104945521659904",
+          "start": 3,
+          "username": "Xiaolingii9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101668242343498099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 503
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100853335591113106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaolingii9: 抱歉女士，你因为手上有疤，这边判定你为没有抗压能力且情绪极端，社会已经不需要你了，进厂都没门，你去跳楼吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2101668242343498099",
+        "created_at": "2026-09-20T13:42:10.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T14:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101668242343498099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2090104945521659904",
+              "start": 3,
+              "username": "Xiaolingii9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101668242343498099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 503
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100853335591113106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaolingii9: 抱歉女士，你因为手上有疤，这边判定你为没有抗压能力且情绪极端，社会已经不需要你了，进厂都没门，你去跳楼吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090104945521659904",
+        "conversation_id": "2100853335591113106",
+        "created_at": "2026-09-18T07:44:01.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100853335591113106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100853335591113106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 69646,
+          "like_count": 3342,
+          "quote_count": 40,
+          "reply_count": 166,
+          "retweet_count": 503
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉女士，你因为手上有疤，这边判定你为没有抗压能力且情绪极端，社会已经不需要你了，进厂都没门，你去跳楼吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "无🚪可以扩列但 ↓\n！！私信封了看不到消息也不能发消息！！\n微信也封了\n想加我扫置顶帖赞赏码备注微信号，0.01也可以，除封号都会通过",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "location": "尼古丁创造精神  酒精确定思想",
+        "most_recent_tweet_id": "2101668242343498099",
+        "name": "鸦",
+        "pinned_tweet_id": "2097705890682147024",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 439,
+          "like_count": 2194,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1777
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T15:55:42.000Z",
+        "description": "爱说废话的人",
+        "id": "2090104945521659904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101628153307234420",
+        "name": "灸",
+        "pinned_tweet_id": "2101025045292130324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090104945521659904/1789055120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101495916020871168/k9z52SsM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 112,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 269
+        },
+        "url": "",
+        "username": "Xiaolingii9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000658943144812548",
+    "conversation_id": "2103097401196339662",
+    "created_at": "2026-09-24T12:21:08.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T13:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103097401196339662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1619021081238732802",
+          "start": 3,
+          "username": "love__bbh__lks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103097401196339662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102790491351798209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @love__bbh__lks: 我特别享受那种，在朋友堆里面，我突然接了一句很简短但是很有梗话，大家先是先是愣了一下然后爆发出大笑作势要打死我的那种氛围。甚至之后隔一段时间还会把当时的笑料拿出来说。我感觉我的人生就是为了此刻而生的呀...就是要让大家都注视着我都因为我开…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000658943144812548",
+        "conversation_id": "2103097401196339662",
+        "created_at": "2026-09-24T12:21:08.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T13:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103097401196339662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1619021081238732802",
+              "start": 3,
+              "username": "love__bbh__lks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103097401196339662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102790491351798209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @love__bbh__lks: 我特别享受那种，在朋友堆里面，我突然接了一句很简短但是很有梗话，大家先是先是愣了一下然后爆发出大笑作势要打死我的那种氛围。甚至之后隔一段时间还会把当时的笑料拿出来说。我感觉我的人生就是为了此刻而生的呀...就是要让大家都注视着我都因为我开…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619021081238732802",
+        "conversation_id": "2102790491351798209",
+        "created_at": "2026-09-23T16:01:35.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T17:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102790491351798209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102790491351798209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 21302,
+          "like_count": 1336,
+          "quote_count": 7,
+          "reply_count": 47,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "我特别享受那种，在朋友堆里面，我突然接了一句很简短但是很有梗话，大家先是先是愣了一下然后爆发出大笑作势要打死我的那种氛围。甚至之后隔一段时间还会把当时的笑料拿出来说。我感觉我的人生就是为了此刻而生的呀...就是要让大家都注视着我都因为我开心呀..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "无🚪可以扩列但 ↓\n！！私信封了看不到消息也不能发消息！！\n微信也封了\n想加我扫置顶帖赞赏码备注微信号，0.01也可以，除封号都会通过",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "location": "尼古丁创造精神  酒精确定思想",
+        "most_recent_tweet_id": "2103097401196339662",
+        "name": "鸦",
+        "pinned_tweet_id": "2097705890682147024",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 436,
+          "like_count": 2231,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1814
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-27T17:14:49.000Z",
+        "description": "(｡- .•)如果你看了我的帖子觉得不舒服，恭喜你你怀了我的宝宝啦。恋爱中。大号发帖限制中....小号：@douquchishiba。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 52,
+                "username": "douquchishiba"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/love__bbh__lks…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/love__bbh__lks19554",
+                "start": 0,
+                "url": "https://t.co/dQepIU4D8p"
+              }
+            ]
+          }
+        },
+        "id": "1619021081238732802",
+        "is_identity_verified": false,
+        "location": "匿名信箱👉🏻",
+        "most_recent_tweet_id": "2103089993748988022",
+        "name": "珏",
+        "pinned_tweet_id": "1891429284020957559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1619021081238732802/1738463406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062554787258970112/ahfCxp7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3208,
+          "following_count": 355,
+          "like_count": 21701,
+          "listed_count": 4,
+          "media_count": 2166,
+          "tweet_count": 14846
+        },
+        "url": "https://t.co/dQepIU4D8p",
+        "username": "love__bbh__lks",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

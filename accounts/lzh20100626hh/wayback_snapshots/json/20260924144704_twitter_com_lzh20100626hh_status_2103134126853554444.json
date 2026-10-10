@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097332749510299649",
+        "3_2097332749506097152"
+      ],
+      "media_source_tweet_id": [
+        "2097332760834875902",
+        "2097332760834875902"
+      ]
+    },
+    "author_id": "2000658943144812548",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103134126853554444",
+    "created_at": "2026-09-24T14:47:04.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T15:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103134126853554444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "357539288",
+          "start": 3,
+          "username": "rin917_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eRhcgaOUAu",
+          "end": 79,
+          "expanded_url": "https://x.com/rin917_8964/status/2097332760834875902/photo/1",
+          "media_key": "3_2097332749510299649",
+          "start": 56,
+          "url": "https://t.co/eRhcgaOUAu"
+        },
+        {
+          "display_url": "pic.x.com/eRhcgaOUAu",
+          "end": 79,
+          "expanded_url": "https://x.com/rin917_8964/status/2097332760834875902/photo/1",
+          "media_key": "3_2097332749506097152",
+          "start": 56,
+          "url": "https://t.co/eRhcgaOUAu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103134126853554444",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097332749510299649"
+      },
+      {
+        "media_key": "3_2097332749506097152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097332760834875902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rin917_8964: 你们好我是霖，前世（x）两千fo再次被奶龙口角，寻回推友想你们，，，，求转喵 https://t.co/eRhcgaOUAu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097332749510299649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRs5BgZa0AE6jT-.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097332749506097152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRs5BgYasAAvEA-.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097332749510299649",
+            "3_2097332749506097152"
+          ],
+          "media_source_tweet_id": [
+            "2097332760834875902",
+            "2097332760834875902"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103134126853554444",
+        "created_at": "2026-09-24T14:47:04.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T15:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103134126853554444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "357539288",
+              "start": 3,
+              "username": "rin917_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eRhcgaOUAu",
+              "end": 79,
+              "expanded_url": "https://x.com/rin917_8964/status/2097332760834875902/photo/1",
+              "media_key": "3_2097332749510299649",
+              "start": 56,
+              "url": "https://t.co/eRhcgaOUAu"
+            },
+            {
+              "display_url": "pic.x.com/eRhcgaOUAu",
+              "end": 79,
+              "expanded_url": "https://x.com/rin917_8964/status/2097332760834875902/photo/1",
+              "media_key": "3_2097332749506097152",
+              "start": 56,
+              "url": "https://t.co/eRhcgaOUAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103134126853554444",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097332749510299649"
+          },
+          {
+            "media_key": "3_2097332749506097152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097332760834875902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rin917_8964: 你们好我是霖，前世（x）两千fo再次被奶龙口角，寻回推友想你们，，，，求转喵 https://t.co/eRhcgaOUAu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097332749510299649",
+            "3_2097332749506097152"
+          ]
+        },
+        "author_id": "357539288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097332760834875902",
+        "created_at": "2026-09-08T14:34:31.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097332760834875902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eRhcgaOUAu",
+              "end": 62,
+              "expanded_url": "https://x.com/rin917_8964/status/2097332760834875902/photo/1",
+              "media_key": "3_2097332749510299649",
+              "start": 39,
+              "url": "https://t.co/eRhcgaOUAu"
+            },
+            {
+              "display_url": "pic.x.com/eRhcgaOUAu",
+              "end": 62,
+              "expanded_url": "https://x.com/rin917_8964/status/2097332760834875902/photo/1",
+              "media_key": "3_2097332749506097152",
+              "start": 39,
+              "url": "https://t.co/eRhcgaOUAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097332760834875902",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097332749510299649"
+          },
+          {
+            "media_key": "3_2097332749506097152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5596,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "你们好我是霖，前世（x）两千fo再次被奶龙口角，寻回推友想你们，，，，求转喵 https://t.co/eRhcgaOUAu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "无🚪可以扩列但 ↓\n！！私信封了看不到消息也不能发消息！！\n微信也封了\n想加我扫置顶帖赞赏码备注微信号，0.01也可以，除封号都会通过",
+        "id": "2000658943144812548",
+        "is_identity_verified": false,
+        "location": "尼古丁创造精神  酒精确定思想",
+        "most_recent_tweet_id": "2103134126853554444",
+        "name": "鸦",
+        "pinned_tweet_id": "2097705890682147024",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000658943144812548/1765829483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 436,
+          "like_count": 2233,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1817
+        },
+        "url": "",
+        "username": "lzh20100626hh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk，拿了我的钱还这样我他妈的\n同类互fo🤤\n🚪52开放朋友圈不线下\n爱大家喵\n被爆大号@IiRin_00917_QwQ\n里号@yumumu_msknb\n姐姐大人@NEKONO14\n😹🫶@woaiuai0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "IiRin_00917_QwQ"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 93,
+                "start": 84,
+                "username": "NEKONO14"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "woaiuai0721"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "is_identity_verified": false,
+        "location": "msk身后",
+        "most_recent_tweet_id": "2103126087798825406",
+        "name": "传奇病娇18.霖",
+        "pinned_tweet_id": "2097332760834875902",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357539288/1789783693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079816271148023808/1pDQllIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 461,
+          "like_count": 2953,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 1787
+        },
+        "url": "",
+        "username": "rin917_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
